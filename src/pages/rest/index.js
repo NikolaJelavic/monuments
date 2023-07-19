@@ -10,7 +10,7 @@ export default function Rest() {
       <>
       <Header/>
       <Navbar/>
-      
+      <p className="text-center text-xl">Rest</p>
       </>
     )
 };

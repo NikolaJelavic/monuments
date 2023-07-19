@@ -31,10 +31,7 @@
 
 
 
-
-
-
- import Image from "next/image"
+import Image from "next/image"
 export default function index() {
                                                    // lg 1024px       md 768px        sm 640px
 

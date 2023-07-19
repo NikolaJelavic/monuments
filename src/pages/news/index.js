@@ -10,7 +10,7 @@ export default function News() {
       <>
       <Header/>
       <Navbar/>
-      
+      <p className="text-center text-xl">News</p>
       </>
     )
 };
