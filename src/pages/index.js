@@ -1,6 +1,6 @@
-// import Navbar from "../../src"
-import Navbar from "../../src/components/Navbar"
 import Header from "../../src/components/Header"
+
+import Navbar from "../pages/navbar/navbar.js"
 
 
 export default function Home() {
@@ -8,7 +8,6 @@ export default function Home() {
     <main>
       <Header/>
       <Navbar/>
-      {/* <p>Text</p> */}
     </main>
   )
 }
