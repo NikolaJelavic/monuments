@@ -10,7 +10,7 @@ export default function Quiz() {
       <>
       <Header/>
       <Navbar/>
-      
+      <p className="text-center text-xl">Quiz</p>
       </>
     )
 };

@@ -10,7 +10,7 @@ export default function Monuments() {
       <>
       <Header/>
       <Navbar/>
-      
+      <p className="text-center text-xl">Monuments</p>
       </>
     )
 };
