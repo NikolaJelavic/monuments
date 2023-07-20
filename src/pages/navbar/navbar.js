@@ -19,7 +19,7 @@ export default function Navbar() {
         <Link href="/news">News</Link>
       </li>
       <li>
-        <Link href="/rest">Rest</Link>
+        <Link href="/ipsum">Ipsum</Link>
       </li>
       <li>
         <Link href="/contact">Contact</Link>
