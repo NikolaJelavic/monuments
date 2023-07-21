@@ -31,7 +31,7 @@ export default function App() {
   return (
     
     
-      <Swiper watchSlidesProgress={true} slidesPerView={8} className="mySwiper">
+      <Swiper watchSlidesProgress={true} slidesPerView={9} className="mySwiper">
         {/* <SwiperSlide>Slide 1</SwiperSlide> */}
        
         <SwiperSlide><Image src={"/img/monuments/Podgaric/podgaric.jpg"} alt="podgaric" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
