@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Map, { Marker, Popup } from 'react-map-gl';
 import useSWR from 'swr';
 import Image from 'next/image';
+import Filter from '../Filter/filter';
 
 const mapboxAccessToken = process.env.MAPBOX_TOKEN;
 
@@ -31,6 +32,7 @@ export default function MonumentsMaps() {
   };
 
   return (
+    <>
     <Map
       mapboxAccessToken={mapboxAccessToken}
       initialViewState={initialViewState}
@@ -56,7 +58,10 @@ export default function MonumentsMaps() {
             </Popup>
           )}
         </Marker>
+        
       ))}
     </Map>
+    <Filter/>
+    </>
   );
 }
