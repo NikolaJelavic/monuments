@@ -32,8 +32,8 @@ export default function MonumentsMaps() {
   };
 
   return (
-    <>
-    <Map
+    <div className='mt-5'>
+    <Map  
       mapboxAccessToken={mapboxAccessToken}
       initialViewState={initialViewState}
       style={{ width: 1000, height: 850 }}
@@ -62,6 +62,6 @@ export default function MonumentsMaps() {
       ))}
     </Map>
     <Filter/>
-    </>
+    </div>
   );
 }
