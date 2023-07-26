@@ -32,7 +32,7 @@ export default function MonumentsMaps() {
   };
 
   return (
-    <div className='mt-5'>
+    <div className=''>
     <Map  
       mapboxAccessToken={mapboxAccessToken}
       initialViewState={initialViewState}

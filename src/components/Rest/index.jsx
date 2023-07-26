@@ -11,8 +11,8 @@ const Rest = () => {
   };
 
   return (
-    <div>
-      <ul className="absolute bg-red-600 ">
+    <div >
+      <ul className="absolute bg-red-600 z-10">
       <li className="p-2">
           <Link href="/quiz">Quiz</Link>
         </li>
