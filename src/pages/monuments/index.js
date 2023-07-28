@@ -1,6 +1,7 @@
 import Header from "../../../src/components/Header";
 import Navbar from "../navbar/navbar";
-import MonumentsMap from "@/components/MonumentsMap";
+// import MonumentsMap from "@/components/MonumentsMap";
+import MonumentsMaps from "../../components/MonumentsMap/index";
 
 export default function Monuments() {
   return (
@@ -8,7 +9,7 @@ export default function Monuments() {
       <Header />
       <Navbar />
       <div className="flex justify-center ">
-        <MonumentsMap />
+        <MonumentsMaps />
       </div>
     </>
   );
