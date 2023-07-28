@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import Map, { Marker, Popup } from 'react-map-gl';
 import useSWR from 'swr';
 import Image from 'next/image';
@@ -11,14 +11,16 @@ const fetcher = (...args) => fetch(...args).then((res) => res.json());
 export default function MonumentsMaps() {
   const [selectedMonument, setSelectedMonument] = useState(null);
   const [selectedState, setSelectedState] = useState(null);
-
+  const [popup, setPopUp] = useState(false)
   const { data, error } = useSWR("/api/monuments", fetcher);
 
-  if (error) return <div>Failed to load</div>;
+
+  if (error) return <div>Failed to load, turn off the VPN</div>;
   if (!data) return <div>Loading...</div>;
 
   const handleMarkerClick = (monumentName) => {
     setSelectedMonument(monumentName);
+    console.log("monumentName",monumentName);
   };
 
   const handlePopupClose = () => {
@@ -42,31 +44,67 @@ export default function MonumentsMaps() {
         mapboxAccessToken={mapboxAccessToken}
         initialViewState={initialViewState}
         style={{ width: 825, height: 705 }}
+        // style={{ width: "100%", height: "100%" }}
         mapStyle="mapbox://styles/mapbox/streets-v12"
       >
         {filteredMonuments.map((monument) => (
-          <Marker
-            key={monument.name}
-            longitude={parseFloat(monument.longitude)}
-            latitude={parseFloat(monument.latitude)}
-          >
-            <Image src="/img/pin/redStar.png" alt="logo" width={20} height={20} />
-
-            <div onClick={() => handleMarkerClick(monument.name)}></div>
-
-            {selectedMonument === monument.name && (
-              <Popup
-                longitude={parseFloat(monument.longitude)}
-                latitude={parseFloat(monument.latitude)}
-                anchor="bottom"
-                onClose={() => handlePopupClose()}
-                style={{ zIndex: 1000 }}
-              >
-                <div>You are here</div>
-              </Popup>
-            )}
+         <Marker
+         key={monument.name}
+         longitude={monument.longitude}
+         latitude={monument.latitude}
+         anchor="bottom"
+       >
+            <Image  onClick={() => {setPopUp(true),handleMarkerClick(monument.name)}} src="/img/pin/redStar.png" alt="logo" width={20} height={20} />
           </Marker>
         ))}
+        {/*popup starts here */}
+          {/* {popup && (
+          <>
+            {filteredMonuments.map((item) => {
+              if (item.name === selectedMonument) {
+                console.log("suuposedly", item)
+                return (
+                  <Popup
+                    key={item.name}
+                    longitude={parseFloat(item.longitude)}
+                    latitude={parseFloat(item.latitude)}
+                    anchor="bottom"
+                    onClose={() => {
+                      setPopUp(false);
+                      handlePopupClose();
+                    }}
+                    // style={{ zIndex: 1000, width }}
+                    className="fixed w-100 h-100 z-10"
+                  >
+                    <div   >You are here</div>
+                  </Popup>
+                );
+              } else {
+                return null;
+              }
+            })}
+          </>
+
+        )} */}
+           {popup && selectedMonument && (
+            <div
+              key={selectedMonument.name}
+              name={selectedMonument.name}
+              longitude={selectedMonument.longitude}
+              latitude={selectedMonument.latitude}
+              anchor="bottom"
+              onClose={() => {
+                setPopUp(false);
+                handlePopupClose();
+              }}
+              // style={{ zIndex: 1000, width }}
+              className="relative w-100 h-100 bg-red-200"
+            >
+              Monument: {selectedMonument.name}
+            </div>
+            )}
+           
+
       </Map>
       <div className='absolute bottom-6 left-6 z-10'>
         <Filter data={data} selectedState={selectedState} setSelectedState={setSelectedState} />

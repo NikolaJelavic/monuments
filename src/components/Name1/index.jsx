@@ -1,8 +1,7 @@
-
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 
-const Rest = () => {
+export default function Name2 (){
   const router = useRouter();
 
   // Function to handle dropdown item click
@@ -14,21 +13,19 @@ const Rest = () => {
     <div >
       <ul className="absolute bg-red-600 z-10">
       <li className="p-2">
-          <Link href="/quiz">Quiz</Link>
-        </li>
         <li className="p-2">
-          <Link href="/news">News</Link>
+          <Link href="/monuments">Monuments</Link>
+        </li >
+        <li className="p-2"> 
+          <Link href="/heroes">Heroes</Link>
         </li>
         <li className="p-2">
           <Link href="/quotes">Quotes</Link>
         </li>
-        <li className="p-2">
-          <Link href="/ipsum">Ipsum</Link>
         </li>
-        
       </ul>
     </div>
   );
 };
 
-export default Rest;
+
