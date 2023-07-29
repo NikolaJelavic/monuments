@@ -25,3 +25,9 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+
+/* .slick-track {
+  margin-right: 0;
+  padding-right: 0;
+} */
