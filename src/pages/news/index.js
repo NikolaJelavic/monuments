@@ -126,13 +126,12 @@ export default function News() {
                   Ilirska Bistrica
                 </h3>
                 <p class="text-xl">
-                  In the village of Ilirska Bistrica, in the Green Karst (Zeleni
-                  kras) region of Slovenia, there is a spomenik complex a
+                  In the village of Ilirska Bistrica, in the Green Karst  region of Slovenia, there is a spomenik complex a
                   dedicated to the fighters of the 4th Yugoslavian Army who
                   liberated this area during WWII. The remains of 284 of these
                   soldiers who died during this fight are interred in a mass
                   tomb beneath the monument. In addition, this monument also
-                  honors the Partisan Prekomorski (Over-seas) brigades who
+                  honors the Partisan Prekomorski  brigades who
                   battled and fought in foreign lands.
                 </p>
               </div>
@@ -156,8 +155,7 @@ export default function News() {
                   <span>26. July 2023.</span>
                 </p>
                 <h3 class="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline">
-                  Monument to the Detachment in Brezovica Forest (Brezovica
-                  Spomen-Park)
+                  Monument to the Detachment in Brezovica Forest 
                 </h3>
                 <p class="text-xl">
                   This spomenik at Sisak commemorates the creation of the first
@@ -188,7 +186,7 @@ export default function News() {
                 </h3>
                 <p class="text-xl">
                   The Lepoglava Memorial Cemetery is a site in which
-                  commemorates the victims who died at the town's prison camp,
+                  commemorates the victims who died at the towns prison camp,
                   as well as the many thousands of people who were executed at
                   this site of the memorial during WWII.
                 </p>
