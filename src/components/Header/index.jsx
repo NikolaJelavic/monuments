@@ -84,8 +84,8 @@ const settings = {
   arrows: false,
   infinite: true,
   speed: 8000, // Adjust the speed to control how fast the carousel moves
-  slidesToShow: 4, // The number of items visible at once in the carousel
-  slidesToScroll: 1, // The number of items to scroll when clicking the navigation buttons
+  slidesToShow: 3, // The number of items visible at once in the carousel
+  // slidesToScroll: 1, // The number of items to scroll when clicking the navigation buttons
   autoplay: true,
   autoplaySpeed: 0, // Set autoplaySpeed to 0 to disable automatic scrolling
   cssEase: "linear", // Use linear easing for smoother continuous movement
