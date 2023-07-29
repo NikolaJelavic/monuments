@@ -12,7 +12,7 @@ export default function Name2 (){
   return (
     <div >
       <ul className="absolute bg-red-600 z-10">
-      <li className="p-2">
+      
         <li className="p-2">
           <Link href="/news">News</Link>
         </li>
@@ -22,7 +22,7 @@ export default function Name2 (){
         <li className="p-2">
           <Link href="/ipsum">Ipsum</Link>
         </li>
-        </li>
+        
       </ul>
     </div>
   );

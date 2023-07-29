@@ -15,8 +15,8 @@ export default function MonumentsMaps() {
   const { data, error } = useSWR("/api/monuments", fetcher);
 
 
+  if (!data) return <div><p><center>Loading...</center></p><br></br><p><center>Please turn of VPN if it is working</center></p></div>;
   if (error) return <div>Failed to load, turn off the VPN</div>;
-  if (!data) return <div>Loading...</div>;
 
   const handleMarkerClick = (monumentName) => {
     setSelectedMonument(monumentName);
