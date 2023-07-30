@@ -123,7 +123,7 @@ export default function Quiz() {
     <>
       <Header />
       <Navbar />
-      <div className="max-w-md mx-auto p-4 bg-white shadow-lg rounded-lg">
+      <div className="max-w-md mx-auto p-4 bg-white shadow-lg rounded-lg mt-10">
         {showScore ? (
           <div className="text-center">
             <h2 className="text-3xl font-bold">Quiz Result</h2>

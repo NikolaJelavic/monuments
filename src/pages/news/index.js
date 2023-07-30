@@ -17,7 +17,7 @@ export default function News() {
       <Navbar />
       <section class="py-24 lg:pt-28 lg:pb-32 bg-white overflow-hidden">
         <div class="container px-4 mx-auto">
-          <h2 class="font-heading mb-12 text-6xl tracking-tighter">
+          <h2 class="font-heading mb-12 text-6xl tracking-tighter text-center">
             New Articles
           </h2>
           <div class="flex flex-wrap -m-8">

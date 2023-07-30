@@ -40,7 +40,7 @@ export default function Navbar() {
       >
         <div className="relative">
           <span className="cursor-pointer">
-            Name1 ? &#x25BE;
+            Name1&#x25BE;
           </span>
           {isDropdownOpen1 && <Name1 />}
         </div>
@@ -54,7 +54,7 @@ export default function Navbar() {
       >
         <div className="relative">
           <span className="cursor-pointer">
-            Name2 ? &#x25BE;
+            Name2&#x25BE;
           </span>
           {isDropdownOpen2 && <Name2 />}
         </div>
