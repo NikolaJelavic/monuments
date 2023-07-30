@@ -60,8 +60,10 @@ export default function Navbar() {
         </div>
       </li>
       <li>
-        <Link href="/contact">Contact</Link>
+        <Link href="/contact" >Contact</Link>
       </li>
     </ul>
   );
 }
+
+// target="_blank"

@@ -15,57 +15,57 @@ export default function News() {
     <>
       <Header />
       <Navbar />
-      <section class="py-24 lg:pt-28 lg:pb-32 bg-white overflow-hidden">
-        <div class="container px-4 mx-auto">
-          <h2 class="font-heading mb-12 text-6xl tracking-tighter text-center">
+      <section className="py-24 lg:pt-28 lg:pb-32 bg-white overflow-hidden">
+        <div className="container px-4 mx-auto">
+          <h2 className="font-heading mb-12 text-6xl tracking-tighter text-center">
             New Articles
           </h2>
-          <div class="flex flex-wrap -m-8">
-            <div class="w-full md:w-1/2 p-8">
-              <div class="group cursor-pointer">
-                <div class="mb-6 overflow-hidden rounded-lg">
+          <div className="flex flex-wrap -m-8">
+            <div className="w-full md:w-1/2 p-8">
+              <div className="group cursor-pointer">
+                <div className="mb-6 overflow-hidden rounded-lg">
                   <Image
-                    class="w-full rounded-lg transform hover:scale-105 transition duration-500"
+                    className="w-full rounded-lg transform hover:scale-105 transition duration-500"
                     src="/img/monuments/Podgaric/podgaric.jpg"
                     alt="text"
                     width={400}
                     height={400}
                   />
                 </div>
-                <p class="mb-6 text-gray-500 font-medium tracking-tight">
-                  <span class="mr-4 text-indigo-500 font-semibold">
+                <p className="mb-6 text-gray-500 font-medium tracking-tight">
+                  <span className="mr-4 text-indigo-500 font-semibold">
                     Insights
                   </span>
                   <span>26. July 2023.</span>
                 </p>
-                <h3 class="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline">
+                <h3 className="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline">
                   Monument to the Revolution of the people of Moslavina
                 </h3>
-                <p class="text-xl">
+                <p className="text-xl">
                   The monument is about 10m tall and 20m wide. It is dedicated
                   to the people of Moslavina during World War II.
                 </p>
               </div>
             </div>
 
-            <div class="w-full md:w-1/2 p-8">
-              <div class="group cursor-pointer">
-                <div class="mb-6 overflow-hidden rounded-lg">
+            <div className="w-full md:w-1/2 p-8">
+              <div className="group cursor-pointer">
+                <div className="mb-6 overflow-hidden rounded-lg">
                   <Image
-                    class="w-full rounded-lg transform hover:scale-105 transition duration-500"
+                    className="w-full rounded-lg transform hover:scale-105 transition duration-500"
                     src="/img/monuments/Kosmaj/kosmaj.png"
                     alt="text"
                     width={400}
                     height={400}
                   />
                 </div>
-                <p class="mb-6 text-gray-500 font-medium tracking-tight">
+                <p className="mb-6 text-gray-500 font-medium tracking-tight">
                   <span class="mr-4 text-indigo-500 font-semibold">
                     Insights
                   </span>
                   <span>16. June 2023.</span>
                 </p>
-                <h3 class="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline">
+                <h3 className="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline">
                   Monument to the Fallen Soldiers of the Kosmaj Detachment
                 </h3>
                 <p class="text-xl">
@@ -102,24 +102,24 @@ export default function News() {
                 </p>
               </div>
             </div>
-            <div class="w-full md:w-1/2 p-8">
-              <div class="group cursor-pointer">
-                <div class="mb-6 overflow-hidden rounded-lg">
+            <div className="w-full md:w-1/2 p-8">
+              <div className="group cursor-pointer">
+                <div className="mb-6 overflow-hidden rounded-lg">
                   <Image
-                    class="w-full rounded-lg transform hover:scale-105 transition duration-500"
+                    className="w-full rounded-lg transform hover:scale-105 transition duration-500"
                     src="/img/monuments/Ilirska Bistrica/ilirskaBistrica.png"
                     alt="text"
                     width={400}
                     height={400}
                   />
                 </div>
-                <p class="mb-6 text-gray-500 font-medium tracking-tight">
-                  <span class="mr-4 text-indigo-500 font-semibold">
+                <p className="mb-6 text-gray-500 font-medium tracking-tight">
+                  <span className="mr-4 text-indigo-500 font-semibold">
                     Insights
                   </span>
                   <span>16. June 2023.</span>
                 </p>
-                <h3 class="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline">
+                <h3 className="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline">
                   Ilirska Bistrica
                 </h3>
                 <p class="text-xl">
@@ -134,24 +134,24 @@ export default function News() {
               </div>
             </div>
 
-            <div class="w-full md:w-1/2 p-8">
-              <div class="group cursor-pointer">
-                <div class="mb-6 overflow-hidden rounded-lg">
+            <div className="w-full md:w-1/2 p-8">
+              <div className="group cursor-pointer">
+                <div className="mb-6 overflow-hidden rounded-lg">
                   <Image
-                    class="w-full rounded-lg transform hover:scale-105 transition duration-500"
+                    className="w-full rounded-lg transform hover:scale-105 transition duration-500"
                     src="/img/monuments/Sisak/sisak.png"
                     alt="text"
                     width={400}
                     height={400}
                   />
                 </div>
-                <p class="mb-6 text-gray-500 font-medium tracking-tight">
-                  <span class="mr-4 text-indigo-500 font-semibold">
+                <p className="mb-6 text-gray-500 font-medium tracking-tight">
+                  <span className="mr-4 text-indigo-500 font-semibold">
                     Insights
                   </span>
                   <span>26. July 2023.</span>
                 </p>
-                <h3 class="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline">
+                <h3 className="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline">
                   Monument to the Detachment in Brezovica Forest
                 </h3>
                 <p class="text-xl">
@@ -161,9 +161,9 @@ export default function News() {
                 </p>
               </div>
             </div>
-            <div class="w-full md:w-1/2 p-8">
-              <div class="group cursor-pointer">
-                <div class="mb-6 overflow-hidden rounded-lg">
+            <div className="w-full md:w-1/2 p-8">
+              <div className="group cursor-pointer">
+                <div className="mb-6 overflow-hidden rounded-lg">
                   <Image
                     class="w-full rounded-lg transform hover:scale-105 transition duration-500"
                     src="/img/monuments/Lepoglava/lepoglava.jpg"
@@ -172,16 +172,16 @@ export default function News() {
                     height={400}
                   />
                 </div>
-                <p class="mb-6 text-gray-500 font-medium tracking-tight">
-                  <span class="mr-4 text-indigo-500 font-semibold">
+                <p className="mb-6 text-gray-500 font-medium tracking-tight">
+                  <span className="mr-4 text-indigo-500 font-semibold">
                     Insights
                   </span>
                   <span>16. June 2023.</span>
                 </p>
-                <h3 class="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline">
+                <h3 className="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline">
                   Lepoglava Memorial Graveyard (Spomen groblje Lepoglava)
                 </h3>
-                <p class="text-xl">
+                <p className="text-xl">
                   The Lepoglava Memorial Cemetery is a site in which
                   commemorates the victims who died at the towns prison camp, as
                   well as the many thousands of people who were executed at this

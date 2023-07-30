@@ -108,41 +108,12 @@ const settings = {
 export default function App() {
   return (
     <>
-      {/* <Swiper watchSlidesProgress={true} slidesPerView={9} className="mySwiper">
-        <SwiperSlide><Image src={"/img/monuments/Podgaric/podgaric.jpg"} alt="podgaric" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Kosmaj/kosmaj.png"} alt="kosmaj" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Tjentiste/Tjentiste.png"} alt="tjentiste" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Ilirska Bistrica/ilirskaBistrica.png"} alt="ilirskaBistrica" width={200} height={200} className="h-40 w-60" /></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Sisak/sisak.png"} alt="sisak" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Lepoglava/lepoglava.jpg"} alt="lepoglava" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Kozara/kozara.png"} alt="kozara" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Kragujevac/sumarice.jpg"} alt="sumarice" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Botun/botun.jpg"} alt="botun" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Belcista/belcista.jpg"} alt="belcista" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Lukovdol/lukovDol.jpg"} alt="lukovdol" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Jasenovac/jasenovac.png"} alt="jasenovac" width={200} height={200} className="h-40 w-60" /></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Obadov Brijeg/obadovBrijeg1.jpg"} alt="obadov brijeg" width={200} height={200} className="h-40 w-60" /></SwiperSlide>
-       
-        <SwiperSlide><Image src={"/img/monuments/Podgaric/podgaric.jpg"} alt="podgaric" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Kosmaj/kosmaj.png"} alt="kosmaj" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Tjentiste/Tjentiste.png"} alt="tjentiste" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Ilirska Bistrica/ilirskaBistrica.png"} alt="ilirskaBistrica" width={200} height={200} className="h-40 w-60" /></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Sisak/sisak.png"} alt="sisak" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Lepoglava/lepoglava.jpg"} alt="lepoglava" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Kozara/kozara.png"} alt="kozara" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Kragujevac/sumarice.jpg"} alt="sumarice" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Botun/botun.jpg"} alt="botun" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Belcista/belcista.jpg"} alt="belcista" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Lukovdol/lukovDol.jpg"} alt="lukovdol" width={200} height={200} className="h-40 w-60"/></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Jasenovac/jasenovac.png"} alt="jasenovac" width={200} height={200} className="h-40 w-60" /></SwiperSlide>
-        <SwiperSlide><Image src={"/img/monuments/Obadov Brijeg/obadovBrijeg1.jpg"} alt="obadov brijeg" width={200} height={200} className="h-40 w-60" /></SwiperSlide>
-        
-      </Swiper> */}
-  
-        <div watchSlidesProgress={true} slidesPerView={9} className="max-w-8xl mx-auto">
+
+{/* watchSlidesProgress={true} */}
+        <div  slidesperview={9} className="max-w-8xl mx-auto">
           <Slider {...settings}>
             {Images.map((item) => (
-              <div key={item.id} className="  ">
+              <div key={item.id} className=" object-cover ">
                 <Image src={item.src} alt={item.alt} width={200} height={200} style={{ marginRight: 0, paddingRight: 0 }} className="h-40 w-60 -mb-2" /> 
               </div>
             ))}
