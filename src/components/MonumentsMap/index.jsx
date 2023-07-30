@@ -3,6 +3,8 @@ import Map, { Marker, Popup } from 'react-map-gl';
 import useSWR from 'swr';
 import Image from 'next/image';
 import Filter from '../Filter/filter';
+import PopupComponent from '../Popup';
+import { useRouter } from 'next/router';
 
 const mapboxAccessToken = process.env.MAPBOX_TOKEN;
 
@@ -14,6 +16,7 @@ export default function MonumentsMaps() {
   const [popup, setPopUp] = useState(false)
   const { data, error } = useSWR("/api/monuments", fetcher);
 
+  const router = useRouter();
 
   if (!data) return <div>Loading...<br></br><p>Please turn of VPN if it is working</p></div>;
   if (error) return <div>Failed to load, turn off the VPN</div>;
@@ -67,30 +70,13 @@ export default function MonumentsMaps() {
         />
       </Marker>
         ))}
-           {popup && selectedMonument && (
-            // <Popup instead of div
-            <Popup
-              key={selectedMonument.name}
-              // name={selectedMonument.name}
-              longitude={selectedMonument.longitude}
-              latitude={selectedMonument.latitude}
-              anchor="bottom"
-              onClose={() => {
-                setPopUp(false);
-                // handlePopupClose();
-              }}
-              closeOnClick={false} // this was missing
-              // style={{ zIndex: 1000, width }}
-              className=" w-100 h-100 "
-            >
-              <div className='text-2xl bg-red-200 p-2 ' style={{ width: 200 }}>
-                <p className=' '>Monument: {selectedMonument.name}</p>
-                <p className=' '>Built in year: {selectedMonument.yearBuilt}.</p>
-                <p className=' '>Material used: {selectedMonument.materialUsed}.</p>
-              
-              </div>
-            </Popup>
-            )}
+       {popup && selectedMonument && (
+          <PopupComponent
+            selectedMonument={selectedMonument}
+            onClose={() => setPopUp(false)}
+            router={router} 
+          />
+        )}
            
 
       </Map>

@@ -1,4 +1,4 @@
-import Header from "../../../src/components/Header";
+import Header from "../../components/Header";
 import Navbar from "../navbar/navbar";
 // import MonumentsMap from "@/components/MonumentsMap";
 import MonumentsMaps from "../../components/MonumentsMap/index";
