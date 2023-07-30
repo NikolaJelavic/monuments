@@ -2,10 +2,11 @@ import React, { useState } from 'react';
 
 export default function Filter({ data, selectedState, setSelectedState }) {
   const [selectedOption, setSelectedOption] = useState('yugoslavia');
+  const [areButtonsVisible, setAreButtonsVisible] = useState(false); // State to manage button visibility
 
   const handleOptionClick = (option) => {
     if (option === 'yugoslavia') {
-      setSelectedState(null); 
+      setSelectedState(null);
     } else {
       setSelectedState(option);
     }
@@ -13,7 +14,7 @@ export default function Filter({ data, selectedState, setSelectedState }) {
   };
 
   const filterMonuments = (monuments) => {
-    console.log("Selected State:", selectedState);
+    console.log('Selected State:', selectedState);
 
     if (!selectedState) return monuments;
 
@@ -35,13 +36,21 @@ export default function Filter({ data, selectedState, setSelectedState }) {
   // Apply filtering logic to the monuments
   const filteredMonuments = filterMonuments(data);
 
-  console.log("Filtered Monuments:", filteredMonuments);
+  console.log('Filtered Monuments:', filteredMonuments);
 
   return (
     <>
-      <div className='bg-red-400 flex flex-col w-28 rounded'>
+      <div
+        className='bg-red-400 flex flex-col w-28 rounded'
+        onMouseEnter={() => setAreButtonsVisible(true)} // Show buttons on hover
+        onMouseLeave={() => setAreButtonsVisible(false)} // Hide buttons when not hovering
+        onClick={() => setAreButtonsVisible((prev) => !prev)} // Toggle buttons on click
+      >
         <p className='w-40 bg-gray-400 rounded p-2'>Filter monuments by state or province</p>
-        <button
+        {/* Buttons are visible only when 'areButtonsVisible' is true */}
+        {areButtonsVisible && (
+          <>
+                <button
           className={selectedOption === 'yugoslavia' ? 'active' : ''}
           onClick={() => handleOptionClick('yugoslavia')}
         >
@@ -95,6 +104,8 @@ export default function Filter({ data, selectedState, setSelectedState }) {
         >
           SAP Kosovo
         </button>
+          </>
+        )}
       </div>
     </>
   );
