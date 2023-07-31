@@ -34,7 +34,7 @@ export default function Rest() {
       <Navbar />
       <div className="flex justify-center items-center flex-col">
         <h1 className="text-2xl mt-8 font-bold w-1/2 text-center">
-          Feel free to get in contact via email "nob-spomenici@gmail.com" or the
+          Feel free to get in contact via email nob-spomenici@gmail.com or the
           form below.
         </h1>
         <h1 className="text-2xl m-1 font-bold w-1/2 text-center">
