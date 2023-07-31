@@ -39,8 +39,16 @@ export default function Ipsum() {
     <>
       <Header />
       <Navbar />
-       <article className="text-center m-6 h-full">
+      <article className="text-center m-6">
         <h1 className="text-center text-5xl m-5">NOB Ipsum Generator</h1>
+        <p className="text-lg text-gray-700 lg:w-1/2 sm:w-5/6 mx-auto">
+          The &quot;NOB Ipsum Generator&quot; is  and creative tool that
+          placeholder text in the style of traditional Lorem Ipsum text, but
+          with a historical twist. Instead of the standard Lorem Ipsum, which
+          uses random Latin words, this generator uses a curated list of words
+          related to the history of the People&lsquo;s Liberation Struggle (NOB) in Yugoslavia during
+          World War II.
+        </p>
         <label htmlFor="numSentences" className="text-2xl">
           Number of Sentences:
         </label>
@@ -60,7 +68,7 @@ export default function Ipsum() {
           id="result"
           readOnly
           value={generatedLoremIpsum}
-          className="block mx-auto w-1/2 h-60 rounded-xl border-2 border-rose-600 p-5 sm:w-full md:w-1/2 shadow-md shadow-red-600" 
+          className="block mx-auto w-full lg:w-1/2 sm:w-5/6  h-60 rounded-xl border-2 border-rose-600 shadow-md shadow-red-600" 
         ></textarea>
       </article>
     </>

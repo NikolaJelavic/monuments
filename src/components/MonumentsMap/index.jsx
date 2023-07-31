@@ -18,9 +18,13 @@ export default function MonumentsMaps() {
   if (!data) return <div>Loading...<br></br><p>Please turn of VPN if it is working</p></div>;
   if (error) return <div>Failed to load, turn off the VPN</div>;
 
-  const handleMarkerClick = (monumentName) => {
-    setSelectedMonument(monumentName);
-    console.log("monumentName",monumentName);
+  // const handleMarkerClick = (monumentName) => {
+  //   setSelectedMonument(monumentName);
+  //   console.log("monumentName",monumentName);
+  // };
+  const handleMarkerClick = (monument) => {
+    setSelectedMonument(monument);
+    setPopUp(true);
   };
 
   const handlePopupClose = () => {
@@ -43,70 +47,54 @@ export default function MonumentsMaps() {
       <Map
         mapboxAccessToken={mapboxAccessToken}
         initialViewState={initialViewState}
-        style={{ width: 825, height: 705 }}
+        style={{ width: "100vw", height: "80vh" }}
         // style={{ width: "100%", height: "100%" }}
         mapStyle="mapbox://styles/mapbox/streets-v12"
       >
-        {filteredMonuments.map((monument) => (
-         <Marker
-         key={monument.name}
-         longitude={monument.longitude}
-         latitude={monument.latitude}
-         anchor="bottom"
-       >
-            <Image  onClick={() => {setPopUp(true),handleMarkerClick(monument.name)}} src="/img/pin/redStar.png" alt="logo" width={20} height={20} />
-          </Marker>
+      {filteredMonuments.map((monument) => (
+      <Marker
+        key={monument.name}
+        longitude={monument.longitude}
+        latitude={monument.latitude}
+        anchor="bottom"
+      >
+        <Image
+          onClick={() => handleMarkerClick(monument)} 
+          src="/img/pin/redStar.png"
+          alt="logo"
+          width={20}
+          height={20}
+        />
+      </Marker>
         ))}
-        {/*popup starts here */}
-          {/* {popup && (
-          <>
-            {filteredMonuments.map((item) => {
-              if (item.name === selectedMonument) {
-                console.log("suuposedly", item)
-                return (
-                  <Popup
-                    key={item.name}
-                    longitude={parseFloat(item.longitude)}
-                    latitude={parseFloat(item.latitude)}
-                    anchor="bottom"
-                    onClose={() => {
-                      setPopUp(false);
-                      handlePopupClose();
-                    }}
-                    // style={{ zIndex: 1000, width }}
-                    className="fixed w-100 h-100 z-10"
-                  >
-                    <div   >You are here</div>
-                  </Popup>
-                );
-              } else {
-                return null;
-              }
-            })}
-          </>
-
-        )} */}
            {popup && selectedMonument && (
-            <div
+            // <Popup instead of div
+            <Popup
               key={selectedMonument.name}
-              name={selectedMonument.name}
+              // name={selectedMonument.name}
               longitude={selectedMonument.longitude}
               latitude={selectedMonument.latitude}
               anchor="bottom"
               onClose={() => {
                 setPopUp(false);
-                handlePopupClose();
+                // handlePopupClose();
               }}
+              closeOnClick={false} // this was missing
               // style={{ zIndex: 1000, width }}
-              className="relative w-100 h-100 bg-red-200"
+              className=" w-100 h-100 "
             >
-              Monument: {selectedMonument.name}
-            </div>
+              <div className='text-2xl bg-red-200 p-2 ' style={{ width: 200 }}>
+                <p className=' '>Monument: {selectedMonument.name}</p>
+                <p className=' '>Built in year: {selectedMonument.yearBuilt}.</p>
+                <p className=' '>Material used: {selectedMonument.materialUsed}.</p>
+              
+              </div>
+            </Popup>
             )}
            
 
       </Map>
-      <div className='absolute bottom-6 left-6 z-10'>
+      <div className='absolute top-5 left-5'>
         <Filter data={data} selectedState={selectedState} setSelectedState={setSelectedState} />
       </div>
     </div>
