@@ -77,8 +77,6 @@ export default function MonumentsMaps() {
             router={router} 
           />
         )}
-           
-
       </Map>
       <div className='absolute top-5 left-5'>
         <Filter data={data} selectedState={selectedState} setSelectedState={setSelectedState} />
