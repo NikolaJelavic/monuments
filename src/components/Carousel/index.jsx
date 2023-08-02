@@ -52,7 +52,7 @@ console.log(monument.image);
         className="mySwiper"
       >
         {/* data.map or .map ?*/}
-        {monument.image.map((img, index) => (
+        {monument.images.map((img, index) => (
           
           <SwiperSlide key={index} >
             <Image src={img} alt={monument.name} width={200} height={200} />
