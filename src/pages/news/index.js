@@ -32,16 +32,16 @@ export default function News() {
                     height={400}
                   />
                 </div>
-                <p className="mb-6 text-gray-500 font-medium tracking-tight">
+                <p className="mb-6 text-gray-500 font-medium tracking-tight text-black">
                   <span className="mr-4 text-indigo-500 font-semibold">
                     Insights
                   </span>
                   <span>26. July 2023.</span>
                 </p>
-                <h3 className="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline">
+                <h3 className="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline text-black">
                   Monument to the Revolution of the people of Moslavina
                 </h3>
-                <p className="text-xl">
+                <p className="text-xl text-black">
                   The monument is about 10m tall and 20m wide. It is dedicated
                   to the people of Moslavina during World War II.
                 </p>
@@ -65,10 +65,10 @@ export default function News() {
                   </span>
                   <span>16. June 2023.</span>
                 </p>
-                <h3 className="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline">
+                <h3 className="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline text-black">
                   Monument to the Fallen Soldiers of the Kosmaj Detachment
                 </h3>
-                <p class="text-xl">
+                <p class="text-xl text-black">
                   Monument to Kosmaj partisan division from WWII on top of
                   Kosmaj mountain, near Belgrade, Serbia.
                 </p>
@@ -92,10 +92,10 @@ export default function News() {
                   </span>
                   <span>26. July 2023.</span>
                 </p>
-                <h3 class="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline">
+                <h3 class="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline text-black">
                   The Battle of Sutjeska Memorial Monument Complex
                 </h3>
-                <p class="text-xl">
+                <p class="text-xl text-black">
                   This spomenik at Tjentište commemorates the fighters and
                   fallen soldiers of the Battle of the Sutjeska, which took
                   place from May 15th to June 16th, 1943.
@@ -122,7 +122,7 @@ export default function News() {
                 <h3 className="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline">
                   Ilirska Bistrica
                 </h3>
-                <p class="text-xl">
+                <p class="text-xl text-black">
                   In the village of Ilirska Bistrica, in the Green Karst region
                   of Slovenia, there is a spomenik complex a dedicated to the
                   fighters of the 4th Yugoslavian Army who liberated this area
@@ -151,10 +151,10 @@ export default function News() {
                   </span>
                   <span>26. July 2023.</span>
                 </p>
-                <h3 className="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline">
+                <h3 className="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline text-black">
                   Monument to the Detachment in Brezovica Forest
                 </h3>
-                <p class="text-xl">
+                <p class="text-xl text-black">
                   This spomenik at Sisak commemorates the creation of the first
                   politically organized fighting brigade who resisted and fought
                   against Axis invasion of occupied lands of Croatia.
@@ -178,10 +178,10 @@ export default function News() {
                   </span>
                   <span>16. June 2023.</span>
                 </p>
-                <h3 className="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline">
+                <h3 className="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline text-black">
                   Lepoglava Memorial Graveyard (Spomen groblje Lepoglava)
                 </h3>
-                <p className="text-xl">
+                <p className="text-xl text-black">
                   The Lepoglava Memorial Cemetery is a site in which
                   commemorates the victims who died at the towns prison camp, as
                   well as the many thousands of people who were executed at this
