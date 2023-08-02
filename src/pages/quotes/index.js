@@ -54,7 +54,7 @@ export default function Quotes() {
       <Header />
       <Navbar />
       <div className="min-h-scree flex flex-col pt-20 items-center bg-gray-100">
-      <p className="mb-16 text-4xl">Press the button to get a random quote</p>
+      <p className="mb-16 text-4xl text-black"  >Press the button to get a random quote</p>
         <div className="max-w-xl w-full bg-white rounded-lg p-6 shadow-md">
           <button
             className="my-4 bg-red-400 hover:bg-red-500 text-black font-bold py-2 px-4 rounded w-full"
