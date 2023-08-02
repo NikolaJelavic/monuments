@@ -46,7 +46,7 @@ export default function Home() {
       />
       in Berlin and is part of the final project. Powered by React, Next.js,
       JavaScript, and Tailwind CSS, this website stands as a testament to
-      the student's skills in the world of modern web development.
+      the student&rsquo;s skills in the world of modern web development.
     </div>
   </div>
   <div className="w-full sm:w-3/4">
