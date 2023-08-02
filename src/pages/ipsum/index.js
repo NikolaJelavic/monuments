@@ -59,9 +59,9 @@ export default function Ipsum() {
           max="10"
           value={numSentences}
           onChange={(e) => setNumSentences(parseInt(e.target.value))}
-          className="m-1 text-center"
+          className="m-1 text-center text-black"
         />
-        <button onClick={generateLoremIpsum} className="m-1 bg-red-400 rounded-lg p-1 ">
+        <button onClick={generateLoremIpsum} className="m-1 bg-red-400 rounded-lg p-1 text-black">
           Generate
         </button>
         <textarea
