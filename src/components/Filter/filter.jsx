@@ -14,19 +14,19 @@ export default function Filter({ data, selectedState, setSelectedState }) {
   };
 
   const filterMonuments = (monuments) => {
-    console.log('Selected State:', selectedState);
+    // console.log('Selected State:', selectedState);
 
     if (!selectedState) return monuments;
 
     return monuments.filter((monument) => {
       // Use case-insensitive comparison by converting both values to lowercase
-      const monumentState = monument.state ? monument.state.toLowerCase() : '';
-      const selectedStateLower = selectedState.toLowerCase();
+      const monumentState = monument.state ? monument.state : '';
+      const selectedStateLower = selectedState;
 
       if (monumentState === selectedStateLower) return true;
 
       // Check if the monument's province matches the selected state
-      const monumentProvince = monument.province ? monument.province.toLowerCase() : '';
+      const monumentProvince = monument.province ? monument.province : '';
       if (monumentProvince === selectedStateLower) return true;
 
       return false;
@@ -36,7 +36,7 @@ export default function Filter({ data, selectedState, setSelectedState }) {
   // Apply filtering logic to the monuments
   const filteredMonuments = filterMonuments(data);
 
-  console.log('Filtered Monuments:', filteredMonuments);
+  // console.log('Filtered Monuments:', filteredMonuments);
 
   return (
     <>
@@ -46,7 +46,7 @@ export default function Filter({ data, selectedState, setSelectedState }) {
         onMouseLeave={() => setAreButtonsVisible(false)} // Hide buttons when not hovering
         onClick={() => setAreButtonsVisible((prev) => !prev)} // Toggle buttons on click
       >
-        <p className='w-40 bg-gray-400 rounded p-2'>Filter monuments by state or province</p>
+        <p className='w-40 bg-gray-400 rounded p-2'>Filter monuments by state/province ▾</p>
         {/* Buttons are visible only when 'areButtonsVisible' is true */}
         {areButtonsVisible && (
           <>

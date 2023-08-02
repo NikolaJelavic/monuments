@@ -68,7 +68,7 @@ export default function Ipsum() {
           id="result"
           readOnly
           value={generatedLoremIpsum}
-          className="block mx-auto w-full lg:w-1/2 sm:w-5/6  h-60 rounded-xl border-2 border-rose-600 shadow-md shadow-red-600" 
+          className="block mx-auto w-full lg:w-1/2 sm:w-5/6  h-60 rounded-xl border-2 border-rose-600 shadow-md shadow-red-600 text-black" 
         ></textarea>
       </article>
     </>

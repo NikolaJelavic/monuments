@@ -66,4 +66,4 @@ export default function Navbar() {
   );
 }
 
-// target="_blank"
+// target="_blank" ▾
