@@ -26,8 +26,34 @@ body {
     rgb(var(--background-start-rgb));
 }
 
-
 /* .slick-track {
   margin-right: 0;
   padding-right: 0;
+} */
+
+.swiper {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 400px !important;
+  height: 400px !important;
+}
+
+.swiper-slide img {
+  display: block;
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+/* .swiper-slide img {
+  display: block;
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
 } */

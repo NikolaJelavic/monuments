@@ -2,6 +2,7 @@ import { useRouter } from "next/router";
 import Header from "../../components/Header";
 import Navbar from "../navbar/navbar";
 import useSWR from "swr";
+import Carousel from "../../components/Carousel/index"
 
 const fetcher = (...args) => fetch(...args).then((res) => res.json());
 
@@ -38,6 +39,7 @@ export default function MonumentDetailsPage() {
     <>
       <Header />
       <Navbar />
+      <Carousel/>
       <div className="min-h-screen flex flex-col pt-20 items-center bg-gray-100 text-left">
         <h2 className="text-4xl">Name: {monument.name}</h2>
      
