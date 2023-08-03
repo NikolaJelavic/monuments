@@ -26,7 +26,7 @@ export default function News() {
                 <div className="mb-6 overflow-hidden rounded-lg">
                   <Image
                     className="w-full rounded-lg transform hover:scale-105 transition duration-500"
-                    src="/img/monuments/Podgaric/podgaric.jpg"
+                    src="/img/monuments/podgaric1.jpg"
                     alt="text"
                     width={400}
                     height={400}
@@ -53,7 +53,7 @@ export default function News() {
                 <div className="mb-6 overflow-hidden rounded-lg">
                   <Image
                     className="w-full rounded-lg transform hover:scale-105 transition duration-500"
-                    src="/img/monuments/Kosmaj/kosmaj.png"
+                    src="/img/monuments/kosmaj2.jpg"
                     alt="text"
                     width={400}
                     height={400}
@@ -80,7 +80,7 @@ export default function News() {
                 <div class="mb-6 overflow-hidden rounded-lg">
                   <Image
                     class="w-full rounded-lg transform hover:scale-105 transition duration-500"
-                    src="/img/monuments/Tjentiste/Tjentiste.png"
+                    src="/img/monuments/nikola-majksner-as_pS7EkK-Y-unsplash.jpg"
                     alt="text"
                     width={400}
                     height={400}
@@ -107,7 +107,7 @@ export default function News() {
                 <div className="mb-6 overflow-hidden rounded-lg">
                   <Image
                     className="w-full rounded-lg transform hover:scale-105 transition duration-500"
-                    src="/img/monuments/Ilirska Bistrica/ilirskaBistrica.png"
+                    src="/img/monuments/andrea-music-OSWuDinSI90-unsplash.jpg"
                     alt="text"
                     width={400}
                     height={400}
@@ -139,7 +139,7 @@ export default function News() {
                 <div className="mb-6 overflow-hidden rounded-lg">
                   <Image
                     className="w-full rounded-lg transform hover:scale-105 transition duration-500"
-                    src="/img/monuments/Sisak/sisak.png"
+                    src="/img/monuments/podgaric2.jpg"
                     alt="text"
                     width={400}
                     height={400}
@@ -166,7 +166,7 @@ export default function News() {
                 <div className="mb-6 overflow-hidden rounded-lg">
                   <Image
                     class="w-full rounded-lg transform hover:scale-105 transition duration-500"
-                    src="/img/monuments/Lepoglava/lepoglava.jpg"
+                    src="/img/monuments/ali-nuredini-ZxrGyZSnA2c-unsplash.jpg"
                     alt="text"
                     width={400}
                     height={400}
