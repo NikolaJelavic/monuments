@@ -65,8 +65,8 @@ export default function Quotes() {
           {/* <div className="text-2xl mb-2">
             <FaQuoteLeft />
           </div> */}
-          <blockquote className="text-xl leading-relaxed"> {quote} </blockquote>
-          <p className="text-gray-600 font-semibold mt-4 text-3xl"> {author}</p>
+          <blockquote className="text-xl leading-relaxed text-black"> {quote} </blockquote>
+          <p className="text-gray-600 font-semibold mt-4 text-3xl text-black"> {author}</p>
         </div>
       </div>
       {/* <div className="h-full m-20" >

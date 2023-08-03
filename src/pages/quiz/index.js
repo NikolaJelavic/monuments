@@ -164,7 +164,7 @@ export default function Quiz() {
               </p>
             </div>
             <div className="mt-8">
-              <p className="text-xl">
+              <p className="text-xl text-black">
                 {quizQuestions[currentQuestion].question}
               </p>
             </div>
