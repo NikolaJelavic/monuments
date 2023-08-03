@@ -16,8 +16,8 @@ export default function PopupComponent({ selectedMonument, onClose, router }) {
       closeOnClick={false}
     >
       <div className="text-md">
-        <p className="">Monument: {selectedMonument.name}</p>
-        <p className="">Built in year: {selectedMonument.yearBuilt}.</p>
+        <p className="text-black">Monument: {selectedMonument.name}</p>
+        <p className="text-black">Built in year: {selectedMonument.yearBuilt}.</p>
 
         <button onClick={handlePopupClick}>View Details</button>
       </div>
