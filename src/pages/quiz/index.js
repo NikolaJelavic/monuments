@@ -158,8 +158,8 @@ export default function Quiz() {
         ) : (
           <>
             <div className="text-center">
-              <h2 className="text-3xl font-bold">Quiz</h2>
-              <p className="text-lg mt-2">
+              <h2 className="text-3xl font-bold text-black">Quiz</h2>
+              <p className="text-lg mt-2 text-black">
                 Question {currentQuestion + 1} of {quizQuestions.length}
               </p>
             </div>
