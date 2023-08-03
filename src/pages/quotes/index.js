@@ -56,8 +56,8 @@ export default function Quotes() {
     <>
       <Header />
       <Navbar />
-      <div className="min-h-scree flex flex-col pt-20 items-center bg-gray-100">
-        <p className="m-1 sm:mb-16 text-xl s:text-4xl text-black">
+      <div className="min-h-scree flex flex-col  items-center bg-gray-100">
+        <p className="m-4 text-center text-red-600 font-bold text-3xl sm:text-black sm:mb-16  s:text-4xl ">
           Press the button to get a random quote
         </p>
         <div className="max-w-xl w-full bg-white rounded-lg p-6 shadow-md">
