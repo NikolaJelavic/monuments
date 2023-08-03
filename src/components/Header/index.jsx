@@ -10,74 +10,70 @@ import "slick-carousel/slick/slick-theme.css";
 const Images = [
   {
     id: 1,
-    src: "/img/monuments/Podgaric/podgaric.jpg",
-    alt: "Podgaric",
+    src: "/img/monuments/nikola-majksner-as_pS7EkK-Y-unsplash.jpg",
+    alt: "Tjentiste",
    },
   {
     id: 2,
-    src: "/img/monuments/Kosmaj/kosmaj.png",
-    alt: "Kosmaj ",
+    src: "/img/monuments/ali-nuredini-ZxrGyZSnA2c-unsplash.jpg",
+    alt: "Krusevo",
     },
   {
     id: 3,
-    src: "/img/monuments/Tjentiste/Tjentiste.png",
-    alt: "Tjentiste", 
+    src: "/img/monuments/nikola-duza-2cjlsFTG7z0-unsplash.jpg",
+    alt: "Kosmaj1", 
   },
   {
     id: 4,
-    src: "/img/monuments/Ilirska Bistrica/ilirskaBistrica.png",
-    alt: "Ilirska Bistrica",
+    src: "/img/monuments/kosmaj2.jpg",
+    alt: "Kosmaj2",
 },
   {
     id: 5,
-    src: "/img/monuments/Sisak/sisak.png",
-    alt: "Sisak",
+    src: "/img/monuments/milan-bosancic-Lpb1k99m_ZI-unsplash.jpg",
+    alt: "Bubanj",
 
   },
   {
     id: 6,
-    src: "/img/monuments/Lepoglava/lepoglava.jpg",
-    alt: "Lepoglava",
+    src: "/img/monuments/dusan-osmokrovic-Bf09O0a7vEo-unsplash.jpg",
+    alt: "KosmajAbove",
 
 },
   {
     id: 7,
-    src: "/img/monuments/Kozara/kozara.png",
-    alt: "Kozara",
+    src: "/img/monuments/podgaric1.jpg",
+    alt: "PodgaricFront",
    
   },
   {
     id: 8,
-    src: "/img/monuments/Kragujevac/sumarice.jpg",
-    alt: "Sumarice",
+    src: "/img/monuments/podgaric2.jpg",
+    alt: "PodgaricCloseUp",
  
 },
   {
     id: 9,
-    src: "/img/monuments/Botun/botun.jpg",
-    alt: "Botun",
+    src: "/img/monuments/nenad-radojcic-ViYwvzGL4ik-unsplash.jpg",
+    alt: "KosmajWinter",
    
 },{
   id: 10,
-  src: "/img/monuments/Belcista/belcista.jpg",
-  alt: "Belcista",
+  src: "/img/monuments/SfRJugoslaviaFb.jpg",
+  alt: "Kadinjaca",
 
 },
 {
   id: 11,
-  src: "/img/monuments/Lukovdol/lukovDol.jpg",
-  alt: "Lukovdol", 
+  src: "/img/monuments/valentin-salja-vloixE7hUgc-unsplash.jpg",
+  alt: "Jajinci", 
 },
 {
   id: 12,
-  src: "/img/monuments/Jasenovac/jasenovac.png",
+  src: "/img/monuments/andrea-music-OSWuDinSI90-unsplash.jpg",
   alt: "Jasenovac",
 },
-{
-  id: 12,
-  src: "/img/monuments/Obadov Brijeg/obadovBrijeg1.jpg",
-  alt: "Obadov Brijeg",
-},
+
 ];
 
 const settings = {
