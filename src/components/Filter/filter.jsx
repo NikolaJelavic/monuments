@@ -19,7 +19,7 @@ export default function Filter({ data, selectedState, setSelectedState }) {
     if (!selectedState) return monuments;
 
     return monuments.filter((monument) => {
-      // Use case-insensitive comparison by converting both values to lowercase
+     
       const monumentState = monument.state ? monument.state : '';
       const selectedStateLower = selectedState;
 
@@ -42,12 +42,12 @@ export default function Filter({ data, selectedState, setSelectedState }) {
     <>
       <div
         className='bg-red-400 flex flex-col w-28 rounded'
-        onMouseEnter={() => setAreButtonsVisible(true)} // Show buttons on hover
-        onMouseLeave={() => setAreButtonsVisible(false)} // Hide buttons when not hovering
-        onClick={() => setAreButtonsVisible((prev) => !prev)} // Toggle buttons on click
+        onMouseEnter={() => setAreButtonsVisible(true)} 
+        onMouseLeave={() => setAreButtonsVisible(false)}
+        onClick={() => setAreButtonsVisible((prev) => !prev)} 
       >
         <p className='w-40 bg-gray-400 rounded p-2'>Filter monuments by state/province ▾</p>
-        {/* Buttons are visible only when 'areButtonsVisible' is true */}
+        
         {areButtonsVisible && (
           <>
                 <button
@@ -69,8 +69,8 @@ export default function Filter({ data, selectedState, setSelectedState }) {
           SR Croatia
         </button>
         <button
-          className={selectedOption === 'Bosnia' ? 'active' : ''}
-          onClick={() => handleOptionClick('Bosnia')}
+          className={selectedOption === 'Bosnia and Hercegovina' ? 'active' : ''}
+          onClick={() => handleOptionClick('Bosnia and Hercegovina')}
         >
           SR B&H
         </button>
@@ -94,13 +94,13 @@ export default function Filter({ data, selectedState, setSelectedState }) {
         </button>
         <button
           className={selectedOption === 'vojvodina' ? 'active' : ''}
-          onClick={() => handleOptionClick('vojvodina')} // Updated to lowercase 'vojvodina'
+          onClick={() => handleOptionClick('vojvodina')} 
         >
           SAP Vojvodina
         </button>
         <button
           className={selectedOption === 'kosovo' ? 'active' : ''}
-          onClick={() => handleOptionClick('kosovo')} // Updated to lowercase 'kosovo'
+          onClick={() => handleOptionClick('kosovo')} 
         >
           SAP Kosovo
         </button>
