@@ -3,7 +3,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import Image from "next/image";
 import { EffectCoverflow, Pagination } from "swiper/modules";
 import useSWR from "swr";
-
+import LazyLoad from 'react-lazy-load';
 
 import "swiper/css";
 import "swiper/css/effect-coverflow";
@@ -35,6 +35,7 @@ export default function App() {
 console.log(monument.image);
   return (
     <>
+        <LazyLoad>
       <Swiper
         effect={"coverflow"}
         grabCursor={true}
@@ -55,11 +56,13 @@ console.log(monument.image);
         {monument.images?.map((img, index) => (
           
           <SwiperSlide key={index} >
-            <Image src={img} alt={monument.name} width={1000} height={1000} />
+            <Image src={img} alt={monument.name} width={800} height={800} />
+            
           </SwiperSlide>
         ))}
         
       </Swiper>
+        </LazyLoad>
     </>
   );
 }

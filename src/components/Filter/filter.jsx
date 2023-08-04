@@ -14,7 +14,6 @@ export default function Filter({ data, selectedState, setSelectedState }) {
   };
 
   const filterMonuments = (monuments) => {
-    // console.log('Selected State:', selectedState);
 
     if (!selectedState) return monuments;
 

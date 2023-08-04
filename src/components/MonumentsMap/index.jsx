@@ -46,7 +46,7 @@ export default function MonumentsMaps() {
   };
 
   return (
-    <div className='relative'>
+    <div className='relative overflow-x-hidden'>
       <Map
         mapboxAccessToken={mapboxAccessToken}
         initialViewState={initialViewState}
