@@ -1,4 +1,5 @@
 import { Popup } from "react-map-gl";
+import Image from "next/image";
 
 export default function PopupComponent({ selectedMonument, onClose, router }) {
   const handlePopupClick = () => {
@@ -16,10 +17,13 @@ export default function PopupComponent({ selectedMonument, onClose, router }) {
       closeOnClick={false}
     >
       <div className="text-md">
-        <p className="text-black">Monument: {selectedMonument.name}</p>
-        <p className="text-black">Built in year: {selectedMonument.yearBuilt}.</p>
+        <p className=" text-center font-bold text-xl">{selectedMonument.name}</p>
+        <p className="text-black">Built in {selectedMonument.yearBuilt} year.</p>
+        <p className="text-black">Made of {selectedMonument.materialUsed}.</p>
+        <Image src={selectedMonument.images[0]} alt={selectedMonument.images[0]} width={100} height={100} />
 
-        <button onClick={handlePopupClick} className="text-black">View Details</button>
+
+        <button onClick={handlePopupClick} className="text-black p-1 mt-1">View Details</button>
       </div>
     </Popup>
   );

@@ -55,3 +55,9 @@ body {
   object-fit: cover;
   width: 100%;
 }
+
+button.mapboxgl-popup-close-button{
+  background-color: red;
+  font-size: xx-large;
+  border-radius: 20px;
+}
