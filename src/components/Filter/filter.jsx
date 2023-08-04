@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 export default function Filter({ data, selectedState, setSelectedState }) {
   const [selectedOption, setSelectedOption] = useState('yugoslavia');
-  const [areButtonsVisible, setAreButtonsVisible] = useState(false); // State to manage button visibility
+  const [areButtonsVisible, setAreButtonsVisible] = useState(false); 
 
   const handleOptionClick = (option) => {
     if (option === 'yugoslavia') {
@@ -10,33 +10,9 @@ export default function Filter({ data, selectedState, setSelectedState }) {
     } else {
       setSelectedState(option);
     }
-    setSelectedOption(option);
+    // setSelectedOption(option);
   };
 
-  const filterMonuments = (monuments) => {
-    // console.log('Selected State:', selectedState);
-
-    if (!selectedState) return monuments;
-
-    return monuments.filter((monument) => {
-     
-      const monumentState = monument.state ? monument.state : '';
-      const selectedStateLower = selectedState;
-
-      if (monumentState === selectedStateLower) return true;
-
-      // Check if the monument's province matches the selected state
-      const monumentProvince = monument.province ? monument.province : '';
-      if (monumentProvince === selectedStateLower) return true;
-
-      return false;
-    });
-  };
-
-  // Apply filtering logic to the monuments
-  const filteredMonuments = filterMonuments(data);
-
-  // console.log('Filtered Monuments:', filteredMonuments);
 
   return (
     <>
@@ -50,7 +26,7 @@ export default function Filter({ data, selectedState, setSelectedState }) {
         
         {areButtonsVisible && (
           <>
-                <button
+        <button
           className={selectedOption === 'yugoslavia' ? 'active' : ''}
           onClick={() => handleOptionClick('yugoslavia')}
         >
@@ -93,14 +69,14 @@ export default function Filter({ data, selectedState, setSelectedState }) {
           SR Montenegro
         </button>
         <button
-          className={selectedOption === 'vojvodina' ? 'active' : ''}
-          onClick={() => handleOptionClick('vojvodina')} 
+          className={selectedOption === 'Vojvodina' ? 'active' : ''}
+          onClick={() => handleOptionClick('Vojvodina')} 
         >
           SAP Vojvodina
         </button>
         <button
-          className={selectedOption === 'kosovo' ? 'active' : ''}
-          onClick={() => handleOptionClick('kosovo')} 
+          className={selectedOption === 'Kosovo' ? 'active' : ''}
+          onClick={() => handleOptionClick('Kosovo')} 
         >
           SAP Kosovo
         </button>
