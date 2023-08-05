@@ -61,3 +61,8 @@ button.mapboxgl-popup-close-button{
   font-size: xx-large;
   border-radius: 20px;
 }
+
+.mapboxgl-popup-content{
+  border-radius: 10px;
+  border: 1px red solid;
+}

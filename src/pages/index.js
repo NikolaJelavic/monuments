@@ -89,7 +89,7 @@ export default function Home() {
       <SocialIcon
         url="https://www.amazon.com/Spomenik-Monument-Database-Donald-Niebyl/dp/0995745536/"
         target="_blank"
-        className="m-1"
+        className="m-1 w-2"
       />
     </div>
   </div>
