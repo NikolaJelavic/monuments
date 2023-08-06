@@ -20,12 +20,31 @@ export default function MonumentsMaps() {
 
   if (!data)
     return (
-      <div>
-        Loading...<br></br>
-        <p>Please turn of VPN if it is working</p>
+      <div className="flex flex-col justify-center items-center h-96 mt-32">
+        <div className="flex flex-col items-center justify-center">
+          <div className="relative w-36 h-36 md:w-64 md:h-64">
+            <div className="absolute top-0 left-0 w-full h-full border-4 border-red-500 border-solid rounded animate-spin"></div>
+
+            <div className="absolute top-0 left-0 w-full h-full border-4 border-red-500 border-solid rounded animate-ping"></div>
+
+            <div className="absolute top-0 left-0 w-full h-full animate-star-pulse">
+              <svg
+                className="w-full h-full text-red-700"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2"
+              >
+                <polygon points="12 2 15.09 8.69 22 9.82 17 14 18.18 20 12 17.25 5.82 20 7 14 2 9.82 8.69 8.69 12 2 12 2"></polygon>
+              </svg>
+            </div>
+          </div>
+          <p>Loading...</p>
+        </div>
+        {/* <p>Please turn off VPN if it is working</p> */}
       </div>
     );
-  if (error) return <div>Failed to load, turn off the VPN</div>;
+  if (error) return <div>Failed to load</div>;
 
   console.log(selectedState);
   // const handleMarkerClick = (monumentName) => {
@@ -46,7 +65,7 @@ export default function MonumentsMaps() {
   //   ? data.filter((monument) => monument.state === selectedState)
   //   : data;
 
- // second solution
+  // second solution
   let filteredMonuments = data;
   if (selectedState) {
     if (selectedState === "Kosovo" || selectedState === "Vojvodina") {
@@ -59,7 +78,6 @@ export default function MonumentsMaps() {
       );
     }
   }
-
 
   const initialViewState = {
     longitude: 18.293071490972955,
