@@ -10,22 +10,22 @@ export default function Filter({ data, selectedState, setSelectedState }) {
     } else {
       setSelectedState(option);
     }
-    // setSelectedOption(option);
+    
   };
 
 
   return (
     <>
       <div
-        className='bg-red-400 flex flex-col w-28 rounded'
+        className='bg-red-400 flex flex-col w-32 rounded text-left'
         onMouseEnter={() => setAreButtonsVisible(true)} 
         onMouseLeave={() => setAreButtonsVisible(false)}
         onClick={() => setAreButtonsVisible((prev) => !prev)} 
       >
-        <p className='w-40 bg-gray-400 rounded p-2'>Filter monuments by state/province ▾</p>
+        <p className='w-40 bg-gray-400 rounded p-2 text-left'>Filter monuments by state/province ▾</p>
         
         {areButtonsVisible && (
-          <>
+          <div className='text-left pl-1'>
         <button
           className={selectedOption === 'yugoslavia' ? 'active' : ''}
           onClick={() => handleOptionClick('yugoslavia')}
@@ -80,7 +80,7 @@ export default function Filter({ data, selectedState, setSelectedState }) {
         >
           SAP Kosovo
         </button>
-          </>
+          </div>
         )}
       </div>
     </>
