@@ -1700,7 +1700,7 @@ export default function News() {
 
         {/* right Accordion*/}
         <Accordion
-          defaultActiveKey="16"
+          defaultActiveKey="4"
           className="w-full lg:w-2/5 mb-4 lg:mb-0"
         >
           <Accordion.Item eventKey="0">
@@ -1758,7 +1758,7 @@ export default function News() {
               </p>
             </Accordion.Body>
           </Accordion.Item>
-          <Accordion.Item eventKey="2">
+          <Accordion.Item eventKey="">
             <Accordion.Header>
               <Image
                 src="/img/orden.jpg"

@@ -110,7 +110,7 @@ export default function App() {
           <Slider {...settings}>
             {Images.map((item) => (
               <div key={item.id} className=" object-cover ">
-                <Image src={item.src} alt={item.alt} width={200} height={200} style={{ marginRight: 0, paddingRight: 0 }} className="h-40 w-60 -mb-2" /> 
+                <Image src={item.src} alt={item.alt} width={200} height={200} style={{ marginRight: 0, paddingRight: 0 }} className="h-28 md:h-40 w-60 -mb-2" /> 
               </div>
             ))}
           </Slider>
