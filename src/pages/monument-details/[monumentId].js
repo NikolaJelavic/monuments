@@ -42,12 +42,22 @@ export default function MonumentDetailsPage() {
     window.open(url, "_blank");
   };
 
+  const handlePopupClick = () => {
+    router.push(`/monuments`);
+  };
+
   // console.log("filtered data: ", monument);
   return (
     <>
       <Header />
       <Navbar />
       <Carousel />
+      <button
+        onClick={handlePopupClick}
+        className="text-black  p-1 text hover:bg-red-500  hover:text-black rounded bg-red-700 m-5 font-bold hover:border-2 hover:border-black hover:m-3"
+      >
+        Back
+      </button>
       <div className="min-h-screen flex flex-col pt-20 items-center bg-gray-100 text-left">
         <h2 className="text-4xl font-bold mb-4">Name: {monument.name}</h2>
 
@@ -58,14 +68,15 @@ export default function MonumentDetailsPage() {
             Coordinates: Lo-{monument.longitude} | La-{monument.latitude}
           </p> */}
           <p className="text-gray-600">
-            Coordinates:  
-             <a href="#"  onClick={openGoogleMaps}>
+            Coordinates:
+            <a href="#" onClick={openGoogleMaps}>
               Lo-{monument.longitude} | La-{monument.latitude}
               <Image
-                src="/gmaps.png" 
+                src="/gmaps.png"
                 alt="Google Maps"
                 className="w-6 h-6 ml-2 inline-block"
-                width={50} height={50}
+                width={50}
+                height={50}
               />
             </a>
           </p>

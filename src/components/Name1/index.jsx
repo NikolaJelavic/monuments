@@ -11,15 +11,15 @@ export default function Name2 (){
 
   return (
     <div >
-      <ul className="absolute bg-red-600 z-10">
+      <ul className="absolute bg-red-600 z-10 rounded-b-xl">
       
-        <li className="p-2">
+        <li className="p-2 text-black ">
           <Link href="/monuments">Monuments</Link>
         </li >
-        <li className="p-2"> 
+        <li className="p-2 text-black"> 
           <Link href="/heroes">Heroes</Link>
         </li>
-        <li className="p-2">
+        <li className="p-2 text-black">
           <Link href="/quotes">Quotes</Link>
         </li>
        

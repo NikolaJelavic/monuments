@@ -5,7 +5,7 @@ export default function PopupComponent({ selectedMonument, onClose, router }) {
   const handlePopupClick = () => {
     router.push(`/monument-details/${selectedMonument.name}`);
   };
-  console.log("meow", selectedMonument);
+  // console.log("meow", selectedMonument);
   return (
     <Popup
       key={selectedMonument.name}

@@ -8,7 +8,7 @@ export default function Home() {
       <Header />
       <Navbar />
       <div className="h-full flex flex-col items-center justify-center sm:m-5 m-3">
-  <div className="w-full sm:w-3/4 w-8/9 border-solid border-gray-900 border-4	rounded-3xl ">
+  <div className="w-full sm:w-3/4 w-8/9 border-solid border-gray-900 border-4	rounded-3xl  ">
     <h2 className="text-center md:text-4xl md:m-5 text-2xl p-2 font-bold">
       Why was this web presentation made?
     </h2>
@@ -49,7 +49,7 @@ export default function Home() {
       the student&rsquo;s skills in the world of modern web development.
     </div>
   </div>
-  <div className="w-full sm:w-3/4 border-solid border-x-red-500 border-y-black border-4	rounded-3xl m-2">
+  <div className="w-full sm:w-3/4 border-solid border-x-red-500 border-y-black border-4	rounded-3xl m-2 shadow-2xl shadow-red-500">
     <h2 className="text-center text-4xl sm:text-5xl m-3">Special thanks</h2>
     <p className="text-center m-2 text-md sm:text-3xl">
       Special thanks go to Donald Niebyl, who is the creator and owner of
