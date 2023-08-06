@@ -17,7 +17,7 @@ export default function News() {
       <Header />
       <Navbar />
       <p className="text-center m-8 text-2xl">
-        List of National Heroes of Yugoslavia
+        List of Volk Heroes of Yugoslavia
       </p>
 
       <div className="flex flex-col lg:flex-row justify-evenly">
