@@ -52,21 +52,26 @@ export default function MonumentDetailsPage() {
       <Header />
       <Navbar />
       <Carousel />
-      <button
+      <Image
+        src="/back-button-md.png"
+        alt="back"
+        className="w-20 h-12 ml-2 hover:cursor-pointer"
+        width={20}
+        height={20}
         onClick={handlePopupClick}
-        className="text-black  p-1 text hover:bg-red-500  hover:text-black rounded bg-red-700 m-5 font-bold hover:border-2 hover:border-black hover:m-3"
+      />
+      {/* <button
+        onClick={handlePopupClick}
+        className="text-black  p-1 text hover:bg-red-500  hover:text-black rounded bg-red-700 mx-5 font-bold  hover:border-black "
       >
         Back
-      </button>
-      <div className="min-h-screen flex flex-col pt-20 items-center bg-gray-100 text-left">
+      </button> */}
+      <div className="h-2/3 flex flex-col pt-12 items-center bg-gray-100 text-left">
         <h2 className="text-4xl font-bold mb-4">Name: {monument.name}</h2>
 
         <div className="border rounded p-4 bg-white shadow-md w-96">
           <h3 className="text-lg font-bold">Location: {monument.location}</h3>
           <p className="text-gray-600">State: {monument.state}</p>
-          {/* <p className="text-gray-600">
-            Coordinates: Lo-{monument.longitude} | La-{monument.latitude}
-          </p> */}
           <p className="text-gray-600">
             Coordinates:
             <a href="#" onClick={openGoogleMaps}>

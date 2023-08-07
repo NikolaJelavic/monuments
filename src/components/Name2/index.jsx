@@ -1,5 +1,12 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
+import { Skranji } from "@next/font/google";;
+
+const skranji = Skranji({
+  subset: ["cursive"],
+  preload: false,
+  weight:'400',
+});
 
 export default function Name2() {
   const router = useRouter();
