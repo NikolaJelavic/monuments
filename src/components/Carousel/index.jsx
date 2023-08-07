@@ -49,7 +49,7 @@ console.log(monument.image);
         }}
         pagination={true}
         modules={[EffectCoverflow, Pagination]}
-        className="mySwiper"
+        className="mySwiper pb-2"
       >
         {/* ?*/}
         {monument.images?.map((img, index) => (

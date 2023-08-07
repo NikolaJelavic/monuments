@@ -55,7 +55,7 @@ export default function Rest() {
             name="user_name"
             className="w-full px-4 py-2 mt-2 text-gray-800 bg-gray-100 border rounded focus:outline-none focus:border-blue-500"
             placeholder="Josip"
-            autofocus
+            autoFocus
           />
         </div>
         <div className="mb-4">

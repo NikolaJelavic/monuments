@@ -60,7 +60,7 @@ export default function News() {
                   />
                 </div>
                 <p className="mb-6 text-gray-500 font-medium tracking-tight">
-                  <span class="mr-4 text-indigo-500 font-semibold">
+                  <span className="mr-4 text-indigo-500 font-semibold">
                     Insights
                   </span>
                   <span>16. June 2023.</span>
@@ -68,16 +68,16 @@ export default function News() {
                 <h3 className="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline text-black">
                   Monument to the Fallen Soldiers of the Kosmaj Detachment
                 </h3>
-                <p class="text-xl text-black">
+                <p className="text-xl text-black">
                   Monument to Kosmaj partisan division from WWII on top of
                   Kosmaj mountain, near Belgrade, Serbia.
                 </p>
               </div>
             </div>
 
-            <div class="w-full md:w-1/2 p-8">
-              <div class="group cursor-pointer">
-                <div class="mb-6 overflow-hidden rounded-lg">
+            <div className="w-full md:w-1/2 p-8">
+              <div className="group cursor-pointer">
+                <div className="mb-6 overflow-hidden rounded-lg">
                   <Image
                     class="w-full rounded-lg transform hover:scale-105 transition duration-500"
                     src="/img/monuments/nikola-majksner-as_pS7EkK-Y-unsplash.jpg"
@@ -86,16 +86,16 @@ export default function News() {
                     height={400}
                   />
                 </div>
-                <p class="mb-6 text-gray-500 font-medium tracking-tight">
-                  <span class="mr-4 text-indigo-500 font-semibold">
+                <p className="mb-6 text-gray-500 font-medium tracking-tight">
+                  <span className="mr-4 text-indigo-500 font-semibold">
                     Insights
                   </span>
                   <span>26. July 2023.</span>
                 </p>
-                <h3 class="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline text-black">
+                <h3 className="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline text-black">
                   The Battle of Sutjeska Memorial Monument Complex
                 </h3>
-                <p class="text-xl text-black">
+                <p className="text-xl text-black">
                   This spomenik at Tjentište commemorates the fighters and
                   fallen soldiers of the Battle of the Sutjeska, which took
                   place from May 15th to June 16th, 1943.
@@ -154,7 +154,7 @@ export default function News() {
                 <h3 className="mb-4 text-3xl group-hover:text-gray-900 font-semibold group-hover:underline text-black">
                   Monument to the Detachment in Brezovica Forest
                 </h3>
-                <p class="text-xl text-black">
+                <p className="text-xl text-black">
                   This spomenik at Sisak commemorates the creation of the first
                   politically organized fighting brigade who resisted and fought
                   against Axis invasion of occupied lands of Croatia.
@@ -165,7 +165,7 @@ export default function News() {
               <div className="group cursor-pointer">
                 <div className="mb-6 overflow-hidden rounded-lg">
                   <Image
-                    class="w-full rounded-lg transform hover:scale-105 transition duration-500"
+                    className="w-full rounded-lg transform hover:scale-105 transition duration-500"
                     src="/img/monuments/ali-nuredini-ZxrGyZSnA2c-unsplash.jpg"
                     alt="text"
                     width={400}

@@ -4,6 +4,10 @@ import Link from "next/link";
 import Name1 from "../../components/Name1/index";
 import Name2 from "../../components/Name2/index";
 
+
+
+
+
 export default function Navbar() {
   const [isDropdownOpen1, setIsDropdownOpen1] = useState(false);
   const [isDropdownOpen2, setIsDropdownOpen2] = useState(false);
@@ -30,11 +34,11 @@ export default function Navbar() {
   };
 
   return (
-    <ul className="bg-red-600 flex flex-wrap justify-around p-2 font-semibold text-xl sm:text-2xl md:text-3xl lg:text-4xl  font-serif">
+    <ul className="bg-red-600 flex flex-wrap justify-around p-2 font-semibold text-xl sm:text-2xl md:text-3xl lg:text-4xl  font-serif ">
       <li>
         <Link
           href="/"
-          className="link-underline hover:after:link-underline link-underline-black  transition-bg ease-in-out hover:text-red-700 hover:text-stroke"
+          className="link-underline hover:after:link-underline link-underline-black  transition-bg ease-in-out hover:text-red-700 hover:text-stroke "
         >
           Home
         </Link>
