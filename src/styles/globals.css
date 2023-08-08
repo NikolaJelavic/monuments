@@ -2,6 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: "WorkingFont";
+  src: url("/fonts/Prata-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("/fonts/Roboto-Regular.ttf");
+}
+
 /* html,body, #__next{
   height:100%;
 } */
@@ -103,4 +113,12 @@ button.mapboxgl-popup-close-button {
     -webkit-text-stroke: 1px black;
     text-stroke: 1px black; /* Fallback for non-webkit browsers */
   }
+}
+
+span,.navbar {
+  font-family: "WorkingFont", serif;
+}
+
+h1,h2,p,button, div{
+  font-family:"Roboto",sans-serif ;
 }
