@@ -32,7 +32,7 @@ export default function News() {
                     height={400}
                   />
                 </div>
-                <p className="mb-6 text-gray-500 font-medium tracking-tight text-black">
+                <p className="mb-6 font-medium tracking-tight text-black">
                   <span className="mr-4 text-indigo-500 font-semibold">
                     Insights
                   </span>

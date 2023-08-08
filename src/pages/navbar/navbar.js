@@ -34,7 +34,7 @@ export default function Navbar() {
   };
 
   return (
-    <ul className="bg-red-600 flex flex-wrap justify-around p-2 font-semibold text-xl sm:text-2xl md:text-3xl lg:text-4xl  font-serif ">
+    <ul className="bg-red-600 flex flex-wrap justify-around p-2 font-semibold text-xl sm:text-2xl md:text-3xl lg:text-4xl  font-serif navbar">
       <li>
         <Link
           href="/"

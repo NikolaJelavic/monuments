@@ -8,7 +8,7 @@ import React, { useState } from "react";
 const quotes = [
   {
     quote: "''We are brothers in blood and battle.''",
-    author: "Josip Broz Tito,",
+    author: "Josip Broz Tito",
   },
   {
     quote: "''In war, there are no unwounded soldiers.''",
@@ -70,9 +70,7 @@ export default function Quotes() {
           <blockquote className="text-xl leading-relaxed text-black">
             {quote}
           </blockquote>
-          <p className="text-gray-600 font-semibold mt-4 text-3xl text-black">
-            {author}
-          </p>
+          <p className="text-gray-600 font-semibold mt-4 text-3xl ">{author}</p>
         </div>
       </div>
     </>

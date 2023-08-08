@@ -33,11 +33,11 @@ export default function Rest() {
       <Header />
       <Navbar />
       <div className="flex justify-center items-center flex-col">
-        <h1 className="sm:text-2xl mt-3 font-bold sm:w-1/3 text-center">
+        <h1 className="sm:text-2xl mt-3 sm:w-1/3 text-center">
           Feel free to get in contact via email nob-spomenici@gmail.com or the
           form below.
         </h1>
-        <h1 className="sm:text-2xl mx-3 font-bold sm:w-1/3 text-center">
+        <h1 className="sm:text-2xl mx-3 sm:w-1/3 text-center">
           Also, If you know about some monument which is not on the map, feel
           free to send name and <a href="http://bboxfinder.com/">coordinates</a>.
         </h1>

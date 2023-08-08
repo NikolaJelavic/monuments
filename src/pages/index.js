@@ -58,7 +58,7 @@ export default function Home() {
             Special thanks go to Donald Niebyl, who is the creator and owner of
             <a
               href="https://www.spomenikdatabase.org/"
-              className="bg-red-400 rounded-xl m-1 p-1"
+              className="text-red-700 m-1 p-1 hover:bg-red-400 "
             >
               spomenikdatabase
             </a>
