@@ -58,33 +58,33 @@ export default function Home() {
             Special thanks go to Donald Niebyl, who is the creator and owner of
             <a
               href="https://www.spomenikdatabase.org/"
-              className="text-red-700 m-1 p-1 hover:bg-red-400 "
+              className="text-red-700 m-1 p-1 hover:[text-shadow:_0_1px_0_rgb(0_0_0_/_40%)] hover:rounded-xl"
             >
               spomenikdatabase
             </a>
             .
           </p>
-          <div className="text-center m-2 text-md sm:text-3xl">
+          <div className="text-center  text-md sm:text-3xl">
             His work is also visible on Social networks
             <SocialIcon
               url="https://www.instagram.com/spomenikdatabase/"
               target="_blank"
-              className="m-1"
+              className="mx-1 "
             />
             <SocialIcon
               url="https://twitter.com/SpomenikDatabse"
               target="_blank"
-              className="m-1"
+              className="mx-1 "
             />
             <SocialIcon
               url="https://www.facebook.com/SpomenikDatabase"
               target="_blank"
-              className="m-1"
+              className="mx-1 "
             />
             <SocialIcon
               url="https://www.flickr.com/photos/149875687@N06/"
               target="_blank"
-              className="m-1"
+              className="mx-1 "
             />
           </div>
           <div className="text-center m-4 text-xl sm:text-2xl">
@@ -92,7 +92,7 @@ export default function Home() {
             <SocialIcon
               url="https://www.amazon.com/Spomenik-Monument-Database-Donald-Niebyl/dp/0995745536/"
               target="_blank"
-              className="m-1 w-2"
+              className="ml-1"
             />
           </div>
         </div>

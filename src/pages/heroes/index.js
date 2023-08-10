@@ -1674,9 +1674,300 @@ export default function News() {
               Heroes with starting letter J
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <a href="https://www.wikiwand.com/bs/Spisak_narodnih_heroja_Jugoslavije:_J">
-                https://www.wikiwand.com/bs/Spisak_narodnih_heroja_Jugoslavije:_J
-              </a>
+              <p>
+                1. <strong>Savka Javorina-Vujović</strong> (1918-2002), was
+                awarded the Order of the People&apos;s Hero on October 9, 1953.
+              </p>
+              <p>
+                2. <strong>Ante Jakić</strong> (1914-1942), was proclaimed a
+                People&apos;s Hero on July 27, 1953.
+              </p>
+              <p>
+                3. <strong>Velimir Jakić</strong> (1911-1946), was proclaimed a
+                People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                4. <strong>Albert Jakopič</strong> (1914-1996), was awarded the
+                Order of the People&apos;s Hero on July 6, 1945.
+              </p>
+              <p>
+                5. <strong>Pavle Jakšić</strong> (1913-2005), was awarded the
+                Order of the People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                6. <strong>Vida Janežić Vilma Lučka</strong> (1914-1944), was
+                proclaimed a People&apos;s Hero on July 22, 1953.
+              </p>
+              <p>
+                7. <strong>Vlado Janić Capo</strong> (1904-1991), was awarded
+                the Order of the People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                8. <strong>Grga Jankes</strong> (1906-1974), was awarded the
+                Order of the People&apos;s Hero on July 24, 1953.
+              </p>
+              <p>
+                9. <strong>Blagoja Jankov Mučeto</strong> (1911-1944), was
+                proclaimed a People&apos;s Hero on October 11, 1951.
+              </p>
+              <p>
+                10. <strong>Blažo Janković</strong> (1910-1996), was awarded the
+                Order of the People&apos;s Hero on July 10, 1953.
+              </p>
+              <p>
+                11. <strong>Boško Janković</strong> (1910-1943), was proclaimed
+                a People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                12. <strong>Veljko Janković</strong> (1911-1974), was awarded
+                the Order of the People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                13. <strong>Gliša Janković</strong> (1913-1944), was proclaimed
+                a People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                14. <strong>Jovo Janković</strong> (1919-1942), was proclaimed a
+                People&apos;s Hero on July 24, 1953.
+              </p>
+              <p>
+                15. <strong>Ravijojla Janković Rava</strong> (1919-1944), was
+                proclaimed a People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                16. <strong>Filip Janković</strong> (1886-1942), was proclaimed
+                a People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                17. <strong>Lizika Jančar Majda</strong> (1919-1943), was
+                proclaimed a People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                18. <strong>Rade Janjanin</strong> (1919-1943), was proclaimed a
+                People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                19. <strong>Radislav Janjićijević</strong> (1917-1943), was
+                proclaimed a People&apos;s Hero on July 6, 1953.
+              </p>
+              <p>
+                20. <strong>Obren Janjušević</strong> (1923-1944), was
+                proclaimed a People&apos;s Hero on July 7, 1953.
+              </p>
+              <p>
+                21. <strong>Danilo Jauković</strong> (1918-1977), was awarded
+                the Order of the People&apos;s Hero on March 13, 1945.
+              </p>
+              <p>
+                22. <strong>Suljo Jahić</strong> (1922-1942), was proclaimed a
+                People&apos;s Hero on July 23, 1952.
+              </p>
+              <p>
+                23. <strong>Fadil Jahić Španac</strong> (1910-1942), was
+                proclaimed a People&apos;s Hero on March 13, 1945.
+              </p>
+              <p>
+                24. <strong>Radule Jevrić</strong> (1911-1942), was proclaimed a
+                People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                25. <strong>Mašo Jelić</strong> (1908-1944), was proclaimed a
+                People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                26. <strong>Milovan Jelić</strong> (1914-1942), was proclaimed a
+                People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                27. <strong>Dušan Jereb</strong> (1908-1943), was proclaimed a
+                People&apos;s Hero on July 21, 1953.
+              </p>
+              <p>
+                28. <strong>Dušan Jerković</strong> (1914-1941), was proclaimed
+                a People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                29. <strong>Mate Jerković</strong> (1915-1980), was awarded the
+                Order of the People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                30. <strong>Drago Jerman</strong> (1919-1998), was awarded the
+                Order of the People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                31. <strong>Mirko Jerman</strong> (1912-1987), was awarded the
+                Order of the People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                32. <strong>Predrag Jeftić</strong> (1913-1943), was proclaimed
+                a People&apos;s Hero on October 25, 1943.
+              </p>
+              <p>
+                33. <strong>Dušan Ječmenić</strong> (1911-1943), was proclaimed
+                a People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                34. <strong>Milan Ješić Ibra</strong> (1914-1986), was awarded
+                the Order of the People&apos;s Hero on October 2, 1953.
+              </p>
+              <p>
+                35. <strong>Đoko Jovanić</strong> (1917-2000), was awarded the
+                Order of the People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                36. <strong>Rade Jovanić</strong> (1913-1943), was proclaimed a
+                People&apos;s Hero on July 24, 1953.
+              </p>
+              <p>
+                37. <strong>Blažo Jovanović</strong> (1907-1976), was awarded
+                the Order of the People&apos;s Hero on July 10, 1952.
+              </p>
+              <p>
+                38. <strong>Božidar Jovanović</strong> (1919-1998), was awarded
+                the Order of the People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                39. <strong>Žikica Jovanović Španac</strong> (1914-1942), was
+                proclaimed a People&apos;s Hero on July 6, 1945.
+              </p>
+
+              <p>
+                <strong>40. Zdravko Jovanović</strong> (1909-1943), was
+                proclaimed a People&apos;s Hero on July 6, 1953.
+              </p>
+              <p>
+                <strong>41. Isa Jovanović</strong> (1906-1983), was awarded the
+                Order of the People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                <strong>42. Josip Jovanović</strong> (1917-1942), was proclaimed
+                a People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                <strong>43. Mirko Jovanović</strong> (1923-1977), was awarded
+                the Order of the People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                <strong>44. Miroslav Jovanović</strong> (1915-1943), was
+                proclaimed a People&apos;s Hero on December 6, 1953.
+              </p>
+              <p>
+                <strong>45. Petar V. Jovanović</strong> (1911-1944), was
+                proclaimed a People&apos;s Hero on July 6, 1953.
+              </p>
+              <p>
+                <strong>46. Petar M. Jovanović</strong> (1917-1943), was
+                proclaimed a People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                <strong>47. Rade Jovanović</strong> (1904-1941), was proclaimed
+                a People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                <strong>48. Radivoje Jovanović Bradonja</strong> (1918-2000),
+                was awarded the Order of the People&apos;s Hero on December 15,
+                1949.
+              </p>
+              <p>
+                <strong>49. Radovan Jovanović</strong> (1917-1944), was
+                proclaimed a People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                <strong>50. Radoje Jovanović</strong> (1916-1943), was
+                proclaimed a People&apos;s Hero on July 10, 1951.
+              </p>
+              <p>
+                <strong>51. Sava Jovanović Sirogojno</strong> (1926-1944), was
+                proclaimed a People&apos;s Hero on July 24, 1953.
+              </p>
+              <p>
+                <strong>52. Stevan Jovanović Stevica</strong> (1916-1941), was
+                proclaimed a People&apos;s Hero on December 14, 1949.
+              </p>
+              <p>
+                <strong>53. Ilija Jovanovski Cvetan</strong> (1921-1944), was
+                proclaimed a People&apos;s Hero on August 2, 1952.
+              </p>
+              <p>
+                <strong>54. Milorad Jovančević</strong> (1916-1942), was
+                proclaimed a People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                <strong>55. Ratomir Jović</strong> (1915-1944), was proclaimed a
+                People&apos;s Hero on October 9, 1953.
+              </p>
+              <p>
+                <strong>56. Slobodan Jović</strong> (1918-1944), was proclaimed
+                a People&apos;s Hero on April 30, 1946.
+              </p>
+              <p>
+                <strong>57. Pavle Jovićević</strong> (1910-1985), was awarded
+                the Order of the People&apos;s Hero on July 7, 1953.
+              </p>
+              <p>
+                <strong>58. Petar Jovićević</strong> (1913-1941), was proclaimed
+                a People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                <strong>59. Olga Jovičić</strong> (1920-1942), was proclaimed a
+                People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                <strong>60. Ratko Jovičić</strong> (1919-1991), was awarded the
+                Order of the People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                <strong>61. Desimir Jovović</strong> (1905-1985), was awarded
+                the Order of the People&apos;s Hero on July 7, 1953.
+              </p>
+              <p>
+                <strong>62. Rade Jovčevski</strong> (1919-1943), was proclaimed
+                a People&apos;s Hero on October 8, 1953.
+              </p>
+              <p>
+                <strong>63. Milan Joka</strong> (1922-1991), was awarded the
+                Order of the People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                <strong>64. Marko Jokić</strong> (1914-1944), was proclaimed a
+                People&apos;s Hero on July 24, 1953.
+              </p>
+              <p>
+                <strong>65. Savo Joksimović</strong> (1913-1980), was awarded
+                the Order of the People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                <strong>66. Ante Jonić</strong> (1918-1942), was proclaimed a
+                People&apos;s Hero on August 7, 1942.
+              </p>
+              <p>
+                <strong>67. Josif Josifovski Sveštarot</strong> (1915-1943), was
+                proclaimed a People&apos;s Hero on October 11, 1951.
+              </p>
+              <p>
+                <strong>68. Kuzman Josifovski Pitu</strong> (1915-1944), was
+                proclaimed a People&apos;s Hero on August 2, 1945.
+              </p>
+              <p>
+                <strong>69. Vera Jocić</strong> (1923-1944), was proclaimed a
+                People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                <strong>70. Radislav Jugović</strong> (1915-1943), was
+                proclaimed a People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                <strong>71. Martin Južna</strong> (1919-1943), was proclaimed a
+                People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                <strong>72. Ante Jurjević Baja</strong> (1913-1994), was awarded
+                the Order of the People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                <strong>73. Josip Jutriša</strong> (1920-1944), was proclaimed a
+                People&apos;s Hero on February 9, 1953.
+              </p>
             </Accordion.Body>
           </Accordion.Item>
           <Accordion.Item eventKey="13">
@@ -1691,9 +1982,484 @@ export default function News() {
               Heroes with starting letter K
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <a href="https://www.wikiwand.com/bs/Spisak_narodnih_heroja_Jugoslavije:_K">
-                https://www.wikiwand.com/bs/Spisak_narodnih_heroja_Jugoslavije:_K
-              </a>
+              <p>
+                1.<strong> Svetko Kačar Kačo</strong> (1917-1944), was
+                proclaimed a People&apos;s Hero on July 5, 1951.
+              </p>
+              <p>
+                2.<strong> Savo Kadović</strong> (1919-1944), was proclaimed a
+                People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                3.<strong> Jože Kadunc</strong> (1925-1944), was proclaimed a
+                People&apos;s Hero on September 13, 1952.
+              </p>
+              <p>
+                4.<strong> Petar Kalanja</strong> (1915-1995), was awarded the
+                Order of the People&apos;s Hero on July 23, 1952.
+              </p>
+              <p>
+                5.<strong> Juraj Kalc</strong> (1908-1942), was proclaimed a
+                People&apos;s Hero on September 26, 1973.
+              </p>
+              <p>
+                6.<strong> Bogdan Kapelan</strong> (1914-1941), was proclaimed a
+                People&apos;s Hero on July 24, 1953.
+              </p>
+              <p>
+                7.<strong> Ismet Kapetanović</strong> (1921-1942), was
+                proclaimed a People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                8.<strong> Jovo Kapičić</strong> (1919-2013), was awarded the
+                Order of the People&apos;s Hero on July 10, 1950.
+              </p>
+              <p>
+                9.<strong> Osman Karabegović</strong> (1911-1996), was awarded
+                the Order of the People&apos;s Hero on July 23, 1952.
+              </p>
+              <p>
+                10.<strong> Boško Karalić</strong> (1919-1987), was awarded the
+                Order of the People&apos;s Hero on September 25, 1944.
+              </p>
+              <p>
+                11.<strong> Elpida Karamandi</strong> (1920-1942), was
+                proclaimed a People&apos;s Hero on October 11, 1951.
+              </p>
+              <p>
+                12.<strong> Vasko Karangeleski</strong> (1921-1977), was awarded
+                the Order of the People&apos;s Hero on November 29, 1953.
+              </p>
+              <p>
+                13.<strong> Nikola Karanović</strong> (1914-1991), was awarded
+                the Order of the People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                14.<strong> Edvard Kardelj</strong> (1910-1979), was awarded the
+                Order of the People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                15.<strong> Petar Kasapović</strong> (1914-1995), was awarded
+                the Order of the People&apos;s Hero on July 24, 1953.
+              </p>
+              <p>
+                <strong>16. Vojin Katnić</strong> (1915-1943), was proclaimed a
+                People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                17.<strong> Ivan Kavčič Nande</strong> (1913-1943), was
+                proclaimed a People&apos;s Hero on October 25, 1943.
+              </p>
+              <p>
+                18.<strong> Dušan Kveder</strong> (1915-1966), was awarded the
+                Order of the People&apos;s Hero on July 15, 1952.
+              </p>
+              <p>
+                19.<strong> Lojze Kebe</strong> (1908-1942), was proclaimed a
+                People&apos;s Hero on July 5, 1951.
+              </p>
+              <p>
+                20.<strong> Ante Kelava</strong> (1916-1943), was proclaimed a
+                People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                21.<strong> Vaso Kelečević</strong> (1904-1941), was proclaimed
+                a People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                22.<strong> Milić Keljanović</strong> (1915-1942), was
+                proclaimed a People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                23.<strong> Jože Kerenčič</strong> (1915-1941), was proclaimed a
+                People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                24.<strong> Milka Kerin Pohorska</strong> (1923-1944), was
+                proclaimed a People&apos;s Hero on July 21, 1953.
+              </p>
+              <p>
+                25.<strong> Mijo Kerošević</strong> (1920-1946), was proclaimed
+                a People&apos;s Hero on July 5, 1951.
+              </p>
+              <p>
+                26.<strong> Fric Keršič</strong> (1908-1942), was proclaimed a
+                People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                27.<strong> Mirko Kesić</strong> (1923-1944), was proclaimed a
+                People&apos;s Hero on July 23, 1952.
+              </p>
+              <p>
+                28.<strong> Petar Kesić</strong> (1918-1942), was proclaimed a
+                People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                29.<strong> Jovo Kecman</strong> (1914-1942), was proclaimed a
+                People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                30.<strong> Pero Kecman</strong> (1921-1943), was proclaimed a
+                People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                31.<strong> Boris Kidrič</strong> (1912-1953), was awarded the
+                Order of the People&apos;s Hero on July 15, 1952.
+              </p>
+              <p>
+                32.<strong> Milo Kilibarda</strong> (1913-1983), was awarded the
+                Order of the People&apos;s Hero on July 21, 1953.
+              </p>
+              <p>
+                33.<strong> Slava Klavora</strong> (1921-1941), was proclaimed a
+                People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                34.<strong> Đuro Kladarin</strong> (1916-1987), was awarded the
+                Order of the Peoples Hero on July 23, 1952.
+              </p>
+              <p>
+                35.<strong> Jože Klanjšek Vasja</strong> (1917-1965), was
+                awarded the Order of the People&apos;s Hero on December 20,
+                1951.
+              </p>
+              <p>
+                36.<strong> Vjekoslav Klobučar</strong> (1919-1942), was
+                proclaimed a People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                37.<strong> Franjo Kluz</strong> (1912-1944), was proclaimed a
+                People&apos;s Hero on May 18, 1948.
+              </p>
+              <p>
+                38.<strong> Milanka Kljajić</strong> (1924-1943), was proclaimed
+                a People&apos;s Hero on November 27, 1953.
+              </p>
+
+              <p>
+                39. <strong>Miloš Kljajić</strong> (1916-1944), was proclaimed a
+                People&apos;s Hero on December 6, 1944.
+              </p>
+              <p>
+                40. <strong>Mirko Kljajić Stari</strong> (1912-1942), was
+                proclaimed a People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                41. <strong>Filip Kljajić Fića</strong> (1913-1943), was
+                proclaimed a People&apos;s Hero on September 25, 1944.
+              </p>
+              <p>
+                42. <strong>Franjo Knebl</strong> (1915*-2006), was awarded the
+                Order of the People&apos;s Hero on July 23, 1952.
+              </p>
+              <p>
+                43. <strong>Vladimir Knežević Volođa</strong> (1915-1942), was
+                proclaimed a People&apos;s Hero on September 25, 1944.
+              </p>
+              <p>
+                44. <strong>Vuk Knežević</strong> (1912-1941), was proclaimed a
+                People&apos;s Hero on July 5, 1951.
+              </p>
+              <p>
+                45. <strong>Radovan Knežević Tihi</strong> (1916-1988), was
+                awarded the Order of the People&apos;s Hero on November 27,
+                1953.
+              </p>
+              <p>
+                46. <strong>Marko Kovač Šnajder</strong> (1910-1944), was
+                proclaimed a People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                47. <strong>Slavko Kovač</strong> (1919-1942), was proclaimed a
+                People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                48. <strong>Štefan Kovač</strong> (1910-1941), was proclaimed a
+                People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                49. <strong>Boriša Kovačević Šćepan</strong> (1908-1943), was
+                proclaimed a People&apos;s Hero on July 22, 1949.
+              </p>
+              <p>
+                50. <strong>Branko Kovačević Žika Mornar</strong> (1924-1996),
+                was awarded the Order of the People&apos;s Hero on July 5, 1952.
+              </p>
+              <p>
+                51. <strong>Vasilije Kovačević Čile</strong> (1911-1961), was
+                awarded the Order of the People&apos;s Hero on November 27,
+                1953.
+              </p>
+              <p>
+                52. <strong>Veljko Kovačević</strong> (1912-1994), was awarded
+                the Order of the People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                53. <strong>Vojin Kovačević</strong> (1913-1941), was proclaimed
+                a People&apos;s Hero on December 14, 1949.
+              </p>
+              <p>
+                54. <strong>Vojo Kovačević</strong> (1912-1997), was awarded the
+                Order of the People&apos;s Hero on July 10, 1952.
+              </p>
+              <p>
+                55. <strong>Đuran Kovačević</strong> (1916*-2007), was awarded
+                the Order of the People&apos;s Hero on March 13, 1945.
+              </p>
+              <p>
+                56. <strong>Miloš Kovačević</strong> (1910-1943), was proclaimed
+                a People&apos;s Hero on July 24, 1953.
+              </p>
+              <p>
+                57. <strong>Mirko Kovačević</strong> (1916-1941), was proclaimed
+                a People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                58. <strong>Mitar Kovačević</strong> (1916-1979), was awarded
+                the Order of the People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                59. <strong>Radoslav Kovačević</strong> (1919-1942), was
+                proclaimed a People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                60. <strong>Radovan Kovačević Maksim</strong> (1919-1943), was
+                proclaimed a People&apos;s Hero on July 5, 1952.
+              </p>
+
+              <p>
+                <strong>61. Sava Kovačević</strong> (1905-1943), was proclaimed
+                a People&apos;s Hero on July 6, 1943.
+              </p>
+              <p>
+                <strong>62. Ivan Kovačič Efenka</strong> (1921-1963), was
+                awarded the Order of the People&apos;s Hero on July 21, 1953.
+              </p>
+              <p>
+                <strong>63. Jože Kovačič</strong> (1916-1942), was proclaimed a
+                People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                <strong>64. Oskar Kovačič</strong> (1908-1944), was proclaimed a
+                People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                <strong>65. Lazo Kolevski</strong> (1918-1942), was proclaimed a
+                People&apos;s Hero on October 9, 1953.
+              </p>
+              <p>
+                <strong>66. Lazar Koliševski</strong> (1914-2000), was awarded
+                the Order of the People&apos;s Hero on July 30, 1952.
+              </p>
+              <p>
+                <strong>67. Alojz Kolman Marok</strong> (1911-1944), was
+                proclaimed a People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                <strong>68. Slavko Komar</strong> (1918-2012), was awarded the
+                Order of the People&apos;s Hero on July 23, 1952.
+              </p>
+              <p>
+                <strong>69. Miloš Komatina</strong> (1885-1943), was proclaimed
+                a People&apos;s Hero on July 10, 1953.
+              </p>
+              <p>
+                <strong>70. Stojan Komljenović Čoka</strong> (1920-1943), was
+                proclaimed a People&apos;s Hero on July 24, 1953.
+              </p>
+              <p>
+                <strong>71. Danilo Komnenović</strong> (1915-2001), was awarded
+                the Order of the People&apos;s Hero on July 23, 1952.
+              </p>
+              <p>
+                <strong>72. Rade Kondić</strong> (1916-1944), was proclaimed a
+                People&apos;s Hero on March 13, 1945.
+              </p>
+              <p>
+                <strong>73. Radoje Kontić</strong> (1919-1943), was proclaimed a
+                People&apos;s Hero on July 13, 1953.
+              </p>
+              <p>
+                <strong>74. Dragica Končar</strong> (1915-1942), was proclaimed
+                a People&apos;s Hero on July 23, 1952.
+              </p>
+              <p>
+                <strong>75. Marko Končar Bura</strong> (1919-1942), was
+                proclaimed a People&apos;s Hero on July 23, 1952.
+              </p>
+              <p>
+                <strong>76. Rade Končar</strong> (1911-1942), was proclaimed a
+                People&apos;s Hero on August 7, 1942.
+              </p>
+              <p>
+                <strong>77. Vasilije Koprivica</strong> (1919-1943), was
+                proclaimed a People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                <strong>78. Dušan Korać</strong> (1920-1998), was awarded the
+                Order of the People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                <strong>79. Milan Korica Kovač</strong> (1919-1987), was awarded
+                the Order of the People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                <strong>80. Stevan Korica</strong> (1916-1942), was proclaimed a
+                People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                <strong>81. Đuro Kosanović</strong> (1917-1943), was proclaimed
+                a People&apos;s Hero on July 5, 1951.
+              </p>
+              <p>
+                <strong>82. Stane Kosec</strong> (1913-1941), was proclaimed a
+                People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                <strong>83. Ivan Kosovel</strong> (1912-1943), was proclaimed a
+                People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                <strong>84. Pero Kosorić</strong> (1918-1969), was awarded the
+                Order of the People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                <strong>85. Svetozar Kosorić</strong> (1913-1943), was
+                proclaimed a People&apos;s Hero on July 5, 1951.
+              </p>
+              <p>
+                <strong>86. Blagoje Kostić Crni</strong> (1920-1943), was
+                proclaimed a People&apos;s Hero on July 5, 1952.
+              </p>
+              <p>
+                <strong>87. Ilija Kostića</strong> (1911-1992), was awarded the
+                Order of the People&apos;s Hero on July 27, 1953.
+              </p>
+              <p>
+                <strong>88. Martin Kotar</strong> (1922-1944), was proclaimed a
+                People&apos;s Hero on September 13, 1952.
+              </p>
+              <p>
+                <strong>89. Bogdan Kotlica</strong> (1909-1942), was proclaimed
+                a People&apos;s Hero on July 13, 1953.
+              </p>
+              <p>
+                <strong>90. Franc Kočevar</strong> (1918-2005), was awarded the
+                Order of the People&apos;s Hero on July 15, 1952.
+              </p>
+
+              <p>
+                91.<strong> Fana Kočovska-Cvetković</strong> (1927-2004), was
+                awarded the Order of the People&apos;s Hero on October 9, 1953.
+              </p>
+              <p>
+                92.<strong> Dušan Košutić</strong> (1912-1945), was proclaimed a
+                People&apos;s Hero on February 1, 1946.
+              </p>
+              <p>
+                93.<strong> Ivan Stevo Krajačić</strong> (1906-1986), was
+                awarded the Order of the People&apos;s Hero on July 23, 1952.
+              </p>
+              <p>
+                94.<strong> Boris Krajger</strong> (1914-1967), was awarded the
+                Order of the People&apos;s Hero on September 5, 1953.
+              </p>
+              <p>
+                95.<strong> Dušan Krajger</strong> (1908-1943), was proclaimed a
+                People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                96.<strong> Josip Kraš</strong> (1900-1941), was proclaimed a
+                People&apos;s Hero on July 26, 1945.
+              </p>
+              <p>
+                97.<strong> Otmar Kreačić</strong> (1913-1992), was awarded the
+                Order of the People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                98.<strong> Franc Krese</strong> (1919-1980), was awarded the
+                Order of the People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                99.<strong> Ivan Krkač</strong> (1911-1942), was proclaimed a
+                People&apos;s Hero on February 9, 1952.
+              </p>
+              <p>
+                100.<strong> Maks Krmelj</strong> (1910-2004), was awarded the
+                Order of the People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                101.<strong> Rudolf Kroflin</strong> (1916-1941), was proclaimed
+                a People&apos;s Hero on December 14, 1949.
+              </p>
+              <p>
+                102.<strong> Branko Krsmanović</strong> (1915-1941), was
+                proclaimed a People&apos;s Hero on May 9, 1945.
+              </p>
+              <p>
+                103.<strong> Vicko Krstulović</strong> (1905-1988), was awarded
+                the Order of the People&apos;s Hero on July 23, 1952.
+              </p>
+              <p>
+                104.<strong> Uroš Krunić</strong> (1914-1973), was awarded the
+                Order of the People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                105.<strong> Gojko Kruška</strong> (1922-1944), was proclaimed a
+                People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                106.<strong> Vukman Kruščić</strong> (1909-1942), was proclaimed
+                a People&apos;s Hero on July 12, 1949.
+              </p>
+              <p>
+                107.<strong> Antonija Kuclar</strong> (1896-1942), was
+                proclaimed a People&apos;s Hero on July 21, 1953.
+              </p>
+              <p>
+                108.<strong> Milan Kuč</strong> (1906-1943), was proclaimed a
+                People&apos;s Hero on July 11, 1945.
+              </p>
+              <p>
+                109.<strong> Milka Kufrin</strong> (1921-2000), was awarded the
+                Order of the People&apos;s Hero on July 23, 1953.
+              </p>
+              <p>
+                110.<strong> Maksim Kujundžić</strong> (1923-1944), was
+                proclaimed a People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                111.<strong> Milan Kukić</strong> (1914-1943), was proclaimed a
+                People&apos;s Hero on July 23, 1952.
+              </p>
+              <p>
+                112.<strong> Nikola Kukić</strong> (1914-1941), was proclaimed a
+                People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                113.<strong> Cvijo Kukolj</strong> (1917-1944), was proclaimed a
+                People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                114.<strong> Marko Kulić</strong> (1914-1941), was proclaimed a
+                People&apos;s Hero on November 27, 1953.
+              </p>
+              <p>
+                115.<strong> Danila Kumar</strong> (1921-1944), was proclaimed a
+                People&apos;s Hero on December 20, 1951.
+              </p>
+              <p>
+                116.<strong> Miloš Kupres</strong> (1920-1942), was proclaimed a
+                People&apos;s Hero on July 24, 1953.
+              </p>
+              <p>
+                117.<strong> Milan Kuprešanin</strong> (1911-2005), was awarded
+                the Order of the People&apos;s Hero on July 23, 1952.
+              </p>
+              <p>
+                118.<strong> Milinko Kušić</strong> (1912-1943), was proclaimed
+                a People&apos;s Hero on May 9, 1945.
+              </p>
             </Accordion.Body>
           </Accordion.Item>
         </Accordion>
