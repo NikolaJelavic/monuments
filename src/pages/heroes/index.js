@@ -17,7 +17,7 @@ export default function News() {
       <Header />
       <Navbar />
       <div className="flex justify-center">
-        <div className="w-1/2">
+        <div className="w-11/12 md:w-1/2">
           <p className="text-xl my-2 ">
             The Order of the People&apos;s Hero was a decoration bestowed by the
             Federal People&apos;s Republic of Yugoslavia and later the Socialist
@@ -50,7 +50,7 @@ export default function News() {
       </p>
 
       <div className="flex flex-col lg:flex-row justify-evenly">
-        {/* left Accordion*/}
+        {/* left Accordion YU heroes*/}
         <Accordion
           defaultActiveKey="6"
           className="w-full lg:w-2/5 mb-4 lg:mb-0"
@@ -2493,7 +2493,7 @@ export default function News() {
           </Accordion.Item>
         </Accordion>
 
-        {/* right Accordion*/}
+        {/* right Accordion Yu heroes*/}
         <Accordion
           defaultActiveKey="4"
           className="w-full lg:w-2/5 mb-4 lg:mb-0"
@@ -3407,16 +3407,426 @@ export default function News() {
           </Accordion.Item>
         </Accordion>
       </div>
-      <div className="m-5 shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg w-1/3 mx-auto">
-        <p>
-          Source: 
-          <a
-            href="https://www.wikiwand.com/bs/Spisak_narodnih_heroja_Jugoslavije"
-            className="text-black text-bold"
-          >
-             https://www.wikiwand.com/bs/Spisak_narodnih_heroja_Jugoslavije
-          </a>
-        </p>
+
+      <p className="text-center m-8 text-2xl">
+        List of 22 Foreign Heroes of Yugoslavia
+      </p>
+      <div className="flex flex-col lg:flex-row justify-evenly">
+        {/* left Accordion foreign heroes*/}
+        <Accordion
+          defaultActiveKey="12"
+          className="w-full lg:w-2/5 mb-4 lg:mb-0"
+        >
+          <Accordion.Item eventKey="0">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Sergey Biryuzov
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>
+                https://www.slobodnajugoslavija.com/literatura/strani_drzavljani_narodni_heroji.pdf
+              </p>
+              <p>https://en.wikipedia.org/wiki/Sergey_Biryuzov</p>
+            </Accordion.Body>
+          </Accordion.Item>
+
+          <Accordion.Item eventKey="1">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Ivan Bulkin
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <a href="https://sr.wikipedia.org/wiki/%D0%98%D0%B2%D0%B0%D0%BD_%D0%91%D1%83%D0%BB%D0%BA%D0%B8%D0%BD">
+                https://sr.wikipedia.org/wiki/Ivan_Bulkin
+              </a>
+            </Accordion.Body>
+          </Accordion.Item>
+
+          <Accordion.Item eventKey="2">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Pavel Dmitrenko
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>
+                https://sr.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D1%98%D0%B5%D0%BD%D0%BA%D0%BE
+              </p>
+            </Accordion.Body>
+          </Accordion.Item>
+
+          <Accordion.Item eventKey="3">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Vladimir Zdanov
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>
+                https://sr.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%96%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2
+              </p>
+            </Accordion.Body>
+          </Accordion.Item>
+
+          <Accordion.Item eventKey="4">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Vladimir Zdanov
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>
+                https://sr.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%96%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2
+              </p>
+            </Accordion.Body>
+          </Accordion.Item>
+
+          <Accordion.Item eventKey="5">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Michał Rola-Żymierski
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>
+                https://en.wikipedia.org/wiki/Micha%C5%82_Rola-%C5%BBymierski
+              </p>
+            </Accordion.Body>
+          </Accordion.Item>
+
+          <Accordion.Item eventKey="6">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Pavel Jakimov
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>
+                https://sr.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%88%D0%B0%D0%BA%D0%B8%D0%BC%D0%BE%D0%B2
+              </p>
+            </Accordion.Body>
+          </Accordion.Item>
+
+          <Accordion.Item eventKey="7">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Boris Kalinkin
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>
+                https://sr.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%BA%D0%B8%D0%BD
+              </p>
+            </Accordion.Body>
+          </Accordion.Item>
+
+          <Accordion.Item eventKey="8">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Semyon Kozak
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>https://en.wikipedia.org/wiki/Semyon_Kozak</p>
+            </Accordion.Body>
+          </Accordion.Item>
+
+          <Accordion.Item eventKey="9">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Ivan Konstantinov
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>
+                https://sr.wikipedia.org/wiki/%D0%98%D0%B2%D0%B0%D0%BD_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2
+              </p>
+            </Accordion.Body>
+          </Accordion.Item>
+
+          <Accordion.Item eventKey="10">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Vojo Kušić
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>https://en.wikipedia.org/wiki/Vojo_Kushi</p>
+            </Accordion.Body>
+          </Accordion.Item>
+        </Accordion>
+
+        {/* right Accordion foreign heroes*/}
+        <Accordion
+          defaultActiveKey="1"
+          className="w-full lg:w-2/5 mb-4 lg:mb-0"
+        >
+          <Accordion.Item eventKey="11">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Luigi Longo
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>https://en.wikipedia.org/wiki/Luigi_Longo</p>
+            </Accordion.Body>
+          </Accordion.Item>
+
+          <Accordion.Item eventKey="12">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Rodion Malinovsky
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>https://en.wikipedia.org/wiki/Rodion_Malinovsky</p>
+            </Accordion.Body>
+          </Accordion.Item>
+
+          <Accordion.Item eventKey="13">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Aleksandar Managadze
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>
+                https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D0%B0%D0%BD%D0%B0%D0%B3%D0%B0%D0%B4%D0%B7%D0%B5
+              </p>
+            </Accordion.Body>
+          </Accordion.Item>
+
+          <Accordion.Item eventKey="14">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Grigori Ohrimenko
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>
+                https://sr.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D1%98_%D0%9E%D1%85%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%BA%D0%BE
+              </p>
+            </Accordion.Body>
+          </Accordion.Item>
+
+          <Accordion.Item eventKey="15">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Ludvík Svoboda
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>https://en.wikipedia.org/wiki/Ludv%C3%ADk_Svoboda</p>
+            </Accordion.Body>
+          </Accordion.Item>
+
+          <Accordion.Item eventKey="16">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Vladimir Sudets
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>https://en.wikipedia.org/wiki/Vladimir_Sudets</p>
+            </Accordion.Body>
+          </Accordion.Item>
+
+          <Accordion.Item eventKey="17">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Fyodor Tolbukhin
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>https://en.wikipedia.org/wiki/Fyodor_Tolbukhin</p>
+            </Accordion.Body>
+          </Accordion.Item>
+
+          <Accordion.Item eventKey="18">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Васиљ Улиско
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>
+                https://sr.wikipedia.org/wiki/%D0%92%D0%B0%D1%81%D0%B8%D1%99_%D0%A3%D0%BB%D0%B8%D1%81%D0%BA%D0%BE
+              </p>
+            </Accordion.Body>
+          </Accordion.Item>
+
+          <Accordion.Item eventKey="19">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Enver Hoxha
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>https://en.wikipedia.org/wiki/Enver_Hoxha</p>
+            </Accordion.Body>
+          </Accordion.Item>
+
+          <Accordion.Item eventKey="20">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Reshid Cholaku
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>
+                https://sr.wikipedia.org/wiki/%D0%A0%D0%B5%D1%88%D0%B8%D0%B4_%D0%A7%D0%BE%D0%BB%D0%B0%D0%BA%D1%83
+              </p>
+            </Accordion.Body>
+          </Accordion.Item>
+
+          <Accordion.Item eventKey="21">
+            <Accordion.Header>
+              <Image
+                src="/img/orden.jpg"
+                alt="text"
+                width="25"
+                height="25"
+                className="-ml-2 mr-2 -mb-2 -mt-2"
+              />
+              Aleksandar Shornikov
+            </Accordion.Header>
+            <Accordion.Body className="visible">
+              <p>
+                https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%A8%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2
+              </p>
+            </Accordion.Body>
+          </Accordion.Item>
+        </Accordion>
+      </div>
+
+      <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto">
+        <ul>
+          Source:{" "}
+          <li>
+            {" "}
+            <a
+              href="https://www.wikiwand.com/bs/Spisak_narodnih_heroja_Jugoslavije"
+              className="text-black text-bold"
+            >
+              wikiwand.com/Spisak_heroja
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://sr.wikipedia.org/sr-el/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%98%D0%B0:%D0%9D%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B8_%D1%85%D0%B5%D1%80%D0%BE%D1%98%D0%B8_%D0%88%D1%83%D0%B3%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D1%98%D0%B5_(%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%86%D0%B8)"
+              className="text-black text-bold"
+            >
+              wikipedia.com/Spisak_Heroja_Stranci
+            </a>
+          </li>
+        </ul>
       </div>
     </>
   );
