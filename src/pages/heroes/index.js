@@ -3429,10 +3429,108 @@ export default function News() {
               Sergey Biryuzov
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <p>
-                https://www.slobodnajugoslavija.com/literatura/strani_drzavljani_narodni_heroji.pdf
+              <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1691845815/Heroji%20-%20Strani/Sergey_Biryuzov_sghshl.jpg"
+                }
+                width={200}
+                height={200}
+                alt="Biryuzov"
+                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Sergey Semyonovich Biryuzov </strong>(Russian: Серге́й
+                Семёнович Бирюзо́в; 21 August 1904 - 19 October 1964) was a
+                Marshal of the Soviet Union and Chief of the General Staff.
               </p>
-              <p>https://en.wikipedia.org/wiki/Sergey_Biryuzov</p>
+              <p className="text-2xl text-bold">
+                Early life and prewar service
+              </p>
+              <p className="m-2">
+                Biryuzov was born in Skopin, in the Ryazan Governorate of the
+                Russian Empire, in a working-class family of Russian ethnicity.
+                He joined the Red Army in September 1922, studying at the 48th
+                Rostov Infantry and Machine Gun and the 10th Vladikavkaz Courses
+                in the North Caucasus Military District before transferring to
+                the VTsIK Combined Military School in Moscow in October 1923.
+                After graduating from the latter, Biryuzov returned to the North
+                Caucasus Military District in September 1926 to command a
+                platoon of the 65th Rifle Regiment of the 22nd Rifle Division.
+                In the same year he became a member of the Communist Party of
+                the Soviet Union. From December 1929 he served as commander of
+                an airfield company of the 36th Aircraft Fleet in the district.
+                After completing studies at the Military Faculty of the Moscow
+                Zootechnical Institute between June 1930 and February 1931,
+                Biryuzov served with the 3rd Rifle Regiment of the Moscow
+                Proletarian Rifle Division, rising from company commander to
+                chief of staff of the training battalion to rifle battalion
+                commander during his service with the regiment. Entering the
+                Frunze Military Academy in June 1934, Biryuzov became chief of
+                staff of the 30th Rifle Division following his graduation in
+                October 1937. He was acting division commander until February
+                1938 and in April of that year became chief of the operations
+                department Kharkov Military District staff. Biryuzov held this
+                position until August 1939, when he became the commanding
+                officer of the 132nd Rifle Division.
+              </p>
+              <p className="text-2xl text-bold">World War II</p>
+              <p className="m-2">
+                Biryuzov commanded this unit for the next three years, a rarity
+                among Soviet generals, especially during World War II-as Soviet
+                generals rarely held command positions for longer than a few
+                months at most.[citation needed] Biryuzov&apos;s division was a
+                part of Southwestern and Bryansk Fronts. Biryuzov was a fine
+                division commander, often leading his division personally into
+                battle. Within the first year of Operation Barbarossa (June
+                1941), Biryuzov had been wounded five times, two times rather
+                severely. In April 1942, he was made the Chief of Staff of the
+                48th Army, which was a part of Bryansk Front. He commanded this
+                unit until November 1942, when he was made the Chief of Staff of
+                the 2nd Guards Army. He was in this position until April 1943,
+                helping to lead this unit during Operation Saturn, when 2nd
+                Guards Army helped crush the German 6th Army after the Germans
+                had been surrounded during the Battle of Stalingrad. In April
+                1943, he was made the Chief of Staff of the Southern Front,
+                where he was a valuable aide to the Southern Front commander,
+                Fyodor Tolbukhin. On October 20, 1943, Southern Front was
+                renamed 4th Ukrainian Front. Biryuzov remained the Chief of
+                Staff until May 1944 when he was transferred to 3rd Ukrainian
+                Front, along with Tolbukhin. In October 1944, Biryuzov was
+                transferred to command the 37th Army, which was a part of 3rd
+                Ukrainian Front. He held this position through the end of the
+                war, until May 1945. In these command positions, Biriuzov helped
+                plan and carry out the expulsion of all German forces from the
+                Ukraine, and then helped plan and carry out the liberation of
+                Bulgaria and Yugoslavia.
+              </p>
+              <p className="text-2xl text-bold">Death</p>
+              <p className="m-2">
+                On October 19, 1964, Biryuzov and 32 others were killed when
+                their{" "}
+                <a
+                  href="https://sr.wikipedia.org/wiki/%D0%90%D0%B2%D0%B8%D0%BE%D0%BD%D1%81%D0%BA%D0%B0_%D0%BD%D0%B5%D1%81%D1%80%D0%B5%D1%9B%D0%B0_%D0%BD%D0%B0_%D0%90%D0%B2%D0%B0%D0%BB%D0%B8_1964."
+                  className="underline"
+                >
+                  Ilyushin Il-18 crashed
+                </a>{" "}
+                against mount Avala near Belgrade. The urn containing his ashes
+                is buried in the Kremlin.
+              </p>
+
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://en.wikipedia.org/wiki/Sergey_Biryuzov"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      wikipedia.org/wiki/Sergey_Biryuzov
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </Accordion.Body>
           </Accordion.Item>
 
@@ -3448,9 +3546,82 @@ export default function News() {
               Ivan Bulkin
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <a href="https://sr.wikipedia.org/wiki/%D0%98%D0%B2%D0%B0%D0%BD_%D0%91%D1%83%D0%BB%D0%BA%D0%B8%D0%BD">
-                https://sr.wikipedia.org/wiki/Ivan_Bulkin
-              </a>
+              <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1691848344/Heroji%20-%20Strani/Ivan_Bulkin_ycmgvr.jpg"
+                }
+                width={200}
+                height={200}
+                alt="Bulkin"
+                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Ivan Antonovich Bulkin </strong>(Russian: Ivan
+                Antonovich Bulkin; 1920 — 1974), a Soviet aviation major and a
+                People&apos;s Hero of Yugoslavia.
+              </p>
+              <p className="text-2xl text-bold">Biography</p>
+              <p className="m-2">
+                He was born on June 20, 1920, in the village of Tovtrud,
+                Ukraine. He came from a peasant family. After completing
+                secondary school in 1936, he enrolled in a Higher Pedagogical
+                School, and upon its completion in 1939, he became a teacher in
+                a village school. In 1940, he was drafted into the Red Army and
+                sent to the War Aviation School, which he graduated from in
+                1942. From 1942 onwards, as a lieutenant and later a senior
+                lieutenant, Bulkin served on the front as a navigator in
+                long-range aviation units that targeted enemy troop
+                concentrations, machinery, railway junctions, and more. In early
+                1944, the long-range aviation corps where Bulkin served received
+                a task from the Soviet government to supply the Yugoslav
+                People&apos;s Liberation Army with weapons, ammunition,
+                communication equipment, medicine, and other supplies. Night
+                flights to Yugoslavia soon began. In these flights, the crew
+                consisted of three comrades: aircraft commander Captain
+                Alexander Managadze, navigator Lieutenant Ivan Bulkin, and
+                gunner-radio operator Corporal Petar Boltarchuk. Night after
+                night, they took off from an airfield in the newly liberated
+                territory of Ukraine, heading southwest. Bulkin&apos;s
+                exceptional skill was demanded in these flights. He needed to
+                precisely navigate the plane to the target, deep in the
+                mountains of Yugoslavia. For hours, navigator Bulkin surveyed
+                the terrain covered in nighttime darkness, searching for barely
+                visible landmarks. The crew, in which Bulkin served, flew to
+                various parts of Yugoslavia, delivering cargoes of 1.5 to 2 tons
+                to the Yugoslav partisans. The crew successfully accomplished
+                all tasks. Acknowledging the significant contribution of Soviet
+                pilots in aiding the Yugoslav People&apos;s Liberation Army, the
+                Presidency of AVNOJ (Anti-Fascist Council for the National
+                Liberation of Yugoslavia) awarded the navigator Senior
+                Lieutenant Ivan Antonovich Bulkin with the Order of the
+                People&apos;s Hero of Yugoslavia on June 21, 1945. After the
+                war, Bulkin remained in the military aviation. As a major in
+                aviation, he was transferred to the reserve in 1960. In his
+                later years, Bulkin lived in the Ukrainian city of Bila Tserkva,
+                where he was elected as a deputy of the City Council six times
+                by its residents. As a member of the Soviet Committee of War
+                Veterans, Ivan Antonovich Bulkin visited Yugoslavia in 1961.
+              </p>
+              <p className="text-2xl text-bold">Death</p>
+              <p className="m-2">
+                He passed away on September 16, 1974, and was buried in a
+                cemetery in Bila Tserkva, Ukraine.
+              </p>
+
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://sr.wikipedia.org/wiki/%D0%98%D0%B2%D0%B0%D0%BD_%D0%91%D1%83%D0%BB%D0%BA%D0%B8%D0%BD"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      wikipedia.org/wiki/Sergey_Biryuzov
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </Accordion.Body>
           </Accordion.Item>
 
@@ -3463,12 +3634,87 @@ export default function News() {
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Pavel Dmitrenko
+              Andrej Vitruk
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <p>
-                https://sr.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D1%98%D0%B5%D0%BD%D0%BA%D0%BE
+              <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1691872615/Heroji%20-%20Strani/Andrej_Vitruk_biksc6.jpg"
+                }
+                width={200}
+                height={200}
+                alt="Bulkin"
+                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Andrei Nikiforovich Vitruk</strong> (Ukrainian: Andrii
+                Nykyforovych Vitruk; Russian: Andrei Nikiforovich Vitruk;
+                Zhytomyr, July 8, 1902 - Kiev, June 2, 1946) was a Soviet Major
+                General of Aviation, a Hero of the Soviet Union, and a
+                People&apos;s Hero of Yugoslavia.
               </p>
+              <p className="text-2xl text-bold">Biography</p>
+              <p className="m-2">
+                He was born on July 8, 1902, in the village of Andrushky, near
+                Zhytomyr, on the territory of present-day Ukraine, into a poor
+                peasant family. At the age of 13, he began working as a hired
+                laborer in a sugar factory, and he joined the Red Army in 1924.
+                He served for eight years in artillery units, and in 1934, he
+                decided to become a pilot and enrolled in the Military Aviation
+                School in Borisoglebsk. As a fighter-bomber pilot, he
+                participated in the Battle of Khalkhin Gol against Japan, and
+                later in the German and Soviet invasions of Poland in 1939 and
+                the Winter War against Finland. In 1941, he underwent officer
+                training and became the commander of the Soviet 65th Air
+                Regiment in the Leningrad Military District. He remained in that
+                position until the beginning of the German invasion of the
+                Soviet Union. On July 6, 1941, he was wounded but did not
+                withdraw, and he was promoted to the rank of colonel. During
+                this time, his regiment replaced outdated Polikarpov I-15
+                aircraft with more modern Ilyushin Il-2 aircraft. After
+                training, the regiment was divided, and Vitruk remained the
+                commander of one part of the regiment. In October, he was
+                transferred to the Soviet Western Front near Moscow. In early
+                1942, he completed his 21st flight but did not shoot down any
+                enemy planes. Nevertheless, due to his excellent command of the
+                regiment, he was awarded the title Hero of the Soviet Union on
+                February 24, 1942. In July 1942, Vitruk became the commander of
+                the 291st Division, which was later transformed into the 10th
+                Guards Aviation Division of the Soviet Air Force. In this role,
+                he commanded during the battles for Voronezh, Kyiv, and Targu
+                Frumos. He later participated in battles that led to the capture
+                of Ploiești, Bucharest, and Craiova in Romania, as well as in
+                the Belgrade Offensive. After the liberation of Belgrade,
+                Vitruk&apos;s group was placed at the disposal of the Yugoslav
+                Partisans (NOVJ), which later fought on the Srem Front.
+                Vitruk&apos;s group also participated in the capture of the
+                Hungarian city of Székesfehérvár. For his contributions to the
+                fights in Yugoslavia, the Presidency of the AVNOJ (Anti-Fascist
+                Council for the National Liberation of Yugoslavia) awarded him
+                the title of People&apos;s Hero on January 29, 1945, based on a
+                proposal by Supreme Commander of the Yugoslav Army Marshal Josip
+                Broz Tito.
+              </p>
+              <p className="text-2xl text-bold">Death</p>
+              <p className="m-2">
+                Andrei Vitruk passed away on June 2, 1946, after a serious
+                illness, and he was buried in Kyiv.
+              </p>
+
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://sr.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D1%98_%D0%92%D0%B8%D1%82%D1%80%D1%83%D0%BA"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      wikipedia.org/wiki/Andrej_Vitruk
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </Accordion.Body>
           </Accordion.Item>
 
@@ -3481,12 +3727,74 @@ export default function News() {
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Vladimir Zdanov
+              Pavel Dmitrijenko
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <p>
-                https://sr.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%96%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2
+              <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1691849268/Heroji%20-%20Strani/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D1%94%D0%BD%D0%BA%D0%BE_uhk9ym.jpg"
+                }
+                width={200}
+                height={200}
+                alt="Bulkin"
+                className="rounded-xl float-right w-24 md:w-48 m-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Pavel Ignatievich Dmitriyenko</strong> (Russian: Pavel
+                Ignatievich Dmitrienko; Dnepropetrovsk, 1920 — Ukrainian SSR,
+                January 1951), a Soviet pilot and a People&apos;s Hero of
+                Yugoslavia.
               </p>
+              <p className="text-2xl text-bold">Biography</p>
+              <p className="m-2">
+                He was born in 1920 in Dnepropetrovsk. After completing
+                secondary school, he enrolled in an aviation school. In 1942, as
+                a navigator, he was assigned to long-range bomber aviation,
+                where he served until the end of the war, participating in
+                bombing enemy military targets. In 1944, the aviation regiment
+                he served in was tasked with providing assistance to the
+                Yugoslav People&apos;s Liberation Army. The crew, consisting of
+                P.D. Petrov, the aircraft commander, Pavel Dmitriyenko, the
+                navigator, A. Shcherbakov, the co-pilot, V. Vinogradov, the
+                radio-telegraphist, and A. Lekomchev, the gunner, was one of the
+                best in the regiment. Since the flights were conducted at night,
+                over unfamiliar territory, without radio-navigation equipment to
+                locate the drop-off point for supplies to the NOVJ (National
+                Liberation Army of Yugoslavia), a special flight system with a
+                leader was developed. As the leader, the first aircraft flew
+                with one of the most experienced crews, which located the
+                target, dropped the cargo, and circled above it while
+                simultaneously transmitting prearranged radio signals. Other
+                aircraft oriented themselves to these signals as if they were
+                radio beacons and accurately hit the target. The crew of P.
+                Petrov, with Pavel Dmitriyenko as the navigator, routinely
+                conducted reconnaissance flights and took on the role of the
+                leader. Navigator Dmitriyenko always brought the aircraft
+                precisely to the target. The Presidency of the Anti-Fascist
+                Council for the National Liberation of Yugoslavia awarded him
+                the Order of the People&apos;s Hero of Yugoslavia on June 21,
+                1945.
+              </p>
+              <p className="text-2xl text-bold">Death</p>
+              <p className="m-2">
+                After the war, Pavel Dmitriyenko continued to serve in aviation.
+                He passed away in January 1951.
+              </p>
+
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://sr.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D1%98%D0%B5%D0%BD%D0%BA%D0%BE"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      wikipedia.org/wiki/Pavel_Dmitrijenko
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </Accordion.Body>
           </Accordion.Item>
 
@@ -3502,9 +3810,171 @@ export default function News() {
               Vladimir Zdanov
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <p>
-                https://sr.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%96%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2
+              <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1691873965/Heroji%20-%20Strani/Vladimir_Zhdanov_nbug1d.jpg"
+                }
+                width={200}
+                height={200}
+                alt="Biryuzov"
+                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Vladimir Ivanovich Zhdanov </strong>( Russian: Влади́мир
+                Ива́нович Жда́нов ; Kyiv , April 29 , 1902 — Belgrade , October
+                19, 1964 ) was a participant in the Russian Civil War and the
+                Great Patriotic War , a colonel-general of the Red Army , a Hero
+                of the Soviet Union and a national hero of Yugoslavia .
               </p>
+              <p className="text-2xl text-bold">Biography</p>
+              <p className="m-2">
+                He was born on April 29, 1902 in Kiev . After completing his
+                education, he worked at the power plant in Yesentuky , Stavropol
+                Territory. In August 1920, during the final battles of the civil
+                war in Russia , he joined the worker-peasant Red Army as a
+                volunteer . He fought in the North Caucasus and participated in
+                the battles for Kislovodsk , Pyatigorsk , Nalchik , Grozny and
+                others. He was wounded in September 1920, and a year later he
+                was released on a long leave. In August 1923, he was returned to
+                active military service. In 1926, he graduated from the Infantry
+                School in Kiev, where he gained extensive command experience. In
+                September of the same year, he was appointed as the platoon
+                commander of the 70th Infantry Regiment, 24th Infantry Division,
+                17th Rifle Corps of the Ukrainian Military District. From
+                September 1928, he was the commander of the city of Vinnytsia in
+                the Ukrainian SSR , and from September 1931, the commander of
+                the machine gun company of the 70th Infantry Regiment. In 1932,
+                he completed a training course for officers of armored units of
+                the Red Army in Leningrad and then transferred to tank units.
+                From March 1932, he was the commander of the tank company, and
+                then the head of the workshop of the 32nd separate tank
+                battalion. In August of the same year, he was appointed head of
+                the workshop of the Fifth Tank Regiment of the Volga Military
+                Region. In April 1933, he transferred to the 11th Mechanized
+                Regiment of the 11th Cavalry Division in Orenburg , where he was
+                the head of the workshop, assistant chief of staff and head of
+                the regimental school. In March 1936, he transferred to the
+                Infantry School in Kazan , where he taught tactics and
+                automotive technology, and from October 1938 he was the head of
+                the school&apos;s armored service. In 1940, he graduated with
+                honors from the Frunze Military Academy , after which from April
+                of the same year he was a university inspector at the Staff of
+                the Volga Military Region. Immediately before the attack of the
+                Axis Powers on the Soviet Union , on June 3, 1941, he was
+                appointed deputy head of the Tank School in Sizranje . He was in
+                this position during the first months of the Great Patriotic War
+                . He was admitted to the Communist Party of the Soviet Union
+                (CPSU) in 1941. At the beginning of 1942, he completed the
+                accelerated course at the Voroshilov Higher Military Academy ,
+                after which he was sent to the front in May of the same year. He
+                was the Chief of Staff of the 13th Tank Corps (the corps was
+                renamed the 4th Guards Mechanized Corps in January 1943 ) and
+                participated in the defensive battles on the Don and near
+                Stalingrad , as well as in the offensive of Soviet troops near
+                Stalingrad , in Rostov , Donbass and Ph.D. For his merits in the
+                previous battles, on June 7, 1943, by Decree of the Council of
+                People&apos;s Commissars of the USSR, he was promoted to the
+                rank of Major General, and he was appointed commander of the 4th
+                Guards Mechanized Corps (then part of the Second, and then part
+                of the Third Ukrainian Front) on March 31, 1944, and he remained
+                in this position until the end of the war. For a long time, the
+                mechanized corps was part of the cavalry-mechanized group of the
+                Third Ukrainian Front, which repeatedly participated in deep
+                penetrations into enemy rears and was surrounded by strong enemy
+                forces. He demonstrated his commanding abilities in particular
+                in August 1944 in the battles in the south of Ukraine, in the
+                Jaško-Kishniev operation , which opened the way for Soviet
+                troops to the Balkans .. He skilfully led the combat formations
+                of the corps when breaking through the enemy&apos;s defenses on
+                the Dniester and during the encirclement of the enemy&apos;s
+                Kishinev group, when around 14,000 enemy soldiers and officers
+                were captured. For his merits in these battles, on September 13,
+                1944, by Decree of the Presidium of the Supreme Soviet of the
+                USSR, he was declared a Hero of the Soviet Union and awarded the
+                Order of Lenin, and by Decree of the Council of People&apos;s
+                Commissars of the USSR, he was promoted to the rank of
+                lieutenant general .
+              </p>
+              <p className="text-2xl text-bold">World War II</p>
+              <p className="m-2">
+                After the liberation of Bulgaria , in September 1944, his corps
+                moved to Yugoslavia, where he participated in the battles for
+                the liberation of its eastern parts. During the Belgrade
+                operation , in October 1944, the fighters of the 4th Guards
+                Mechanized Corps fought together with the fighters of the
+                People&apos;s Liberation Army of Yugoslavia (NOVJ). On November
+                6, 1944, he was awarded the Order of National Hero for his
+                merits in the fight against the common enemy and his
+                contribution to the liberation of Belgrade by Decree of the
+                Presidency of AVNOJ . His mechanized corps stood out during the
+                Budapest operation , when near Esztergom he managed to close the
+                environment around the Budapest enemy group. He then captured
+                the cities of Kunsentmiklos , Hatvan and Balašadjarmat in the
+                vicinity of Budapest and repelled enemy counterattacks. In
+                February 1945, the mechanized corps fought to hold and expand
+                the bridgehead on the Hron River in southern Czechoslovakia ,
+                after which it was in reserve.After the end of World War II, he
+                continued to command the 4th Guards Mechanized Corps until its
+                disbandment, and then the 5th Guards Mechanized Division. From
+                June 1947 to April 1949, he was the commander of the 6th Guards
+                Mechanized Army in the Transbaikal Military District. In 1950,
+                he completed the course at the Voroshilov Higher Military
+                Academy and from March 1951 he was the Chief of Staff, and then
+                the Deputy Commander of the Far Eastern Military District. From
+                August 1953, he was the assistant commander of the South Ural
+                Military District, and from April 1954, the assistant commander
+                of the Central Group of Forces. From July of the same year, he
+                was the head of the Directorate for Combat Training of the
+                Central Group of Forces. From September 1955, he was the first
+                deputy commander of the Transbaikal Military District. In
+                September 1961, he was appointed a senior military advisor to a
+                military district unit of the People&apos;s Army of the German
+                Democratic Republic (GDR). By decree of the Council of Ministers
+                of the USSR on April 13, 1964, he was promoted to the rank of
+                colonel-general, and in June of the same year he was appointed
+                head of the Military Academy of Armored Forces.
+              </p>
+              <p className="text-2xl text-bold">Death</p>
+              <p className="m-2">
+                In October 1964, he was designated as a member of the Soviet
+                military delegation that was supposed to come to the celebration
+                of the 20th anniversary of the liberation of Belgrade. Together
+                with him, the delegation included, among others, Marshal of the
+                Soviet Union Sergei Biryuzov , Major General Nikolai Mironov,
+                Lieutenant General Nikolai Shkodunovich, retired Lieutenant
+                General Ivan Kravtsov and retired Major General Leonid Bocharov.
+                When arriving in Belgrade, on October 19, 1964,{" "}
+                <a
+                  href="https://sr.wikipedia.org/wiki/%D0%90%D0%B2%D0%B8%D0%BE%D0%BD%D1%81%D0%BA%D0%B0_%D0%BD%D0%B5%D1%81%D1%80%D0%B5%D1%9B%D0%B0_%D0%BD%D0%B0_%D0%90%D0%B2%D0%B0%D0%BB%D0%B8_1964."
+                  className="underline"
+                >
+                  the Ilyushin Il-18 plane crashed{" "}
+                </a>
+                into the peak of Avala due to poor visibility , and all 18
+                members of the delegation and the plane&apos;s crew died in this
+                plane crash . All those who died in the plane crash were buried
+                in a common grave in the Novodevichy cemetery in Moscow . A
+                monument to Soviet war veterans was erected at the place of his
+                death in 1965 , and one of the main streets in Belgrade bore the
+                name of General Zhdanov for many years, but in 1997 the old name
+                of Resavska was returned. Since 2017, another street in New
+                Belgrade has been named after him.
+              </p>
+
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://en.wikipedia.org/wiki/Vladimir_Zhdanov"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      wikipedia.org/wiki/Vladimir_Zhdanov
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </Accordion.Body>
           </Accordion.Item>
 
@@ -3520,9 +3990,91 @@ export default function News() {
               Michał Rola-Żymierski
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <p>
-                https://en.wikipedia.org/wiki/Micha%C5%82_Rola-%C5%BBymierski
+              <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1691875937/Heroji%20-%20Strani/Michal_rola_zymierski_imasqr.jpg"
+                }
+                width={200}
+                height={200}
+                alt="Biryuzov"
+                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Michał Rola-Żymierski </strong> (pronounced [`mixaw
+                `rɔla ʐɨ`mjɛrskʲi]; 4 September 1890 - 15 October 1989) was a
+                Polish high-ranking Communist Party leader, communist military
+                commander and NKVD secret agent. He was appointed as Marshal of
+                Poland by Joseph Stalin, and served in this position from 1945
+                until his death. He supported the 1981 imposition of Martial law
+                in Poland.
               </p>
+              <p className="text-2xl text-bold">Early life</p>
+              <p className="m-2">
+                Rola-Żymierski was born Michał Łyżwiński in Kraków under the
+                Austrian Partition, to the family of railway clerk, Wojciech
+                Łyżwiński. He joined the Zarzewie and later joined the Polish
+                Rifle Squads. At the age of 20, he enrolled at the law faculty
+                of the Jagiellonian University in 1910, but was drafted a year
+                later. In the years 1911-1912, he served compulsory service in
+                the Austro-Hungarian Army, where he graduated from the school of
+                reserve officers. After his brother committed a widely
+                publicised murder-robbery in Kraków, he began to call himself
+                Żymierski around 1913.
+              </p>
+              <p className="text-2xl text-bold">World War II</p>
+              <p className="m-2">
+                Żymierski returned to Poland shortly before the Nazi-Soviet
+                invasion of Poland at the onset of World War II, and soon
+                resumed his clandestine work for the NKVD (as revealed first by
+                Józef Światło). He unsuccessfully applied for return to the
+                army. In the fall of 1939, he obtained false documents in the
+                name of Zwoliński which he used it during the German occupation
+                of Poland. According to the official biography of Żymierski,
+                published anonymously in 1986, in February 1940 an underground
+                civil court composed of anti-Piłsudski activists considered the
+                1927 arrest and sentencing of Żymierski as unjust and
+                rehabilitated him. The civil court was probably unaware that
+                Żymierski was then an agent of the NKVD, and the court&apos;s
+                decision had no legal significance and force in the light of the
+                applicable criminal law of the Second Polish Republic, as the
+                only judicial authorities that could acquit Żymierski under the
+                conditions of the occupation was the judicial system operating
+                from May 1940. Under the pseudonym &ldquo;Rola&ldquo;, he
+                engaged in the Soviet dealings with Nazi German Gestapo secret
+                police. In 1943, by Soviet executive order, he was named the
+                deputy commander of the Communist and Soviet-backed Gwardia
+                Ludowa, and from 1944, the commander of Armia Ludowa. He was
+                promoted by the Communist-backed Polish Committee of National
+                Liberation back to the rank of General and became the
+                commander-in-chief of the Polish Army fighting alongside the
+                Soviet Union (the Polish Armed Forces in the East). He was
+                Minister of Defence in the Provisional Government of the
+                Republic of Poland (Rząd Tymczasowy Rzeczypospolitej Polskiej,
+                January-June 1945). On 3 May 1945, by order of Stalin, he was
+                promoted to the rank of Marshal of Poland.
+              </p>
+              <p className="text-2xl text-bold">Death</p>
+              <p className="m-2">
+                He died in Warsaw on 15 October 1989 and was the last person to
+                hold the rank of Marshal of Poland. He was buried with full
+                military honors at Powązki Military Cemetery in Warsaw.
+                Żymierski&apos;s grave was desecrated twice by unknown perpetrators.
+              </p>
+
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://en.wikipedia.org/wiki/Micha%C5%82_Rola-%C5%BBymierski"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      wikipedia.org/wiki/Michal_Rola-Zymierski
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </Accordion.Body>
           </Accordion.Item>
 
