@@ -1,9 +1,9 @@
-import Header from "../../../src/components/Header";
+import Header from "../../components/Header";
 import Navbar from "../navbar/navbar";
 import { useRouter } from "next/router";
 import Image from "next/image";
 
-export default function News() {
+export default function Articles() {
   const router = useRouter();
 
   // Function to handle dropdown item click
