@@ -1,11 +1,11 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
-import { Skranji } from "@next/font/google";;
+import { Skranji } from "@next/font/google";
 
 const skranji = Skranji({
   subset: ["cursive"],
   preload: false,
-  weight:'400',
+  weight: "400",
 });
 
 export default function Name2() {
@@ -20,7 +20,7 @@ export default function Name2() {
     <div>
       <ul className="absolute bg-red-600 rounded-b-xl z-10">
         <li className="p-2 text-black">
-          <Link href="/news">News</Link>
+          <Link href="/articles">Articles</Link>
         </li>
         <li className="p-2 text-black">
           <Link href="/quiz">Quiz</Link>
