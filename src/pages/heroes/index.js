@@ -2703,7 +2703,7 @@ export default function News() {
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Heroes with starting letter M
+              Heroes with starting letter M (170 Heroes will be added)
             </Accordion.Header>
             <Accordion.Body className="visible">
               <a href="https://www.wikiwand.com/bs/Spisak_narodnih_heroja_Jugoslavije:_M">
@@ -2962,7 +2962,7 @@ export default function News() {
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Heroes with starting letter P
+              Heroes with starting letter P (110 Heroes will be added)
             </Accordion.Header>
             <Accordion.Body className="visible">
               <a href="https://www.wikiwand.com/bs/Spisak_narodnih_heroja_Jugoslavije:_P">
@@ -2982,79 +2982,361 @@ export default function News() {
               Heroes with starting letter R
             </Accordion.Header>
             <Accordion.Body className="visible">
-            <p> 1. <strong>Franc Ravbar</strong> (1913-43), declared a national hero on July 5, 1951. </p>
-<p> 2. <strong>Ilija Radaković</strong> (1923-2015), awarded the Order of the National Hero on December 20, 1951. </p>
-<p> 3. <strong>Lazo Radaković</strong> (1913-2014), awarded the Order of the National Hero on December 20, 1951. </p>
-<p> 4. <strong>Mićo Radaković</strong> (1912-41), declared a national hero on December 14, 1949. </p>
-<p> 5. <strong>Luka Radetić</strong> (1918-82), awarded the Order of the National Hero on July 23, 1952. </p>
-<p> 6. <strong>Petar Radetić</strong> (1918-2003), awarded the Order of the National Hero on December 20, 1951. </p>
-<p> 7. <strong>Jovanka Radivojević</strong> (1922-43), declared a national hero on July 6, 1953. </p>
-<p> 8. <strong>Voja Radić</strong> (1902-77), awarded the Order of the National Hero on November 27, 1953. </p>
-<p> 9. <strong>Lepa Radić</strong> (1925-43), declared a national hero on December 20, 1951. </p>
-<p> 10. <strong>Velimir Radičević</strong> (1914-), declared a national hero on July 10, 1953. </p>
-<p> 11. <strong>Vladimir Radovanović</strong> (1903-43), declared a national hero on March 13, 1945. </p>
-<p> 12. <strong>Jovo Radovanović Jovaš</strong> (1915-2004), awarded the Order of the National Hero on July 26, 1945. </p>
-<p> 13. <strong>Milić Radovanović Mladen</strong> (1920-44), declared a national hero on July 5, 1951. </p>
-<p> 14. <strong>Gojko Radović</strong> (1911-71), awarded the Order of the National Hero on November 27, 1953. </p>
-<p> 15. <strong>Darinka Radović</strong> (1896-43), declared a national hero on October 9, 1953. </p>
-<p> 16. <strong>Lazar Radojević</strong> (1916-41), declared a national hero on December 20, 1951. </p>
-<p> 17. <strong>Milutin Radojević</strong> (1914-41), declared a national hero on December 20, 1951. </p>
-<p> 18. <strong>Vera Radosavljević Nada</strong> (1922-43), declared a national hero on July 5, 1951. </p>
-<p> 19. <strong>Dobrivoje Radosavljević Bobi</strong> (1915-84), awarded the Order of the National Hero on July 6, 1953. </p>
-<p> 20. <strong>Dobrosav Radosavljević Narod</strong> (1920-42), declared a national hero on July 5, 1952. </p>
-<p> 21. <strong>Dragoljub Radosavljević Toplica</strong> (1919-43), declared a national hero on July 5, 1951. </p>
-<p> 22. <strong>Radiša Radosavljević Šoša</strong> (1919-42), declared a national hero on December 20, 1951. </p>
-<p> 23. <strong>Veljko Radulović Mijo</strong> (1915-42), declared a national hero on July 13, 1953. </p>
-<p> 24. <strong>Jovan Radulović Jovo</strong> (1906-43), declared a national hero on November 27, 1953. </p>
-<p> 25. <strong>Milosav Radulović</strong> (1915-43), declared a national hero on November 27, 1953. </p>
-<p> 26. <strong>Nikola Radulović</strong> (1915-84), awarded the Order of the National Hero on July 24, 1953. </p>
-<p> 27. <strong>Radule Radulović Ruso</strong> (1919-42), declared a national hero on July 10, 1953. </p>
-<p> 28. <strong>Mitar Radusinović</strong> (1912-75), awarded the Order of the National Hero on October 9, 1953. </p>
-<p> 29. <strong>Vladimir Raičević</strong> (1922-44), declared a national hero on October 9, 1953. </p>
-<p> 30. <strong>Dušan Rakita</strong> (1900-42), declared a national hero on November 27, 1953. </p>
-<p> 31. <strong>Dragan Rakić</strong> (1914-59), awarded the Order of the National Hero on November 27, 1953. </p>
-<p> 32. <strong>Krešo Rakić</strong> (1919-41), declared a national hero on July 23, 1952. </p>
-<p> 33. <strong>Milić Rakić</strong> (1912-43), declared a national hero on December 20, 1951. </p>
-<p> 34. <strong>Joakim Rakovac</strong> (1914-45), declared a national hero on December 9, 1952. </p>
-<p> 35. <strong>Nenad Rakočević</strong> (1914-43), declared a national hero on December 20, 1951. </p>
-<p> 36. <strong>Radomir Rakočević</strong> (1914-44), declared a national hero on July 13, 1953. </p>
-<p> 37. <strong>Aleksandar Ranković Marko</strong> (1909-83), awarded the Order of the National Hero on July 4, 1945. </p>
-<p> 38. <strong>Anđa Ranković</strong> (1909-42), declared a national hero on July 6, 1953. </p>
-<p> 39. <strong>Milan Raspopović</strong> (1915-42), declared a national hero on May 17, 1945. </p>
-<p> 40. <strong>Stevo Rauš</strong> (1916-98), awarded the Order of the National Hero on December 20, 1951. </p>
-<p> 41. <strong>Nikola Rački</strong> (1914-94), awarded the Order of the National Hero on November 27, 1953. </p>
-<p> 42. <strong>Milija Rašović</strong> (1915-43), declared a national hero on December 20, 1951. </p>
-<p> 43. <strong>Miloš Rastović</strong> (1921-42), declared a national hero on December 20, 1951. </p>
-<p> 44. <strong>Ante Raštegorac</strong> (1923-86), awarded the Order of the National Hero on December 20, 1951. </p>
-<p> 45. <strong>Zorka Regancin-Dolničar</strong> (1921-44), declared a national hero on November 27, 1953. </p>
-<p> 46. <strong>Marko Redelongi Benečan</strong> (1912-44), declared a national hero on December 20, 1951. </p>
-<p> 47. <strong>Srećko Reić</strong> (1914-87), awarded the Order of the National Hero on July 24, 1953. </p>
-<p> 48. <strong>Petar Relić</strong> (1913-90), awarded the Order of the National Hero on November 27, 1953. </p>
-<p> 49. <strong>Dušan Remih</strong> (1922-44), declared a national hero on November 27, 1953. </p>
-<p> 50. <strong>Ivo Lola Ribar</strong> (1916-43), declared a national hero on November 18, 1944. </p>
-<p> 51. <strong>Dujo Rikić</strong> (1918-43), declared a national hero on July 5, 1951. </p>
-<p> 52. <strong>Sofija Ristić</strong> (1900-44), declared a national hero on October 9, 1953. </p>
-<p> 53. <strong>Vinko Robek</strong> (1915-86), awarded the Order of the National Hero on July 21, 1953. </p>
-<p> 54. <strong>Radivoj Rodić</strong> (1920-42), declared a national hero on July 24, 1953. </p>
-<p> 55. <strong>Slavko Rodić</strong> (1916-49), declared a national hero on December 14, 1949. </p>
-<p> 56. <strong>Valentin Rožanc</strong> (1895-42), declared a national hero on July 21, 1953. </p>
-<p> 57. <strong>Franc Rozman Stane</strong> (1911-44), declared a national hero on November 11, 1944. </p>
-<p> 58. <strong>Ante Roje</strong> (1914-82), declared a national hero on November 27, 1953. </p>
-<p> 59. <strong>Karlo Rojc</strong> (1915-42), declared a national hero on December 20, 1951. </p>
-<p> 60. <strong>Franc Rojšek</strong> (1914-75), awarded the Order of the National Hero on September 13, 1952. </p>
-<p> 61. <strong>Mirko Rokvić Šoša</strong> (1922-2004), awarded the Order of the National Hero on March 13, 1945. </p>
-<p> 62. <strong>Vladimir Rolović</strong> (1916-71), declared a national hero on April 9, 1971. </p>
-<p> 63. <strong>Niko Rolović</strong> (1910-41), declared a national hero on July 10, 1953. </p>
-<p> 64. <strong>Paško Romac</strong> (1913-82), awarded the Order of the National Hero on November 27, 1953. </p>
-<p> 65. <strong>Janko Rudolf</strong> (1914-97), awarded the Order of the National Hero on December 20, 1951. </p>
-<p> 66. <strong>Josip Ružička</strong> (1919-45), declared a national hero on July 24, 1953. </p>
-<p> 67. <strong>Ante Rukavina</strong> (1922-43), declared a national hero on July 5, 1951. </p>
-<p> 68. <strong>Ivan Rukavina</strong> (1912-92), awarded the Order of the National Hero on December 20, 1951. </p>
-<p> 69. <strong>Ivan Rukavina Siđo</strong> (1901-43), declared a national hero on December 20, 1951. </p>
-<p> 70. <strong>Zvonimir Runko</strong> (1920-42), declared a national hero on November 27, 1953. </p>
-<p> 71. <strong>Milan Rustanbeg</strong> (1914-44), declared a national hero on November 27, 1953. </p>
-
-
+              <p>
+                {" "}
+                1. <strong>Franc Ravbar</strong> (1913-43), declared a national
+                hero on July 5, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                2. <strong>Ilija Radaković</strong> (1923-2015), awarded the
+                Order of the National Hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                3. <strong>Lazo Radaković</strong> (1913-2014), awarded the
+                Order of the National Hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                4. <strong>Mićo Radaković</strong> (1912-41), declared a
+                national hero on December 14, 1949.{" "}
+              </p>
+              <p>
+                {" "}
+                5. <strong>Luka Radetić</strong> (1918-82), awarded the Order of
+                the National Hero on July 23, 1952.{" "}
+              </p>
+              <p>
+                {" "}
+                6. <strong>Petar Radetić</strong> (1918-2003), awarded the Order
+                of the National Hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                7. <strong>Jovanka Radivojević</strong> (1922-43), declared a
+                national hero on July 6, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                8. <strong>Voja Radić</strong> (1902-77), awarded the Order of
+                the National Hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                9. <strong>Lepa Radić</strong> (1925-43), declared a national
+                hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                10. <strong>Velimir Radičević</strong> (1914-), declared a
+                national hero on July 10, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                11. <strong>Vladimir Radovanović</strong> (1903-43), declared a
+                national hero on March 13, 1945.{" "}
+              </p>
+              <p>
+                {" "}
+                12. <strong>Jovo Radovanović Jovaš</strong> (1915-2004), awarded
+                the Order of the National Hero on July 26, 1945.{" "}
+              </p>
+              <p>
+                {" "}
+                13. <strong>Milić Radovanović Mladen</strong> (1920-44),
+                declared a national hero on July 5, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                14. <strong>Gojko Radović</strong> (1911-71), awarded the Order
+                of the National Hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                15. <strong>Darinka Radović</strong> (1896-43), declared a
+                national hero on October 9, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                16. <strong>Lazar Radojević</strong> (1916-41), declared a
+                national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                17. <strong>Milutin Radojević</strong> (1914-41), declared a
+                national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                18. <strong>Vera Radosavljević Nada</strong> (1922-43), declared
+                a national hero on July 5, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                19. <strong>Dobrivoje Radosavljević Bobi</strong> (1915-84),
+                awarded the Order of the National Hero on July 6, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                20. <strong>Dobrosav Radosavljević Narod</strong> (1920-42),
+                declared a national hero on July 5, 1952.{" "}
+              </p>
+              <p>
+                {" "}
+                21. <strong>Dragoljub Radosavljević Toplica</strong> (1919-43),
+                declared a national hero on July 5, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                22. <strong>Radiša Radosavljević Šoša</strong> (1919-42),
+                declared a national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                23. <strong>Veljko Radulović Mijo</strong> (1915-42), declared a
+                national hero on July 13, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                24. <strong>Jovan Radulović Jovo</strong> (1906-43), declared a
+                national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                25. <strong>Milosav Radulović</strong> (1915-43), declared a
+                national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                26. <strong>Nikola Radulović</strong> (1915-84), awarded the
+                Order of the National Hero on July 24, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                27. <strong>Radule Radulović Ruso</strong> (1919-42), declared a
+                national hero on July 10, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                28. <strong>Mitar Radusinović</strong> (1912-75), awarded the
+                Order of the National Hero on October 9, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                29. <strong>Vladimir Raičević</strong> (1922-44), declared a
+                national hero on October 9, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                30. <strong>Dušan Rakita</strong> (1900-42), declared a national
+                hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                31. <strong>Dragan Rakić</strong> (1914-59), awarded the Order
+                of the National Hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                32. <strong>Krešo Rakić</strong> (1919-41), declared a national
+                hero on July 23, 1952.{" "}
+              </p>
+              <p>
+                {" "}
+                33. <strong>Milić Rakić</strong> (1912-43), declared a national
+                hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                34. <strong>Joakim Rakovac</strong> (1914-45), declared a
+                national hero on December 9, 1952.{" "}
+              </p>
+              <p>
+                {" "}
+                35. <strong>Nenad Rakočević</strong> (1914-43), declared a
+                national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                36. <strong>Radomir Rakočević</strong> (1914-44), declared a
+                national hero on July 13, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                37. <strong>Aleksandar Ranković Marko</strong> (1909-83),
+                awarded the Order of the National Hero on July 4, 1945.{" "}
+              </p>
+              <p>
+                {" "}
+                38. <strong>Anđa Ranković</strong> (1909-42), declared a
+                national hero on July 6, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                39. <strong>Milan Raspopović</strong> (1915-42), declared a
+                national hero on May 17, 1945.{" "}
+              </p>
+              <p>
+                {" "}
+                40. <strong>Stevo Rauš</strong> (1916-98), awarded the Order of
+                the National Hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                41. <strong>Nikola Rački</strong> (1914-94), awarded the Order
+                of the National Hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                42. <strong>Milija Rašović</strong> (1915-43), declared a
+                national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                43. <strong>Miloš Rastović</strong> (1921-42), declared a
+                national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                44. <strong>Ante Raštegorac</strong> (1923-86), awarded the
+                Order of the National Hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                45. <strong>Zorka Regancin-Dolničar</strong> (1921-44), declared
+                a national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                46. <strong>Marko Redelongi Benečan</strong> (1912-44), declared
+                a national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                47. <strong>Srećko Reić</strong> (1914-87), awarded the Order of
+                the National Hero on July 24, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                48. <strong>Petar Relić</strong> (1913-90), awarded the Order of
+                the National Hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                49. <strong>Dušan Remih</strong> (1922-44), declared a national
+                hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                50. <strong>Ivo Lola Ribar</strong> (1916-43), declared a
+                national hero on November 18, 1944.{" "}
+              </p>
+              <p>
+                {" "}
+                51. <strong>Dujo Rikić</strong> (1918-43), declared a national
+                hero on July 5, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                52. <strong>Sofija Ristić</strong> (1900-44), declared a
+                national hero on October 9, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                53. <strong>Vinko Robek</strong> (1915-86), awarded the Order of
+                the National Hero on July 21, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                54. <strong>Radivoj Rodić</strong> (1920-42), declared a
+                national hero on July 24, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                55. <strong>Slavko Rodić</strong> (1916-49), declared a national
+                hero on December 14, 1949.{" "}
+              </p>
+              <p>
+                {" "}
+                56. <strong>Valentin Rožanc</strong> (1895-42), declared a
+                national hero on July 21, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                57. <strong>Franc Rozman Stane</strong> (1911-44), declared a
+                national hero on November 11, 1944.{" "}
+              </p>
+              <p>
+                {" "}
+                58. <strong>Ante Roje</strong> (1914-82), declared a national
+                hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                59. <strong>Karlo Rojc</strong> (1915-42), declared a national
+                hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                60. <strong>Franc Rojšek</strong> (1914-75), awarded the Order
+                of the National Hero on September 13, 1952.{" "}
+              </p>
+              <p>
+                {" "}
+                61. <strong>Mirko Rokvić Šoša</strong> (1922-2004), awarded the
+                Order of the National Hero on March 13, 1945.{" "}
+              </p>
+              <p>
+                {" "}
+                62. <strong>Vladimir Rolović</strong> (1916-71), declared a
+                national hero on April 9, 1971.{" "}
+              </p>
+              <p>
+                {" "}
+                63. <strong>Niko Rolović</strong> (1910-41), declared a national
+                hero on July 10, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                64. <strong>Paško Romac</strong> (1913-82), awarded the Order of
+                the National Hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                65. <strong>Janko Rudolf</strong> (1914-97), awarded the Order
+                of the National Hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                66. <strong>Josip Ružička</strong> (1919-45), declared a
+                national hero on July 24, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                67. <strong>Ante Rukavina</strong> (1922-43), declared a
+                national hero on July 5, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                68. <strong>Ivan Rukavina</strong> (1912-92), awarded the Order
+                of the National Hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                69. <strong>Ivan Rukavina Siđo</strong> (1901-43), declared a
+                national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                70. <strong>Zvonimir Runko</strong> (1920-42), declared a
+                national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                71. <strong>Milan Rustanbeg</strong> (1914-44), declared a
+                national hero on November 27, 1953.{" "}
+              </p>
             </Accordion.Body>
           </Accordion.Item>
           <Accordion.Item eventKey="8">
@@ -3066,7 +3348,7 @@ export default function News() {
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Heroes with starting letter S
+              Heroes with starting letter S (79 Heroes will be added)
             </Accordion.Header>
             <Accordion.Body className="visible">
               <a href="https://www.wikiwand.com/bs/Spisak_narodnih_heroja_Jugoslavije:_S">
@@ -3310,83 +3592,391 @@ export default function News() {
               Heroes with starting letter V
             </Accordion.Header>
             <Accordion.Body className="visible">
-            <p>  1. <strong>Slaviša Vajner Čiča</strong> (1903-1942.), declared a national hero on September 25, 1944. </p>
-<p>  2. <strong>Čedomir Vasović</strong> (1910-1942.), declared a national hero on May 5, 1951. </p>
-<p>  3. <strong>Mirko Vejinović</strong> (1920-1944.), declared a national hero on November 27, 1953. </p>
-<p>  4. <strong>Borko Velevski</strong> (1912-1942.), declared a national hero on December 20, 1951. </p>
-<p>  5. <strong>Antun Velušček Matevž</strong> (1917-1944.), declared a national hero on July 4, 1953. </p>
-<p>  6. <strong>Stanimir Veljković Zele</strong> (1919-1942.), declared a national hero on December 14, 1949. </p>
-<p>  7. <strong>Dušan Vergaš</strong> (1909-1942.), declared a national hero on December 20, 1951. </p>
-<p>  8. <strong>Matija Verdnik Tomaž</strong> (1916-1944.), declared a national hero on December 20, 1951. </p>
-<p>  9. <strong>Milenko Verkić</strong> (1912-1942.), declared a national hero on December 20, 1951. </p>
-<p>  10. <strong>Jovan Veselinov Žarko</strong> (1906-1982.), awarded the Order of the National Hero on July 5, 1952. </p>
-<p>  11. <strong>Arsen Vivoda</strong> (1917—1943.), declared a national hero on September 26, 1973. </p>
-<p>  12. <strong>Ivan Videković Pavel</strong> (1908-1943.), declared a national hero on December 20, 1951. </p>
-<p>  13. <strong>Anton Vidmar Luka</strong> (1917-1999.), awarded the Order of the National Hero on May 9, 1945. </p>
-<p>  14. <strong>Žarko Vidović</strong> (1913-1999.), awarded the Order of the National Hero on November 27, 1953. </p>
-<p>  15. <strong>Marija Vidović Abesinka</strong> (1924-1942.), declared a national hero on November 27, 1953. </p>
-<p>  16. <strong>Nikola Vidović</strong> (1917-2000.), awarded the Order of the National Hero on December 20, 1951. </p>
-<p>  17. <strong>Rade Vilotijević Vića</strong> (1910-1943.), declared a national hero on December 20, 1951. </p>
-<p>  18. <strong>Trivun Vitasović</strong> (1922-1944.), declared a national hero on November 27, 1953. </p>
-<p>  19. <strong>Milenko Vitomir</strong> (1916-1941.), declared a national hero on November 27, 1953. </p>
-<p>  20. <strong>Miro Višić</strong> (1919-1943.), declared a national hero on November 27, 1953. </p>
-<p>  21. <strong>Branko Vladušić</strong> (1917-1942.), declared a national hero on November 27, 1953. </p>
-<p>  22. <strong>Milosav Vlajić</strong> (1921-1943.), declared a national hero on July 6, 1945. </p>
-<p>  23. <strong>Veljko Vlahović</strong> (1914-1975.), awarded the Order of the National Hero on November 27, 1953. </p>
-<p>  24. <strong>Joža Vlahović</strong> (1916-1941.), declared a national hero on December 14, 1949. </p>
-<p>  25. <strong>Dimitrije Vojvodić Zeko</strong> (1908-1987.), awarded the Order of the National Hero on December 20, 1951. </p>
-<p>  26. <strong>Đoko Vojvodić</strong> (1914-1942.), declared a national hero on December 20, 1951. </p>
-<p>  27. <strong>Nikola Vojvodić</strong> (1911-1943.), declared a national hero on July 24, 1953. </p>
-<p>  28. <strong>Petar Vojvodić</strong> (1914-1974.), awarded the Order of the National Hero on July 10, 1952. </p>
-<p>  29. <strong>Aleksandar Vojinović</strong> (1922-1999.), awarded the Order of the National Hero on October 9, 1953. </p>
-<p>  30. <strong>Krume Volnarovski</strong> (1919-1944.), declared a national hero on October 9, 1953. </p>
-<p>  31. <strong>Ignac Voljč Fric</strong> (1904-1944.), declared a national hero on November 27, 1953. </p>
-<p>  32. <strong>Vaclav Vostrel</strong> (1904-1942.), declared a national hero on December 20, 1951. </p>
-<p>  33. <strong>Rada Vranješević</strong> (1918-1944.), declared a national hero on July 5, 1951. </p>
-<p>  34. <strong>Anton Vratanar Antonesko</strong> (1919-1993.), awarded the Order of the National Hero on November 27, 1953. </p>
-<p>  35. <strong>Đina Vrbica</strong> (1913-1943.), declared a national hero on July 24, 1953. </p>
-<p>  36. <strong>Boško Vrebalov</strong> (1912-1943.), declared a national hero on December 20, 1951. </p>
-<p>  37. <strong>Franc Vresk Gustl</strong> (1910-1943.), declared a national hero on December 20, 1951. </p>
-<p>  38. <strong>Risto Vreća</strong> (1920-1943.), declared a national hero on July 24, 1953. </p>
-<p>  39. <strong>Majda Vrhovnik</strong> (1922-1945.), declared a national hero on July 5, 1951. </p>
-<p>  40. <strong>Franjo Vrunč</strong> (1910-1941.), declared a national hero on November 27, 1953. </p>
-<p>  41. <strong>Sava Vujanović Žuća</strong> (1923-1941.), declared a national hero on November 27, 1953. </p>
-<p>  42. <strong>Vasilije Vujačić Vajo</strong> (1917-1943.), declared a national hero on December 20, 1951. </p>
-<p>  43. <strong>Dušan Vujačić</strong> (1917-1943.), declared a national hero on July 13, 1953. </p>
-<p>  44. <strong>Dušan Vujović</strong> (1909-1943.), declared a national hero on November 27, 1953. </p>
-<p>  45. <strong>Đuro Vujović</strong> (1901-1943.), declared a national hero on July 4, 1946. </p>
-<p>  46. <strong>Ratko Vujović Čoče</strong> (1916-1977.), awarded the Order of the National Hero on November 27, 1953. </p>
-<p>  47. <strong>Špiro Vujović</strong> (1918-1943.), declared a national hero on December 20, 1951. </p>
-<p>  48. <strong>Bogdan Vujošević</strong> (1912-1981.), awarded the Order of the National Hero on November 27, 1953. </p>
-<p>  49. <strong>Dušan Vujošević</strong> (1912-1943.), declared a national hero on December 20, 1951. </p>
-<p>  50. <strong>Zarija Vujošević</strong> (1903-1943.), declared a national hero on April 30, 1943. </p>
-<p>  51. <strong>Radoje Vujošević Risto</strong> (1910-1942.), declared a national hero on November 27, 1953. </p>
-<p>  52. <strong>Vukadin Vukadinović</strong> (1915-1943.), declared a national hero on December 20, 1951. </p>
-<p>  53. <strong>Bogoljub Vukajlović Lala</strong> (1911-1943.), declared a national hero on November 27, 1953. </p>
-<p>  54. <strong>Mihajlo Vukajlović Crni</strong> (1919-1989.), awarded the Order of the National Hero on December 20, 1951. </p>
-<p>  55. <strong>Jovan Vukanović</strong> (1912-1943.), declared a national hero on July 10, 1953. </p>
-<p>  56. <strong>Radovan Vukanović</strong> (1906-1987.), awarded the Order of the National Hero on December 20, 1951. </p>
-<p>  57. <strong>Dušan Vukasović</strong> (1909-1945.), declared a national hero on July 6, 1953. </p>
-<p>  58. <strong>Stanko Vukašinović</strong> (1923-1944.), declared a national hero on November 27, 1953. </p>
-<p>  59. <strong>Savo Vukelić</strong> (1917-1974.), awarded the Order of the National Hero on November 27, 1953. </p>
-<p>  60. <strong>Đoko Vukićević</strong> (1914-2002.), awarded the Order of the National Hero on July 10, 1953. </p>
-<p>  61. <strong>Svetozar Vukmanović Tempo</strong> (1912-2000.), awarded the Order of the National Hero on December 20, 1951. </p>
-<p>  62. <strong>Boro Vukmirović</strong> (1912-1943.), declared a national hero on March 6, 1945. </p>
-<p>  63. <strong>Dušan Vuković Zećo</strong> (1910-1993.), awarded the Order of the National Hero on November 27, 1953. </p>
-<p>  64. <strong>Žarko Vuković Pucar</strong> (1911-1943.), declared a national hero on July 26, 1945. </p>
-<p>  65. <strong>Pavle Vukoje</strong> (1908-1943.), declared a national hero on November 27, 1953. </p>
-<p>  66. <strong>Pavle Vukomanović</strong> (1903-1977.), awarded the Order of the National Hero on November 27, 1953. </p>
-<p>  67. <strong>Jovan Vukotić</strong> (1907-1982.), awarded the Order of the National Hero on November 27, 1953. </p>
-<p>  68. <strong>Slavoljub Vuksanović</strong> (1922-1943.), declared a national hero on October 9, 1953. </p>
-<p>  69. <strong>Milica Vučetić</strong> (1920-1944.), declared a national hero on November 27, 1953. </p>
-<p>  70. <strong>Vlado Vučinić</strong> (1907-1942.), declared a national hero on November 27, 1953. </p>
-<p>  71. <strong>Luka Vučinić</strong> (1922-1992.), awarded the Order of the National Hero on July 10, 1953. </p>
-<p>  72. <strong>Milica Vučinić</strong> (1921-1943.), declared a national hero on July 13, 1953. </p>
-<p>  73. <strong>Simo Vučinić</strong> (1916-1943.), declared a national hero on December 20, 1951. </p>
-<p>  74. <strong>Ante Vučić</strong> (1913-1942.), declared a national hero on July 5, 1951. </p>
-<p>  75. <strong>Jovan Vučković</strong> (1913-1944.), declared a national hero on November 27, 1953. </p>
-<p>  76. <strong>Ljubo Vučković</strong> (1915-1976.), awarded the Order of the National Hero on December 20, 1951. </p>
-<p>  77. <strong>Miloš Vučković</strong> (1914-1992.), awarded the Order of the National Hero on December 20, 1951. </p>
+              <p>
+                {" "}
+                1. <strong>Slaviša Vajner Čiča</strong> (1903-1942.), declared a
+                national hero on September 25, 1944.{" "}
+              </p>
+              <p>
+                {" "}
+                2. <strong>Čedomir Vasović</strong> (1910-1942.), declared a
+                national hero on May 5, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                3. <strong>Mirko Vejinović</strong> (1920-1944.), declared a
+                national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                4. <strong>Borko Velevski</strong> (1912-1942.), declared a
+                national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                5. <strong>Antun Velušček Matevž</strong> (1917-1944.), declared
+                a national hero on July 4, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                6. <strong>Stanimir Veljković Zele</strong> (1919-1942.),
+                declared a national hero on December 14, 1949.{" "}
+              </p>
+              <p>
+                {" "}
+                7. <strong>Dušan Vergaš</strong> (1909-1942.), declared a
+                national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                8. <strong>Matija Verdnik Tomaž</strong> (1916-1944.), declared
+                a national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                9. <strong>Milenko Verkić</strong> (1912-1942.), declared a
+                national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                10. <strong>Jovan Veselinov Žarko</strong> (1906-1982.), awarded
+                the Order of the National Hero on July 5, 1952.{" "}
+              </p>
+              <p>
+                {" "}
+                11. <strong>Arsen Vivoda</strong> (1917—1943.), declared a
+                national hero on September 26, 1973.{" "}
+              </p>
+              <p>
+                {" "}
+                12. <strong>Ivan Videković Pavel</strong> (1908-1943.), declared
+                a national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                13. <strong>Anton Vidmar Luka</strong> (1917-1999.), awarded the
+                Order of the National Hero on May 9, 1945.{" "}
+              </p>
+              <p>
+                {" "}
+                14. <strong>Žarko Vidović</strong> (1913-1999.), awarded the
+                Order of the National Hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                15. <strong>Marija Vidović Abesinka</strong> (1924-1942.),
+                declared a national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                16. <strong>Nikola Vidović</strong> (1917-2000.), awarded the
+                Order of the National Hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                17. <strong>Rade Vilotijević Vića</strong> (1910-1943.),
+                declared a national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                18. <strong>Trivun Vitasović</strong> (1922-1944.), declared a
+                national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                19. <strong>Milenko Vitomir</strong> (1916-1941.), declared a
+                national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                20. <strong>Miro Višić</strong> (1919-1943.), declared a
+                national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                21. <strong>Branko Vladušić</strong> (1917-1942.), declared a
+                national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                22. <strong>Milosav Vlajić</strong> (1921-1943.), declared a
+                national hero on July 6, 1945.{" "}
+              </p>
+              <p>
+                {" "}
+                23. <strong>Veljko Vlahović</strong> (1914-1975.), awarded the
+                Order of the National Hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                24. <strong>Joža Vlahović</strong> (1916-1941.), declared a
+                national hero on December 14, 1949.{" "}
+              </p>
+              <p>
+                {" "}
+                25. <strong>Dimitrije Vojvodić Zeko</strong> (1908-1987.),
+                awarded the Order of the National Hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                26. <strong>Đoko Vojvodić</strong> (1914-1942.), declared a
+                national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                27. <strong>Nikola Vojvodić</strong> (1911-1943.), declared a
+                national hero on July 24, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                28. <strong>Petar Vojvodić</strong> (1914-1974.), awarded the
+                Order of the National Hero on July 10, 1952.{" "}
+              </p>
+              <p>
+                {" "}
+                29. <strong>Aleksandar Vojinović</strong> (1922-1999.), awarded
+                the Order of the National Hero on October 9, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                30. <strong>Krume Volnarovski</strong> (1919-1944.), declared a
+                national hero on October 9, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                31. <strong>Ignac Voljč Fric</strong> (1904-1944.), declared a
+                national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                32. <strong>Vaclav Vostrel</strong> (1904-1942.), declared a
+                national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                33. <strong>Rada Vranješević</strong> (1918-1944.), declared a
+                national hero on July 5, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                34. <strong>Anton Vratanar Antonesko</strong> (1919-1993.),
+                awarded the Order of the National Hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                35. <strong>Đina Vrbica</strong> (1913-1943.), declared a
+                national hero on July 24, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                36. <strong>Boško Vrebalov</strong> (1912-1943.), declared a
+                national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                37. <strong>Franc Vresk Gustl</strong> (1910-1943.), declared a
+                national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                38. <strong>Risto Vreća</strong> (1920-1943.), declared a
+                national hero on July 24, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                39. <strong>Majda Vrhovnik</strong> (1922-1945.), declared a
+                national hero on July 5, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                40. <strong>Franjo Vrunč</strong> (1910-1941.), declared a
+                national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                41. <strong>Sava Vujanović Žuća</strong> (1923-1941.), declared
+                a national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                42. <strong>Vasilije Vujačić Vajo</strong> (1917-1943.),
+                declared a national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                43. <strong>Dušan Vujačić</strong> (1917-1943.), declared a
+                national hero on July 13, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                44. <strong>Dušan Vujović</strong> (1909-1943.), declared a
+                national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                45. <strong>Đuro Vujović</strong> (1901-1943.), declared a
+                national hero on July 4, 1946.{" "}
+              </p>
+              <p>
+                {" "}
+                46. <strong>Ratko Vujović Čoče</strong> (1916-1977.), awarded
+                the Order of the National Hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                47. <strong>Špiro Vujović</strong> (1918-1943.), declared a
+                national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                48. <strong>Bogdan Vujošević</strong> (1912-1981.), awarded the
+                Order of the National Hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                49. <strong>Dušan Vujošević</strong> (1912-1943.), declared a
+                national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                50. <strong>Zarija Vujošević</strong> (1903-1943.), declared a
+                national hero on April 30, 1943.{" "}
+              </p>
+              <p>
+                {" "}
+                51. <strong>Radoje Vujošević Risto</strong> (1910-1942.),
+                declared a national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                52. <strong>Vukadin Vukadinović</strong> (1915-1943.), declared
+                a national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                53. <strong>Bogoljub Vukajlović Lala</strong> (1911-1943.),
+                declared a national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                54. <strong>Mihajlo Vukajlović Crni</strong> (1919-1989.),
+                awarded the Order of the National Hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                55. <strong>Jovan Vukanović</strong> (1912-1943.), declared a
+                national hero on July 10, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                56. <strong>Radovan Vukanović</strong> (1906-1987.), awarded the
+                Order of the National Hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                57. <strong>Dušan Vukasović</strong> (1909-1945.), declared a
+                national hero on July 6, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                58. <strong>Stanko Vukašinović</strong> (1923-1944.), declared a
+                national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                59. <strong>Savo Vukelić</strong> (1917-1974.), awarded the
+                Order of the National Hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                60. <strong>Đoko Vukićević</strong> (1914-2002.), awarded the
+                Order of the National Hero on July 10, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                61. <strong>Svetozar Vukmanović Tempo</strong> (1912-2000.),
+                awarded the Order of the National Hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                62. <strong>Boro Vukmirović</strong> (1912-1943.), declared a
+                national hero on March 6, 1945.{" "}
+              </p>
+              <p>
+                {" "}
+                63. <strong>Dušan Vuković Zećo</strong> (1910-1993.), awarded
+                the Order of the National Hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                64. <strong>Žarko Vuković Pucar</strong> (1911-1943.), declared
+                a national hero on July 26, 1945.{" "}
+              </p>
+              <p>
+                {" "}
+                65. <strong>Pavle Vukoje</strong> (1908-1943.), declared a
+                national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                66. <strong>Pavle Vukomanović</strong> (1903-1977.), awarded the
+                Order of the National Hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                67. <strong>Jovan Vukotić</strong> (1907-1982.), awarded the
+                Order of the National Hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                68. <strong>Slavoljub Vuksanović</strong> (1922-1943.), declared
+                a national hero on October 9, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                69. <strong>Milica Vučetić</strong> (1920-1944.), declared a
+                national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                70. <strong>Vlado Vučinić</strong> (1907-1942.), declared a
+                national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                71. <strong>Luka Vučinić</strong> (1922-1992.), awarded the
+                Order of the National Hero on July 10, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                72. <strong>Milica Vučinić</strong> (1921-1943.), declared a
+                national hero on July 13, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                73. <strong>Simo Vučinić</strong> (1916-1943.), declared a
+                national hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                74. <strong>Ante Vučić</strong> (1913-1942.), declared a
+                national hero on July 5, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                75. <strong>Jovan Vučković</strong> (1913-1944.), declared a
+                national hero on November 27, 1953.{" "}
+              </p>
+              <p>
+                {" "}
+                76. <strong>Ljubo Vučković</strong> (1915-1976.), awarded the
+                Order of the National Hero on December 20, 1951.{" "}
+              </p>
+              <p>
+                {" "}
+                77. <strong>Miloš Vučković</strong> (1914-1992.), awarded the
+                Order of the National Hero on December 20, 1951.{" "}
+              </p>
             </Accordion.Body>
           </Accordion.Item>
           <Accordion.Item eventKey="12">
@@ -4202,7 +4792,8 @@ export default function News() {
                 He died in Warsaw on 15 October 1989 and was the last person to
                 hold the rank of Marshal of Poland. He was buried with full
                 military honors at Powązki Military Cemetery in Warsaw.
-                Żymierski&apos;s grave was desecrated twice by unknown perpetrators.
+                Żymierski&apos;s grave was desecrated twice by unknown
+                perpetrators.
               </p>
 
               <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
@@ -4234,7 +4825,7 @@ export default function News() {
               Pavel Jakimov
             </Accordion.Header>
             <Accordion.Body className="visible">
-            <Image
+              <Image
                 src={
                   "https://res.cloudinary.com/dvwnqprsp/image/upload/v1692275115/Heroji%20-%20Strani/Pavel_Jakimov_g8mv0k.jpg"
                 }
@@ -4244,26 +4835,52 @@ export default function News() {
                 className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
               ></Image>
               <p className="m-2">
-                <strong>Pavel Nikitovich Yakimov</strong> ( June 30 [ July 13 ]  , 1910 , St. Petersburg - March 5 , 1968 ) - Soviet pilot, Hero of the Soviet Union (1944), participant in the Great Patriotic War , navigator of the aircraft of the 1st transport aviation division of the main command of the Air Force of the Red Army , People&apos;s Hero of Yugoslavia , guard captain .
+                <strong>Pavel Nikitovich Yakimov</strong> ( June 30 [ July 13 ]
+                , 1910 , St. Petersburg - March 5 , 1968 ) - Soviet pilot, Hero
+                of the Soviet Union (1944), participant in the Great Patriotic
+                War , navigator of the aircraft of the 1st transport aviation
+                division of the main command of the Air Force of the Red Army ,
+                People&apos;s Hero of Yugoslavia , guard captain .
               </p>
               <p className="text-2xl text-bold">Biography</p>
               <p className="m-2">
-              Born in St. Petersburg in a working class family.
-
-He graduated from the Leningrad Aviation College in 1931 .
-
-He worked at the Batayskaya Aviation School of the Civil Air Fleet, where he completed a military training course. Since 1939, he worked as a navigator at the Rostov Aviation Enterprise. On the fronts of the Great Patriotic War since October 1941 .
-
-In January 1943, P. N. Yakimov, as part of a group of Soviet pilots and aviation specialists of the 1st transport aviation division, was sent to the UK to master and distill 200 Armstrong Whitworth AW41 Albermarle bombers in the USSR  .
-
-In the summer and autumn of 1943, he participated in preparing the Tehran Conference of the Heads of the USSR, Great Britain and the USA ( November 28  - December 1 , 1943), transporting to Iran a large number of officers and soldiers of the Red Army, representatives of embassies, intelligence officers, support groups, translators, as well as various cargoes necessary for this purpose. He especially distinguished himself in the performance of special tasks of the command for the delivery of weapons, ammunition, food, medicine to the location of the People&apos;s Liberation Army of Yugoslavia (NOAU) from the air base in the city of Bari (Italy) in 1944, the removal of the wounded and the rescue of the Supreme Headquarters of the NOAU, led by Marshal Josip Broz TitoJune 4, 1944. For this operation, on June 20, 1944, he was awarded the title of Hero of the Soviet Union and the title of People&apos;s Hero of Yugoslavia.
-
-Since 1947, P.N. Yakimov has been in reserve. Lived in Moscow . He worked as a flag-navigator of the detachment of the Separate Aviation Group of International Air Communications, and as the chief of staff of the aviation enterprise. Then he moved to Estonia, lived in the city of Kingisepp (now the city of Kuressaare, Saaremaa island), worked as the head of the airport .
+                Born in St. Petersburg in a working class family. He graduated
+                from the Leningrad Aviation College in 1931 . He worked at the
+                Batayskaya Aviation School of the Civil Air Fleet, where he
+                completed a military training course. Since 1939, he worked as a
+                navigator at the Rostov Aviation Enterprise. On the fronts of
+                the Great Patriotic War since October 1941 . In January 1943, P.
+                N. Yakimov, as part of a group of Soviet pilots and aviation
+                specialists of the 1st transport aviation division, was sent to
+                the UK to master and distill 200 Armstrong Whitworth AW41
+                Albermarle bombers in the USSR . In the summer and autumn of
+                1943, he participated in preparing the Tehran Conference of the
+                Heads of the USSR, Great Britain and the USA ( November 28 -
+                December 1 , 1943), transporting to Iran a large number of
+                officers and soldiers of the Red Army, representatives of
+                embassies, intelligence officers, support groups, translators,
+                as well as various cargoes necessary for this purpose. He
+                especially distinguished himself in the performance of special
+                tasks of the command for the delivery of weapons, ammunition,
+                food, medicine to the location of the People&apos;s Liberation
+                Army of Yugoslavia (NOAU) from the air base in the city of Bari
+                (Italy) in 1944, the removal of the wounded and the rescue of
+                the Supreme Headquarters of the NOAU, led by Marshal Josip Broz
+                TitoJune 4, 1944. For this operation, on June 20, 1944, he was
+                awarded the title of Hero of the Soviet Union and the title of
+                People&apos;s Hero of Yugoslavia. Since 1947, P.N. Yakimov has
+                been in reserve. Lived in Moscow . He worked as a flag-navigator
+                of the detachment of the Separate Aviation Group of
+                International Air Communications, and as the chief of staff of
+                the aviation enterprise. Then he moved to Estonia, lived in the
+                city of Kingisepp (now the city of Kuressaare, Saaremaa island),
+                worked as the head of the airport .
               </p>
-              
+
               <p className="text-2xl text-bold">Death</p>
               <p className="m-2">
-              The last years he lived in the city of Tallinn . He died in Tallinn on March 5, 1968 
+                The last years he lived in the city of Tallinn . He died in
+                Tallinn on March 5, 1968
               </p>
 
               <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
@@ -4295,9 +4912,104 @@ Since 1947, P.N. Yakimov has been in reserve. Lived in Moscow . He worked as a f
               Boris Kalinkin
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <p>
-                https://sr.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%BA%D0%B8%D0%BD
+              <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1692350892/Heroji%20-%20Strani/Boris_Kalikin_q6dkve.jpg"
+                }
+                width={200}
+                height={200}
+                alt="Kalikin"
+                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Boris Tikhonovich Kalinkin</strong> ( Russian: Кали́нкин
+                Бори́с Ти́хонович ; Dubasovo , Saratov Province , April 19 , 1913
+                - June 10, 1945 ) was a guard captain of the Red Army , a Hero
+                of the Soviet Union and a volk hero of Yugoslavia .
               </p>
+              <p className="text-2xl text-bold">Biography</p>
+              <p className="m-2">
+                He was born on April 19 1913 . year in Dubasovo ,
+                Saratov province . In 1915, he moved with his family to the
+                village of Rtiščevo . After the end of 1928 . year of
+                schooling, Boris got a job at the Meat Processing Plant. There
+                he studied in the Komsomol ( Communist Youth League ) . In 1931
+                _ he was sent to the aviation school, which he graduated in 1932
+                . and became a pilot. In the period from 1933 . until 1941 . He
+                worked in civil aviation as a pilot-instructor, unit commander,
+                and flew in the Caucasus . Since the beginning of the Patriotic
+                War , Kalinkin, as the second pilot of a military transport
+                plane, flew to the Soviet partisans, participated in the
+                execution of air landings, the delivery of weapons and military
+                equipment to units at the front. From July 1943 . he was the
+                second pilot in the crew of Alexander Shornikov . He was
+                admitted to the membership of the Communist Party of the Soviet
+                Union in January 1941. In the winter of 1944 . , Boris, as a
+                second pilot, participated in the transfer of the Soviet
+                Military Mission to Yugoslavia , and flew to the airport in
+                Medeno polje. According to the memories of the commander of this
+                plane, Alexander Shornikov, Hero of the Soviet Union and
+                national hero of Yugoslavia , English and American aviation
+                experts and pilots, who were at the airbase in Bari ( Italy ),
+                claimed that the landing of the plane at such an improvised
+                airport in hills, such as Medeno polje, impossible, let alone
+                take off from it with loaded cargo, in winter. In order for the
+                &ldquo;non-believers&ldquo; to be convinced that the Soviet plane had
+                successfully landed on Medeno Polje , &ldquo;material evidence&ldquo; had to
+                be brought. Soviet pilots bought several woven baskets in an
+                Italian store, filled them with snow in the Yugoslav hills, and
+                after a regular night flight brought them to Bari and showed
+                them to their Western allies. The Soviet plane, which was flown
+                by guard captain Boris Kalinkin, made, in the winter of 1944, a
+                series of flights, being at the disposal of units of the
+                People&lsquo;s Liberation Army of Yugoslavia, delivering them Soviet
+                military equipment and transferring, on the way back, wounded
+                Yugoslav fighters and elders to hospitals in Italy. Boris
+                Kalinkin was the second pilot of the Soviet plane that, on the
+                order of the Soviet Command, flew from Bari to Kupreško Polje ,
+                in order to transfer the highest leadership of the NOVJ , led by
+                Marshal Tito , to a safer place . The flight was carried out in
+                extremely difficult weather conditions, the route led over an
+                area where the occupier had strong anti-aircraft defenses. In
+                addition, the crew was left without an experienced navigator,
+                Pavel Yakimov (he was at Kupreshko Polje), Boris Kalinkin was
+                ready to take control of the plane at any moment, if anything
+                happened to the commander Aaleksandr Shornikov. Thanks to the
+                courage and skill of the Soviet pilots, two complex and
+                dangerous night flights were successfully completed. On June 20,
+                1944, the Presidium of the Supreme Council of the Soviet Union
+                proclaimed Guards Captain Boris Kalinkin a Hero of the Soviet
+                Union for the performance of a special task by the Soviet
+                Command . And on September 25, 1944, the Presidency of the
+                Anti-Fascist Council of the People&lsquo;s Liberation of Yugoslavia
+                declared him a national hero of Yugoslavia . He was also awarded
+                the Order of Lenin and the Medal for the Defense of the
+                Caucasus.
+              </p>
+
+              <p className="text-2xl text-bold">Death</p>
+              <p className="m-2">
+                Boris Tikhonovich Kalinkin tragically lost his life in a traffic
+                accident, one month after the end of the war against fascist
+                Germany , on June 10, 1945 . years. He was buried at the
+                Novodevichy Cemetery in Moscow , in Heroes Alley. A street in
+                his birthplace, Rštičevo, bears his name.
+              </p>
+
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://sr.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD%D0%BA%D0%B8%D0%BD"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      wikipedia.org/wiki/Boris_Kalinkin
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </Accordion.Body>
           </Accordion.Item>
 
@@ -4310,7 +5022,7 @@ Since 1947, P.N. Yakimov has been in reserve. Lived in Moscow . He worked as a f
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Semyon Kozak
+              Semyon Kozak (bio will be added)
             </Accordion.Header>
             <Accordion.Body className="visible">
               <p>https://en.wikipedia.org/wiki/Semyon_Kozak</p>
@@ -4326,7 +5038,7 @@ Since 1947, P.N. Yakimov has been in reserve. Lived in Moscow . He worked as a f
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Ivan Konstantinov
+              Ivan Konstantinov (bio will be added)
             </Accordion.Header>
             <Accordion.Body className="visible">
               <p>
@@ -4344,7 +5056,7 @@ Since 1947, P.N. Yakimov has been in reserve. Lived in Moscow . He worked as a f
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Vojo Kušić
+              Vojo Kušić (bio will be added)
             </Accordion.Header>
             <Accordion.Body className="visible">
               <p>https://en.wikipedia.org/wiki/Vojo_Kushi</p>
@@ -4366,7 +5078,7 @@ Since 1947, P.N. Yakimov has been in reserve. Lived in Moscow . He worked as a f
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Luigi Longo
+              Luigi Longo (bio will be added)
             </Accordion.Header>
             <Accordion.Body className="visible">
               <p>https://en.wikipedia.org/wiki/Luigi_Longo</p>
@@ -4382,7 +5094,7 @@ Since 1947, P.N. Yakimov has been in reserve. Lived in Moscow . He worked as a f
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Rodion Malinovsky
+              Rodion Malinovsky (bio will be added)
             </Accordion.Header>
             <Accordion.Body className="visible">
               <p>https://en.wikipedia.org/wiki/Rodion_Malinovsky</p>
@@ -4398,7 +5110,7 @@ Since 1947, P.N. Yakimov has been in reserve. Lived in Moscow . He worked as a f
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Aleksandar Managadze
+              Aleksandar Managadze (bio will be added)
             </Accordion.Header>
             <Accordion.Body className="visible">
               <p>
@@ -4416,7 +5128,7 @@ Since 1947, P.N. Yakimov has been in reserve. Lived in Moscow . He worked as a f
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Grigori Ohrimenko
+              Grigori Ohrimenko (bio will be added)
             </Accordion.Header>
             <Accordion.Body className="visible">
               <p>
@@ -4434,7 +5146,7 @@ Since 1947, P.N. Yakimov has been in reserve. Lived in Moscow . He worked as a f
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Ludvík Svoboda
+              Ludvík Svoboda (bio will be added)
             </Accordion.Header>
             <Accordion.Body className="visible">
               <p>https://en.wikipedia.org/wiki/Ludv%C3%ADk_Svoboda</p>
@@ -4450,7 +5162,7 @@ Since 1947, P.N. Yakimov has been in reserve. Lived in Moscow . He worked as a f
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Vladimir Sudets
+              Vladimir Sudets (bio will be added)
             </Accordion.Header>
             <Accordion.Body className="visible">
               <p>https://en.wikipedia.org/wiki/Vladimir_Sudets</p>
@@ -4466,7 +5178,7 @@ Since 1947, P.N. Yakimov has been in reserve. Lived in Moscow . He worked as a f
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Fyodor Tolbukhin
+              Fyodor Tolbukhin (bio will be added)
             </Accordion.Header>
             <Accordion.Body className="visible">
               <p>https://en.wikipedia.org/wiki/Fyodor_Tolbukhin</p>
@@ -4482,7 +5194,7 @@ Since 1947, P.N. Yakimov has been in reserve. Lived in Moscow . He worked as a f
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Васиљ Улиско
+              Васиљ Улиско (bio will be added)
             </Accordion.Header>
             <Accordion.Body className="visible">
               <p>
@@ -4500,7 +5212,7 @@ Since 1947, P.N. Yakimov has been in reserve. Lived in Moscow . He worked as a f
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Enver Hoxha
+              Enver Hoxha (bio will be added)
             </Accordion.Header>
             <Accordion.Body className="visible">
               <p>https://en.wikipedia.org/wiki/Enver_Hoxha</p>
@@ -4516,7 +5228,7 @@ Since 1947, P.N. Yakimov has been in reserve. Lived in Moscow . He worked as a f
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Reshid Cholaku
+              Reshid Cholaku (bio will be added)
             </Accordion.Header>
             <Accordion.Body className="visible">
               <p>
@@ -4534,7 +5246,7 @@ Since 1947, P.N. Yakimov has been in reserve. Lived in Moscow . He worked as a f
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Aleksandar Shornikov
+              Aleksandar Shornikov (bio will be added)
             </Accordion.Header>
             <Accordion.Body className="visible">
               <p>
