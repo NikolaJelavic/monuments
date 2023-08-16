@@ -3310,9 +3310,83 @@ export default function News() {
               Heroes with starting letter V
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <a href="https://www.wikiwand.com/bs/Spisak_narodnih_heroja_Jugoslavije:_V">
-                https://www.wikiwand.com/bs/Spisak_narodnih_heroja_Jugoslavije:_V
-              </a>
+            <p>  1. <strong>Slaviša Vajner Čiča</strong> (1903-1942.), declared a national hero on September 25, 1944. </p>
+<p>  2. <strong>Čedomir Vasović</strong> (1910-1942.), declared a national hero on May 5, 1951. </p>
+<p>  3. <strong>Mirko Vejinović</strong> (1920-1944.), declared a national hero on November 27, 1953. </p>
+<p>  4. <strong>Borko Velevski</strong> (1912-1942.), declared a national hero on December 20, 1951. </p>
+<p>  5. <strong>Antun Velušček Matevž</strong> (1917-1944.), declared a national hero on July 4, 1953. </p>
+<p>  6. <strong>Stanimir Veljković Zele</strong> (1919-1942.), declared a national hero on December 14, 1949. </p>
+<p>  7. <strong>Dušan Vergaš</strong> (1909-1942.), declared a national hero on December 20, 1951. </p>
+<p>  8. <strong>Matija Verdnik Tomaž</strong> (1916-1944.), declared a national hero on December 20, 1951. </p>
+<p>  9. <strong>Milenko Verkić</strong> (1912-1942.), declared a national hero on December 20, 1951. </p>
+<p>  10. <strong>Jovan Veselinov Žarko</strong> (1906-1982.), awarded the Order of the National Hero on July 5, 1952. </p>
+<p>  11. <strong>Arsen Vivoda</strong> (1917—1943.), declared a national hero on September 26, 1973. </p>
+<p>  12. <strong>Ivan Videković Pavel</strong> (1908-1943.), declared a national hero on December 20, 1951. </p>
+<p>  13. <strong>Anton Vidmar Luka</strong> (1917-1999.), awarded the Order of the National Hero on May 9, 1945. </p>
+<p>  14. <strong>Žarko Vidović</strong> (1913-1999.), awarded the Order of the National Hero on November 27, 1953. </p>
+<p>  15. <strong>Marija Vidović Abesinka</strong> (1924-1942.), declared a national hero on November 27, 1953. </p>
+<p>  16. <strong>Nikola Vidović</strong> (1917-2000.), awarded the Order of the National Hero on December 20, 1951. </p>
+<p>  17. <strong>Rade Vilotijević Vića</strong> (1910-1943.), declared a national hero on December 20, 1951. </p>
+<p>  18. <strong>Trivun Vitasović</strong> (1922-1944.), declared a national hero on November 27, 1953. </p>
+<p>  19. <strong>Milenko Vitomir</strong> (1916-1941.), declared a national hero on November 27, 1953. </p>
+<p>  20. <strong>Miro Višić</strong> (1919-1943.), declared a national hero on November 27, 1953. </p>
+<p>  21. <strong>Branko Vladušić</strong> (1917-1942.), declared a national hero on November 27, 1953. </p>
+<p>  22. <strong>Milosav Vlajić</strong> (1921-1943.), declared a national hero on July 6, 1945. </p>
+<p>  23. <strong>Veljko Vlahović</strong> (1914-1975.), awarded the Order of the National Hero on November 27, 1953. </p>
+<p>  24. <strong>Joža Vlahović</strong> (1916-1941.), declared a national hero on December 14, 1949. </p>
+<p>  25. <strong>Dimitrije Vojvodić Zeko</strong> (1908-1987.), awarded the Order of the National Hero on December 20, 1951. </p>
+<p>  26. <strong>Đoko Vojvodić</strong> (1914-1942.), declared a national hero on December 20, 1951. </p>
+<p>  27. <strong>Nikola Vojvodić</strong> (1911-1943.), declared a national hero on July 24, 1953. </p>
+<p>  28. <strong>Petar Vojvodić</strong> (1914-1974.), awarded the Order of the National Hero on July 10, 1952. </p>
+<p>  29. <strong>Aleksandar Vojinović</strong> (1922-1999.), awarded the Order of the National Hero on October 9, 1953. </p>
+<p>  30. <strong>Krume Volnarovski</strong> (1919-1944.), declared a national hero on October 9, 1953. </p>
+<p>  31. <strong>Ignac Voljč Fric</strong> (1904-1944.), declared a national hero on November 27, 1953. </p>
+<p>  32. <strong>Vaclav Vostrel</strong> (1904-1942.), declared a national hero on December 20, 1951. </p>
+<p>  33. <strong>Rada Vranješević</strong> (1918-1944.), declared a national hero on July 5, 1951. </p>
+<p>  34. <strong>Anton Vratanar Antonesko</strong> (1919-1993.), awarded the Order of the National Hero on November 27, 1953. </p>
+<p>  35. <strong>Đina Vrbica</strong> (1913-1943.), declared a national hero on July 24, 1953. </p>
+<p>  36. <strong>Boško Vrebalov</strong> (1912-1943.), declared a national hero on December 20, 1951. </p>
+<p>  37. <strong>Franc Vresk Gustl</strong> (1910-1943.), declared a national hero on December 20, 1951. </p>
+<p>  38. <strong>Risto Vreća</strong> (1920-1943.), declared a national hero on July 24, 1953. </p>
+<p>  39. <strong>Majda Vrhovnik</strong> (1922-1945.), declared a national hero on July 5, 1951. </p>
+<p>  40. <strong>Franjo Vrunč</strong> (1910-1941.), declared a national hero on November 27, 1953. </p>
+<p>  41. <strong>Sava Vujanović Žuća</strong> (1923-1941.), declared a national hero on November 27, 1953. </p>
+<p>  42. <strong>Vasilije Vujačić Vajo</strong> (1917-1943.), declared a national hero on December 20, 1951. </p>
+<p>  43. <strong>Dušan Vujačić</strong> (1917-1943.), declared a national hero on July 13, 1953. </p>
+<p>  44. <strong>Dušan Vujović</strong> (1909-1943.), declared a national hero on November 27, 1953. </p>
+<p>  45. <strong>Đuro Vujović</strong> (1901-1943.), declared a national hero on July 4, 1946. </p>
+<p>  46. <strong>Ratko Vujović Čoče</strong> (1916-1977.), awarded the Order of the National Hero on November 27, 1953. </p>
+<p>  47. <strong>Špiro Vujović</strong> (1918-1943.), declared a national hero on December 20, 1951. </p>
+<p>  48. <strong>Bogdan Vujošević</strong> (1912-1981.), awarded the Order of the National Hero on November 27, 1953. </p>
+<p>  49. <strong>Dušan Vujošević</strong> (1912-1943.), declared a national hero on December 20, 1951. </p>
+<p>  50. <strong>Zarija Vujošević</strong> (1903-1943.), declared a national hero on April 30, 1943. </p>
+<p>  51. <strong>Radoje Vujošević Risto</strong> (1910-1942.), declared a national hero on November 27, 1953. </p>
+<p>  52. <strong>Vukadin Vukadinović</strong> (1915-1943.), declared a national hero on December 20, 1951. </p>
+<p>  53. <strong>Bogoljub Vukajlović Lala</strong> (1911-1943.), declared a national hero on November 27, 1953. </p>
+<p>  54. <strong>Mihajlo Vukajlović Crni</strong> (1919-1989.), awarded the Order of the National Hero on December 20, 1951. </p>
+<p>  55. <strong>Jovan Vukanović</strong> (1912-1943.), declared a national hero on July 10, 1953. </p>
+<p>  56. <strong>Radovan Vukanović</strong> (1906-1987.), awarded the Order of the National Hero on December 20, 1951. </p>
+<p>  57. <strong>Dušan Vukasović</strong> (1909-1945.), declared a national hero on July 6, 1953. </p>
+<p>  58. <strong>Stanko Vukašinović</strong> (1923-1944.), declared a national hero on November 27, 1953. </p>
+<p>  59. <strong>Savo Vukelić</strong> (1917-1974.), awarded the Order of the National Hero on November 27, 1953. </p>
+<p>  60. <strong>Đoko Vukićević</strong> (1914-2002.), awarded the Order of the National Hero on July 10, 1953. </p>
+<p>  61. <strong>Svetozar Vukmanović Tempo</strong> (1912-2000.), awarded the Order of the National Hero on December 20, 1951. </p>
+<p>  62. <strong>Boro Vukmirović</strong> (1912-1943.), declared a national hero on March 6, 1945. </p>
+<p>  63. <strong>Dušan Vuković Zećo</strong> (1910-1993.), awarded the Order of the National Hero on November 27, 1953. </p>
+<p>  64. <strong>Žarko Vuković Pucar</strong> (1911-1943.), declared a national hero on July 26, 1945. </p>
+<p>  65. <strong>Pavle Vukoje</strong> (1908-1943.), declared a national hero on November 27, 1953. </p>
+<p>  66. <strong>Pavle Vukomanović</strong> (1903-1977.), awarded the Order of the National Hero on November 27, 1953. </p>
+<p>  67. <strong>Jovan Vukotić</strong> (1907-1982.), awarded the Order of the National Hero on November 27, 1953. </p>
+<p>  68. <strong>Slavoljub Vuksanović</strong> (1922-1943.), declared a national hero on October 9, 1953. </p>
+<p>  69. <strong>Milica Vučetić</strong> (1920-1944.), declared a national hero on November 27, 1953. </p>
+<p>  70. <strong>Vlado Vučinić</strong> (1907-1942.), declared a national hero on November 27, 1953. </p>
+<p>  71. <strong>Luka Vučinić</strong> (1922-1992.), awarded the Order of the National Hero on July 10, 1953. </p>
+<p>  72. <strong>Milica Vučinić</strong> (1921-1943.), declared a national hero on July 13, 1953. </p>
+<p>  73. <strong>Simo Vučinić</strong> (1916-1943.), declared a national hero on December 20, 1951. </p>
+<p>  74. <strong>Ante Vučić</strong> (1913-1942.), declared a national hero on July 5, 1951. </p>
+<p>  75. <strong>Jovan Vučković</strong> (1913-1944.), declared a national hero on November 27, 1953. </p>
+<p>  76. <strong>Ljubo Vučković</strong> (1915-1976.), awarded the Order of the National Hero on December 20, 1951. </p>
+<p>  77. <strong>Miloš Vučković</strong> (1914-1992.), awarded the Order of the National Hero on December 20, 1951. </p>
             </Accordion.Body>
           </Accordion.Item>
           <Accordion.Item eventKey="12">
