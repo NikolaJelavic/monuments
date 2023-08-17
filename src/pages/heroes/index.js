@@ -2982,9 +2982,79 @@ export default function News() {
               Heroes with starting letter R
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <a href="https://www.wikiwand.com/bs/Spisak_narodnih_heroja_Jugoslavije:_R">
-                https://www.wikiwand.com/bs/Spisak_narodnih_heroja_Jugoslavije:_R
-              </a>
+            <p> 1. <strong>Franc Ravbar</strong> (1913-43), declared a national hero on July 5, 1951. </p>
+<p> 2. <strong>Ilija Radaković</strong> (1923-2015), awarded the Order of the National Hero on December 20, 1951. </p>
+<p> 3. <strong>Lazo Radaković</strong> (1913-2014), awarded the Order of the National Hero on December 20, 1951. </p>
+<p> 4. <strong>Mićo Radaković</strong> (1912-41), declared a national hero on December 14, 1949. </p>
+<p> 5. <strong>Luka Radetić</strong> (1918-82), awarded the Order of the National Hero on July 23, 1952. </p>
+<p> 6. <strong>Petar Radetić</strong> (1918-2003), awarded the Order of the National Hero on December 20, 1951. </p>
+<p> 7. <strong>Jovanka Radivojević</strong> (1922-43), declared a national hero on July 6, 1953. </p>
+<p> 8. <strong>Voja Radić</strong> (1902-77), awarded the Order of the National Hero on November 27, 1953. </p>
+<p> 9. <strong>Lepa Radić</strong> (1925-43), declared a national hero on December 20, 1951. </p>
+<p> 10. <strong>Velimir Radičević</strong> (1914-), declared a national hero on July 10, 1953. </p>
+<p> 11. <strong>Vladimir Radovanović</strong> (1903-43), declared a national hero on March 13, 1945. </p>
+<p> 12. <strong>Jovo Radovanović Jovaš</strong> (1915-2004), awarded the Order of the National Hero on July 26, 1945. </p>
+<p> 13. <strong>Milić Radovanović Mladen</strong> (1920-44), declared a national hero on July 5, 1951. </p>
+<p> 14. <strong>Gojko Radović</strong> (1911-71), awarded the Order of the National Hero on November 27, 1953. </p>
+<p> 15. <strong>Darinka Radović</strong> (1896-43), declared a national hero on October 9, 1953. </p>
+<p> 16. <strong>Lazar Radojević</strong> (1916-41), declared a national hero on December 20, 1951. </p>
+<p> 17. <strong>Milutin Radojević</strong> (1914-41), declared a national hero on December 20, 1951. </p>
+<p> 18. <strong>Vera Radosavljević Nada</strong> (1922-43), declared a national hero on July 5, 1951. </p>
+<p> 19. <strong>Dobrivoje Radosavljević Bobi</strong> (1915-84), awarded the Order of the National Hero on July 6, 1953. </p>
+<p> 20. <strong>Dobrosav Radosavljević Narod</strong> (1920-42), declared a national hero on July 5, 1952. </p>
+<p> 21. <strong>Dragoljub Radosavljević Toplica</strong> (1919-43), declared a national hero on July 5, 1951. </p>
+<p> 22. <strong>Radiša Radosavljević Šoša</strong> (1919-42), declared a national hero on December 20, 1951. </p>
+<p> 23. <strong>Veljko Radulović Mijo</strong> (1915-42), declared a national hero on July 13, 1953. </p>
+<p> 24. <strong>Jovan Radulović Jovo</strong> (1906-43), declared a national hero on November 27, 1953. </p>
+<p> 25. <strong>Milosav Radulović</strong> (1915-43), declared a national hero on November 27, 1953. </p>
+<p> 26. <strong>Nikola Radulović</strong> (1915-84), awarded the Order of the National Hero on July 24, 1953. </p>
+<p> 27. <strong>Radule Radulović Ruso</strong> (1919-42), declared a national hero on July 10, 1953. </p>
+<p> 28. <strong>Mitar Radusinović</strong> (1912-75), awarded the Order of the National Hero on October 9, 1953. </p>
+<p> 29. <strong>Vladimir Raičević</strong> (1922-44), declared a national hero on October 9, 1953. </p>
+<p> 30. <strong>Dušan Rakita</strong> (1900-42), declared a national hero on November 27, 1953. </p>
+<p> 31. <strong>Dragan Rakić</strong> (1914-59), awarded the Order of the National Hero on November 27, 1953. </p>
+<p> 32. <strong>Krešo Rakić</strong> (1919-41), declared a national hero on July 23, 1952. </p>
+<p> 33. <strong>Milić Rakić</strong> (1912-43), declared a national hero on December 20, 1951. </p>
+<p> 34. <strong>Joakim Rakovac</strong> (1914-45), declared a national hero on December 9, 1952. </p>
+<p> 35. <strong>Nenad Rakočević</strong> (1914-43), declared a national hero on December 20, 1951. </p>
+<p> 36. <strong>Radomir Rakočević</strong> (1914-44), declared a national hero on July 13, 1953. </p>
+<p> 37. <strong>Aleksandar Ranković Marko</strong> (1909-83), awarded the Order of the National Hero on July 4, 1945. </p>
+<p> 38. <strong>Anđa Ranković</strong> (1909-42), declared a national hero on July 6, 1953. </p>
+<p> 39. <strong>Milan Raspopović</strong> (1915-42), declared a national hero on May 17, 1945. </p>
+<p> 40. <strong>Stevo Rauš</strong> (1916-98), awarded the Order of the National Hero on December 20, 1951. </p>
+<p> 41. <strong>Nikola Rački</strong> (1914-94), awarded the Order of the National Hero on November 27, 1953. </p>
+<p> 42. <strong>Milija Rašović</strong> (1915-43), declared a national hero on December 20, 1951. </p>
+<p> 43. <strong>Miloš Rastović</strong> (1921-42), declared a national hero on December 20, 1951. </p>
+<p> 44. <strong>Ante Raštegorac</strong> (1923-86), awarded the Order of the National Hero on December 20, 1951. </p>
+<p> 45. <strong>Zorka Regancin-Dolničar</strong> (1921-44), declared a national hero on November 27, 1953. </p>
+<p> 46. <strong>Marko Redelongi Benečan</strong> (1912-44), declared a national hero on December 20, 1951. </p>
+<p> 47. <strong>Srećko Reić</strong> (1914-87), awarded the Order of the National Hero on July 24, 1953. </p>
+<p> 48. <strong>Petar Relić</strong> (1913-90), awarded the Order of the National Hero on November 27, 1953. </p>
+<p> 49. <strong>Dušan Remih</strong> (1922-44), declared a national hero on November 27, 1953. </p>
+<p> 50. <strong>Ivo Lola Ribar</strong> (1916-43), declared a national hero on November 18, 1944. </p>
+<p> 51. <strong>Dujo Rikić</strong> (1918-43), declared a national hero on July 5, 1951. </p>
+<p> 52. <strong>Sofija Ristić</strong> (1900-44), declared a national hero on October 9, 1953. </p>
+<p> 53. <strong>Vinko Robek</strong> (1915-86), awarded the Order of the National Hero on July 21, 1953. </p>
+<p> 54. <strong>Radivoj Rodić</strong> (1920-42), declared a national hero on July 24, 1953. </p>
+<p> 55. <strong>Slavko Rodić</strong> (1916-49), declared a national hero on December 14, 1949. </p>
+<p> 56. <strong>Valentin Rožanc</strong> (1895-42), declared a national hero on July 21, 1953. </p>
+<p> 57. <strong>Franc Rozman Stane</strong> (1911-44), declared a national hero on November 11, 1944. </p>
+<p> 58. <strong>Ante Roje</strong> (1914-82), declared a national hero on November 27, 1953. </p>
+<p> 59. <strong>Karlo Rojc</strong> (1915-42), declared a national hero on December 20, 1951. </p>
+<p> 60. <strong>Franc Rojšek</strong> (1914-75), awarded the Order of the National Hero on September 13, 1952. </p>
+<p> 61. <strong>Mirko Rokvić Šoša</strong> (1922-2004), awarded the Order of the National Hero on March 13, 1945. </p>
+<p> 62. <strong>Vladimir Rolović</strong> (1916-71), declared a national hero on April 9, 1971. </p>
+<p> 63. <strong>Niko Rolović</strong> (1910-41), declared a national hero on July 10, 1953. </p>
+<p> 64. <strong>Paško Romac</strong> (1913-82), awarded the Order of the National Hero on November 27, 1953. </p>
+<p> 65. <strong>Janko Rudolf</strong> (1914-97), awarded the Order of the National Hero on December 20, 1951. </p>
+<p> 66. <strong>Josip Ružička</strong> (1919-45), declared a national hero on July 24, 1953. </p>
+<p> 67. <strong>Ante Rukavina</strong> (1922-43), declared a national hero on July 5, 1951. </p>
+<p> 68. <strong>Ivan Rukavina</strong> (1912-92), awarded the Order of the National Hero on December 20, 1951. </p>
+<p> 69. <strong>Ivan Rukavina Siđo</strong> (1901-43), declared a national hero on December 20, 1951. </p>
+<p> 70. <strong>Zvonimir Runko</strong> (1920-42), declared a national hero on November 27, 1953. </p>
+<p> 71. <strong>Milan Rustanbeg</strong> (1914-44), declared a national hero on November 27, 1953. </p>
+
+
             </Accordion.Body>
           </Accordion.Item>
           <Accordion.Item eventKey="8">
@@ -4090,9 +4160,52 @@ export default function News() {
               Pavel Jakimov
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <p>
-                https://sr.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%88%D0%B0%D0%BA%D0%B8%D0%BC%D0%BE%D0%B2
+            <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1692275115/Heroji%20-%20Strani/Pavel_Jakimov_g8mv0k.jpg"
+                }
+                width={200}
+                height={200}
+                alt="Jakimov"
+                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Pavel Nikitovich Yakimov</strong> ( June 30 [ July 13 ]  , 1910 , St. Petersburg - March 5 , 1968 ) - Soviet pilot, Hero of the Soviet Union (1944), participant in the Great Patriotic War , navigator of the aircraft of the 1st transport aviation division of the main command of the Air Force of the Red Army , People&apos;s Hero of Yugoslavia , guard captain .
               </p>
+              <p className="text-2xl text-bold">Biography</p>
+              <p className="m-2">
+              Born in St. Petersburg in a working class family.
+
+He graduated from the Leningrad Aviation College in 1931 .
+
+He worked at the Batayskaya Aviation School of the Civil Air Fleet, where he completed a military training course. Since 1939, he worked as a navigator at the Rostov Aviation Enterprise. On the fronts of the Great Patriotic War since October 1941 .
+
+In January 1943, P. N. Yakimov, as part of a group of Soviet pilots and aviation specialists of the 1st transport aviation division, was sent to the UK to master and distill 200 Armstrong Whitworth AW41 Albermarle bombers in the USSR  .
+
+In the summer and autumn of 1943, he participated in preparing the Tehran Conference of the Heads of the USSR, Great Britain and the USA ( November 28  - December 1 , 1943), transporting to Iran a large number of officers and soldiers of the Red Army, representatives of embassies, intelligence officers, support groups, translators, as well as various cargoes necessary for this purpose. He especially distinguished himself in the performance of special tasks of the command for the delivery of weapons, ammunition, food, medicine to the location of the People&apos;s Liberation Army of Yugoslavia (NOAU) from the air base in the city of Bari (Italy) in 1944, the removal of the wounded and the rescue of the Supreme Headquarters of the NOAU, led by Marshal Josip Broz TitoJune 4, 1944. For this operation, on June 20, 1944, he was awarded the title of Hero of the Soviet Union and the title of People&apos;s Hero of Yugoslavia.
+
+Since 1947, P.N. Yakimov has been in reserve. Lived in Moscow . He worked as a flag-navigator of the detachment of the Separate Aviation Group of International Air Communications, and as the chief of staff of the aviation enterprise. Then he moved to Estonia, lived in the city of Kingisepp (now the city of Kuressaare, Saaremaa island), worked as the head of the airport .
+              </p>
+              
+              <p className="text-2xl text-bold">Death</p>
+              <p className="m-2">
+              The last years he lived in the city of Tallinn . He died in Tallinn on March 5, 1968 
+              </p>
+
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://ru.wikipedia.org/wiki/%D0%AF%D0%BA%D0%B8%D0%BC%D0%BE%D0%B2,_%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB_%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%BE%D0%B2%D0%B8%D1%87"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      wikipedia.org/wiki/Pavel_Yakimov
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </Accordion.Body>
           </Accordion.Item>
 
