@@ -34,12 +34,22 @@ export default function Rest() {
       <Navbar />
       <div className="flex justify-center items-center flex-col">
         <h1 className="sm:text-2xl mt-3 sm:w-1/3 text-center">
-          Feel free to get in contact via email nob-spomenici@gmail.com or the
+          Feel free to get in contact via email yumonuments@gmail.com or the
           form below.
         </h1>
         <h1 className="sm:text-2xl mx-3 sm:w-1/3 text-center">
           Also, If you know about some monument which is not on the map, feel
-          free to send name and <a href="http://bboxfinder.com/">coordinates</a>.
+          free to send pictures, name or{" "}
+          <a
+            href="http://bboxfinder.com/"
+            className="hover:bg-red-300 rounded-xl p-1"
+          >
+            coordinates
+          </a>
+          .
+        </h1>
+        <h1 className="sm:text-2xl mx-3 sm:w-1/3 text-center">
+          Or if you have some question for the quiz or some quote.
         </h1>
       </div>
 
@@ -54,7 +64,7 @@ export default function Rest() {
             type="text"
             name="user_name"
             className="w-full px-4 py-2 mt-2 text-gray-800 bg-gray-100 border rounded focus:outline-none focus:border-blue-500"
-            placeholder="Josip"
+            placeholder="Koča Popović"
             autoFocus
           />
         </div>
@@ -64,7 +74,7 @@ export default function Rest() {
             type="email"
             name="user_email"
             className="w-full px-4 py-2 mt-2 text-gray-800 bg-gray-100 border rounded focus:outline-none focus:border-blue-500"
-            placeholder="josipbroz@nam.org"
+            placeholder="kocapopovic@nesvrstani.org"
           />
         </div>
         <div className="mb-4">
@@ -72,7 +82,7 @@ export default function Rest() {
           <textarea
             name="message"
             className="w-full px-4 py-2 mt-2 text-gray-800 bg-gray-100 border rounded focus:outline-none focus:border-blue-500"
-            placeholder="Smrt fasizmu sloboda narodu!"
+            placeholder="Death to fascism, freedom to the people!"
           />
         </div>
         <div className="text-center">
