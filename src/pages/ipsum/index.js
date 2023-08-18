@@ -5,7 +5,7 @@ import Navbar from "../navbar/navbar";
 var words = [
   "Josip Broz Tito", "Tjentiste", "Sutjeska", "Neretva", "NOB", "Sumarice", "Bosko Buha", "Bubanj", "Kadinjaca", "Boris Kidric", "Pijade",
   "Ivo Lola Ribar", "Vecna vatra", "Makljen", "Franjo Kluz", "Kupres", "Zrenjanin", "Kardelj", "Koca Popovic", "Save Kovacevic", 
-  "Radovan Djilas", "Dedijer", "Milka Planinc", "Batina", "Sremski front", "Stjepan Filipovic", "Partizani"
+  "Radovan Djilas", "Dedijer", "Milka Planinc", "Batina", "Sremski front", "Stjepan Filipovic", "Partizani", "Popina", "Jasikovac",
 ];
 
 export default function Ipsum() {
@@ -45,7 +45,7 @@ export default function Ipsum() {
           The &quot;NOB Ipsum Generator&quot; is  and creative tool that
           placeholder text in the style of traditional Lorem Ipsum text, but
           with a historical twist. Instead of the standard Lorem Ipsum, which
-          uses random Latin words, this generator uses a curated list of words
+          uses random Latin words, this generator uses a curated list of words(of monuments and famous people)
           related to the history of the People&lsquo;s Liberation Struggle (NOB) in Yugoslavia during
           World War II.
         </p>
