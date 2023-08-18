@@ -20,7 +20,7 @@ export default function Name2 (){
           <Link href="/heroes">Heroes</Link>
         </li>
         <li className="p-2 text-black">
-          <Link href="/quotes">Quotes</Link>
+          <Link href="/articles">Articles</Link>
         </li>
        
       </ul>

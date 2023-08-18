@@ -4929,62 +4929,61 @@ export default function News() {
               </p>
               <p className="text-2xl text-bold">Biography</p>
               <p className="m-2">
-                He was born on April 19 1913 . year in Dubasovo ,
-                Saratov province . In 1915, he moved with his family to the
-                village of Rtiščevo . After the end of 1928 . year of
-                schooling, Boris got a job at the Meat Processing Plant. There
-                he studied in the Komsomol ( Communist Youth League ) . In 1931
-                _ he was sent to the aviation school, which he graduated in 1932
-                . and became a pilot. In the period from 1933 . until 1941 . He
-                worked in civil aviation as a pilot-instructor, unit commander,
-                and flew in the Caucasus . Since the beginning of the Patriotic
-                War , Kalinkin, as the second pilot of a military transport
-                plane, flew to the Soviet partisans, participated in the
-                execution of air landings, the delivery of weapons and military
-                equipment to units at the front. From July 1943 . he was the
-                second pilot in the crew of Alexander Shornikov . He was
-                admitted to the membership of the Communist Party of the Soviet
-                Union in January 1941. In the winter of 1944 . , Boris, as a
-                second pilot, participated in the transfer of the Soviet
-                Military Mission to Yugoslavia , and flew to the airport in
-                Medeno polje. According to the memories of the commander of this
-                plane, Alexander Shornikov, Hero of the Soviet Union and
-                national hero of Yugoslavia , English and American aviation
-                experts and pilots, who were at the airbase in Bari ( Italy ),
-                claimed that the landing of the plane at such an improvised
-                airport in hills, such as Medeno polje, impossible, let alone
-                take off from it with loaded cargo, in winter. In order for the
-                &ldquo;non-believers&ldquo; to be convinced that the Soviet plane had
-                successfully landed on Medeno Polje , &ldquo;material evidence&ldquo; had to
-                be brought. Soviet pilots bought several woven baskets in an
-                Italian store, filled them with snow in the Yugoslav hills, and
-                after a regular night flight brought them to Bari and showed
-                them to their Western allies. The Soviet plane, which was flown
-                by guard captain Boris Kalinkin, made, in the winter of 1944, a
-                series of flights, being at the disposal of units of the
-                People&lsquo;s Liberation Army of Yugoslavia, delivering them Soviet
-                military equipment and transferring, on the way back, wounded
-                Yugoslav fighters and elders to hospitals in Italy. Boris
-                Kalinkin was the second pilot of the Soviet plane that, on the
-                order of the Soviet Command, flew from Bari to Kupreško Polje ,
-                in order to transfer the highest leadership of the NOVJ , led by
-                Marshal Tito , to a safer place . The flight was carried out in
-                extremely difficult weather conditions, the route led over an
-                area where the occupier had strong anti-aircraft defenses. In
-                addition, the crew was left without an experienced navigator,
-                Pavel Yakimov (he was at Kupreshko Polje), Boris Kalinkin was
-                ready to take control of the plane at any moment, if anything
-                happened to the commander Aaleksandr Shornikov. Thanks to the
-                courage and skill of the Soviet pilots, two complex and
-                dangerous night flights were successfully completed. On June 20,
-                1944, the Presidium of the Supreme Council of the Soviet Union
-                proclaimed Guards Captain Boris Kalinkin a Hero of the Soviet
-                Union for the performance of a special task by the Soviet
-                Command . And on September 25, 1944, the Presidency of the
-                Anti-Fascist Council of the People&lsquo;s Liberation of Yugoslavia
-                declared him a national hero of Yugoslavia . He was also awarded
-                the Order of Lenin and the Medal for the Defense of the
-                Caucasus.
+                He was born on April 19 1913 . year in Dubasovo , Saratov
+                province . In 1915, he moved with his family to the village of
+                Rtiščevo . After the end of 1928 . year of schooling, Boris got
+                a job at the Meat Processing Plant. There he studied in the
+                Komsomol ( Communist Youth League ) . In 1931 _ he was sent to
+                the aviation school, which he graduated in 1932 . and became a
+                pilot. In the period from 1933 . until 1941 . He worked in civil
+                aviation as a pilot-instructor, unit commander, and flew in the
+                Caucasus . Since the beginning of the Patriotic War , Kalinkin,
+                as the second pilot of a military transport plane, flew to the
+                Soviet partisans, participated in the execution of air landings,
+                the delivery of weapons and military equipment to units at the
+                front. From July 1943 . he was the second pilot in the crew of
+                Alexander Shornikov . He was admitted to the membership of the
+                Communist Party of the Soviet Union in January 1941. In the
+                winter of 1944 . , Boris, as a second pilot, participated in the
+                transfer of the Soviet Military Mission to Yugoslavia , and flew
+                to the airport in Medeno polje. According to the memories of the
+                commander of this plane, Alexander Shornikov, Hero of the Soviet
+                Union and national hero of Yugoslavia , English and American
+                aviation experts and pilots, who were at the airbase in Bari (
+                Italy ), claimed that the landing of the plane at such an
+                improvised airport in hills, such as Medeno polje, impossible,
+                let alone take off from it with loaded cargo, in winter. In
+                order for the &ldquo;non-believers&ldquo; to be convinced that
+                the Soviet plane had successfully landed on Medeno Polje ,
+                &ldquo;material evidence&ldquo; had to be brought. Soviet pilots
+                bought several woven baskets in an Italian store, filled them
+                with snow in the Yugoslav hills, and after a regular night
+                flight brought them to Bari and showed them to their Western
+                allies. The Soviet plane, which was flown by guard captain Boris
+                Kalinkin, made, in the winter of 1944, a series of flights,
+                being at the disposal of units of the People&lsquo;s Liberation
+                Army of Yugoslavia, delivering them Soviet military equipment
+                and transferring, on the way back, wounded Yugoslav fighters and
+                elders to hospitals in Italy. Boris Kalinkin was the second
+                pilot of the Soviet plane that, on the order of the Soviet
+                Command, flew from Bari to Kupreško Polje , in order to transfer
+                the highest leadership of the NOVJ , led by Marshal Tito , to a
+                safer place . The flight was carried out in extremely difficult
+                weather conditions, the route led over an area where the
+                occupier had strong anti-aircraft defenses. In addition, the
+                crew was left without an experienced navigator, Pavel Yakimov
+                (he was at Kupreshko Polje), Boris Kalinkin was ready to take
+                control of the plane at any moment, if anything happened to the
+                commander Aaleksandr Shornikov. Thanks to the courage and skill
+                of the Soviet pilots, two complex and dangerous night flights
+                were successfully completed. On June 20, 1944, the Presidium of
+                the Supreme Council of the Soviet Union proclaimed Guards
+                Captain Boris Kalinkin a Hero of the Soviet Union for the
+                performance of a special task by the Soviet Command . And on
+                September 25, 1944, the Presidency of the Anti-Fascist Council
+                of the People&lsquo;s Liberation of Yugoslavia declared him a
+                national hero of Yugoslavia . He was also awarded the Order of
+                Lenin and the Medal for the Defense of the Caucasus.
               </p>
 
               <p className="text-2xl text-bold">Death</p>
@@ -5022,10 +5021,98 @@ export default function News() {
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Semyon Kozak (bio will be added)
+              Semyon Kozak
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <p>https://en.wikipedia.org/wiki/Semyon_Kozak</p>
+              <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1692367324/Heroji%20-%20Strani/Semyon_Antonovich_Kozak_xbddzr.jpg"
+                }
+                width={200}
+                height={200}
+                alt="Kalikin"
+                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Semyon Antonovich Kozak</strong> (Russian: Семён
+                Антонович Козак; 23 May [O.S. 10 May] 1902 - 24 December 1953)
+                was a Ukrainian Soviet Army lieutenant general who was twice
+                awarded the title Hero of the Soviet Union for his command of a
+                division during World War II.
+              </p>
+              <p className="text-2xl text-bold">Biography</p>
+              <p className="m-2">
+                He was born on May 23, 1902 . in a village near Korosten in
+                Ukraine . As a nineteen-year-old young man, he participated in
+                the Civil War in the Soviet Union and served in special task
+                forces. He joined the Communist Party of the Soviet Union in
+                1923 . years. Since 1924 . In 1990 he was the chief of staff of
+                the Red Army , and from the beginning of the Great Patriotic War
+                he was in charge of training reserve military units in the rear.
+                In October 1942 . In 1998 he was sent to the active army and
+                fought on the Stalingrad, Voronezh, Seventh and Third Ukrainian
+                fronts. Under his command, the 73rd Guards Rifle Division
+                crossed the road from the Volga to the middle course of the
+                Danube . For its participation in the destruction of German
+                troops near Stalingrad , the division received the honorary name
+                &ldquo;Stalingradska&ldquo;. For the successful forcing of the Dnieper River
+                and securing the staging area for the advance of the Red Army,
+                by Decree of the Presidium of the Supreme Soviet of the Soviet
+                Union , Major General Semyon Kozak was declared a Hero of the
+                Soviet Union . October 1943 . he was contused, but continued to
+                fight. He was awarded for his war merits in 1943 . in 1944 ,
+                with the Order of Kutuzov and the Medal for the Defense of
+                Stalingrad . orders of Suvorov , Bogdan Khmeljnicki and the red
+                flag. In October 1944 . , the 73rd Stalingrad Guards Rifle
+                Division, part of the troops of the Third Ukrainian Front,
+                participated together with units of the People&apos;s Liberation Army
+                of Yugoslavia in the Belgrade operation and the liberation of
+                the capital of Yugoslavia . During the battle for Belgrade, a
+                fierce battle was fought in the area of the Main Railway
+                Station, a group of Ministry buildings, in Nemanja Street , and
+                on Čukarica , where the fascists defended themselves
+                tenaciously. In that part of the city, the brigades of the Sixth
+                Proletarian , 16th Vojvodina and 28th Strike Divisions of the
+                NOVJ , the Fourth Guards Mechanized Corps , the 73rd Guards and
+                the 236th Divisions of the Red Army fought together . The
+                Presidency of the Anti-Fascist Council of the Peopl&apos;s
+                Liberation of Yugoslavia awarded orders and medals to more than
+                two thousand Soviet soldiers and officers for their bravery and
+                courage in the battles for the liberation of Belgrade . Semyon
+                Kozak died on October 20, 1944 . awarded with the Order of the
+                National Hero of Yugoslavia . After the Belgrade operation, the
+                division under his command continued combat operations, and
+                among the first units of the Third Ukrainian Front, forced the
+                Danube . For excellent management of the combat actions of the
+                73rd Guards Rifle Division during the forcing and expansion of
+                the staging area on the right bank of the Danube, and the
+                bravery and heroism shown at that time, by decree of the
+                Presidium of the Supreme Council of the Soviet Union dated April
+                28 , 1945 . Major General Semyon Antonovich Kozak was declared a
+                double Hero of the Soviet Union .
+              </p>
+
+              <p className="text-2xl text-bold">Death</p>
+              <p className="m-2">
+                After the end of the war, he remained in the Soviet Army . He
+                died on December 23 , 1953 . in South-Sakhalinsk . He was buried
+                at the Novodevichy cemetery in Moscow .
+              </p>
+
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://sr.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BC%D1%98%D0%BE%D0%BD_%D0%9A%D0%BE%D0%B7%D0%B0%D0%BA"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      wikipedia.org/wiki/Semyon_Kozak
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </Accordion.Body>
           </Accordion.Item>
 

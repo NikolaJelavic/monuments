@@ -20,10 +20,10 @@ export default function Name2() {
     <div>
       <ul className="absolute bg-red-600 rounded-b-xl z-10">
         <li className="p-2 text-black">
-          <Link href="/articles">Articles</Link>
+          <Link href="/quiz">Quiz</Link>
         </li>
         <li className="p-2 text-black">
-          <Link href="/quiz">Quiz</Link>
+          <Link href="/quotes">Quotes</Link>
         </li>
         <li className="p-2 text-black">
           <Link href="/ipsum">Ipsum</Link>

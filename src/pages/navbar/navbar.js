@@ -4,10 +4,6 @@ import Link from "next/link";
 import Name1 from "../../components/Name1/index";
 import Name2 from "../../components/Name2/index";
 
-
-
-
-
 export default function Navbar() {
   const [isDropdownOpen1, setIsDropdownOpen1] = useState(false);
   const [isDropdownOpen2, setIsDropdownOpen2] = useState(false);
@@ -60,7 +56,7 @@ export default function Navbar() {
         onMouseLeave={handleDropdown2Leave}
       >
         <div className="hover:text-red-700 hover:text-stroke">
-          <span className="cursor-pointer">Rest&#x25BE;</span>
+          <span className="cursor-pointer">Other&#x25BE;</span>
           {isDropdownOpen2 && <Name2 />}
         </div>
       </li>
