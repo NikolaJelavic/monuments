@@ -3348,93 +3348,326 @@ export default function News() {
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Heroes with starting letter S 
+              Heroes with starting letter S
             </Accordion.Header>
             <Accordion.Body className="visible">
-            <p>1. <strong>Ivan Sabljak</strong> (1919-44), declared a national hero on July 24, 1953.</p>
-<p>2. <strong>Lazar Savatić</strong> (1914-50), declared a national hero on October 2, 1953.</p>
-<p>3. <strong>Ante Savin</strong> (1916-42), declared a national hero on July 24, 1953.</p>
-<p>4. <strong>Ramiz Sadik</strong> (1915-43), declared a national hero on March 6, 1945.</p>
-<p>5. <strong>Himzo Salihagić</strong> (1917-43), declared a national hero on December 20, 1951.</p>
-<p>6. <strong>Mira Svetina</strong> (1915-2007), awarded the Order of National Hero on November 27, 1953.</p>
-<p>7. <strong>Nikola Severović</strong> (1919-43), declared a national hero on November 27, 1953.</p>
-<p>8. <strong>Janko Sekirnik Simon</strong> (1921-96), awarded the Order of National Hero on December 20, 1951.</p>
-<p>9. <strong>Bajo Sekulić</strong> (1913-42), declared a national hero on July 11, 1945.</p>
-<p>10. <strong>Nikola Sekulić</strong> (1911-2002), declared a national hero on November 27, 1953.</p>
-<p>11. <strong>Stjepan Sekulić</strong> (1922-44), declared a national hero on July 26, 1945.</p>
-<p>12. <strong>Stane Semič Daki</strong> (1915-85), awarded the Order of National Hero on October 20, 1944.</p>
-<p>13. <strong>Đermano Senjanović</strong> (1923-42), declared a national hero on July 24, 1953.</p>
-<p>14. <strong>Ivan Senjug Ujak</strong> (1920-44), declared a national hero on June 19, 1945.</p>
-<p>15. <strong>Mihalj Servo</strong> (1900-41), declared a national hero on July 5, 1951.</p>
-<p>16. <strong>Đorđe Simeonović</strong> (1915-41), declared a national hero on November 27, 1953.</p>
-<p>17. <strong>Sima Simić</strong> (1920-43), declared a national hero on July 6, 1953.</p>
-<p>18. <strong>Milan Simović</strong> (1909-42), declared a national hero on September 6, 1942.</p>
-<p>19. <strong>Vinko Simončič</strong> (1914-44), declared a national hero on May 9, 1945.</p>
-<p>20. <strong>Ivan Skvarča</strong> (1915-43), declared a national hero on July 15, 1951.</p>
-<p>21. <strong>Josip Skočilić</strong> (1915-2001), awarded the Order of National Hero on November 27, 1953.</p>
-<p>22. <strong>Ivo Slavec Jokl</strong> (1916-43), declared a national hero on November 27, 1953.</p>
-<p>23. <strong>Jože Slak Silvo</strong> (1902-43), declared a national hero on December 20, 1951.</p>
-<p>24. <strong>Vidoje Smilevski</strong> (1915-79), awarded the Order of National Hero on July 6, 1953.</p>
-<p>25. <strong>Nikola Sovilj Nina</strong> (1919-44), declared a national hero on March 13, 1945.</p>
-<p>26. <strong>Sava Sogić</strong> (1915-81), awarded the Order of National Hero on October 2, 1953.</p>
-<p>27. <strong>Danilo Soldatić</strong> (1911-42), declared a national hero on August 7, 1942.</p>
-<p>28. <strong>Mirko Sotirović Sotir</strong> (1916-43), declared a national hero on November 27, 1953.</p>
-<p>29. <strong>Ratko Sofijanić</strong> (1915-68), awarded the Order of National Hero on December 20, 1951.</p>
-<p>30. <strong>Milan Spasić</strong> (1909-41), declared a national hero on September 10, 1973.</p>
-<p>31. <strong>Luka Spasojević</strong> (1916-43), declared a national hero on October 8, 1953.</p>
-<p>32. <strong>Jože Srebrnič</strong> (1884-1944), declared a national hero on September 4, 1953.</p>
-<p>33. <strong>Stanislav Sremčević</strong> (1910-43), declared a national hero on July 5, 1951.</p>
-<p>34. <strong>Dragoslav Srnić</strong> (1914-41), declared a national hero on July 7, 1953.</p>
-<p>35. <strong>Franz Stadler Pepe</strong> (1915-2000), awarded the Order of National Hero on July 15, 1952.</p>
-<p>36. <strong>Petar Stambolić</strong> (1912-2007), awarded the Order of National Hero on November 27, 1953.</p>
-<p>37. <strong>Dragi Stamenković</strong> (1920-2004), awarded the Order of National Hero on July 6, 1953.</p>
-<p>38. <strong>Kosta Stamenković</strong> (1893-42), declared a national hero on December 14, 1949.</p>
-<p>39. <strong>Trajko Stamenković</strong> (1909-42), declared a national hero on December 14, 1949.</p>
-<p>40. <strong>Milan Stanivuković</strong> (1912-44), declared a national hero on March 13, 1945.</p>
-<p>41. <strong>Miodrag Stanimirović Mija</strong> (1919-43), declared a national hero on July 5, 1951.</p>
-<p>42. <strong>Dragutin Stanić</strong> (1913-96), awarded the Order of National Hero on December 20, 1951.</p>
-<p>43. <strong>Mate Staničić</strong> (1920-85), awarded the Order of National Hero on July 24, 1953.</p>
-<p>44. <strong>Marko Stanišić</strong> (1920-83), awarded the Order of National Hero on July 10, 1953.</p>
-<p>45. <strong>Aleksandar Stanković Lala</strong> (1906-41), declared a national hero on November 27, 1953.</p>
-<p>46. <strong>Velizar Stanković Veca</strong> (1922-42), declared a national hero on November 27, 1953.</p>
-<p>47. <strong>Petar Stanković Ljuba</strong> (1923-83), awarded the Order of National Hero on October 9, 1953.</p>
-<p>48. <strong>Savo Stanojević</strong>, decorated with the Order of National Hero on December 6, 1944. The order was taken away from him in 1952.</p>
-<p>49. <strong>Milorad Mića Stanojlović</strong> (1919-42), declared a national hero on July 7, 1953.</p>
-<p>50. <strong>Momčilo Moma Stanojlović</strong> (1916-43), declared a national hero on June 23, 1948.</p>
-<p>51. <strong>Petar Stante Skala</strong> (1914-80), awarded the Order of National Hero on July 15, 1952.</p>
-<p>52. <strong>Slavko Stančir</strong> (1925-44), declared a national hero on November 27, 1953.</p>
-<p>53. <strong>Ivan Stariha Janko</strong> (1922-42), declared a national hero on December 20, 1951.</p>
-<p>54. <strong>Rodoljub Stevović</strong> (1917-43), declared a national hero on November 27, 1953.</p>
-<p>55. <strong>Ivan Stefanović of Srba</strong> (1912-48), declared a national hero on October 8, 1953.</p>
-<p>56. <strong>Svetislav Stefanović Ćeća</strong> (1910-80), awarded the Order of National Hero on November 27, 1953.</p>
-<p>57. <strong>Milosav Stiković</strong> (1914-43), declared a national hero on November 27, 1953.</p>
-<p>58. <strong>Božidar Stojanović</strong> (1914-44), declared a national hero on October 8, 1953.</p>
-<p>59. <strong>Branko Stojanović</strong> (1923-81), awarded the Order of National Hero on July 24, 1953.</p>
-<p>60. <strong>Jovan Stojanović</strong> (1923-43), declared a national hero on December 20, 1951.</p>
-<p>61. <strong>Lazar Stojanović</strong> (1904-42), declared a national hero on November 27, 1953.</p>
-<p>62. <strong>Mihailo Stojanović Puljo</strong> (1918-42), declared a national hero on November 27, 1953.</p>
-<p>63. <strong>Ph.D. Mladen Stojanović</strong> (1896-42), declared a national hero on August 7, 1942.</p>
-<p>64. <strong>Lazo Stojanović-Lazić</strong> (1912-42), declared a national hero on December 20, 1951.</p>
-<p>65. <strong>Nikodije Stojanović Tatko</strong> (1912-42), declared a national hero on December 14, 1949.</p>
-<p>66. <strong>Milivoje Stojković Mića</strong> (1919-43), declared a national hero on October 8, 1953.</p>
-<p>67. <strong>Trajko Stojkovski</strong> (1923-2005), awarded the Order of National Hero on December 20, 1951.</p>
-<p>68. <strong>Slavčo Stojmenski</strong> (1921-43), declared a national hero on October 9, 1953.</p>
-<p>69. <strong>Velimir Stojnić</strong> (1916-90), awarded the Order of National Hero on July 24, 1953.</p>
-<p>70. <strong>Goce Stojčevski</strong> (1919-44), declared a national hero on October 9, 1953.</p>
-<p>71. <strong>Blagoja Stračkovski</strong> (1922-42), declared a national hero on October 9, 1953.</p>
-<p>72. <strong>Tomo Strizić</strong> (1906-44), declared a national hero on December 20, 1951.</p>
-<p>73. <strong>Dušan Strugar</strong> (1922-43), declared a national hero on July 10, 1952.</p>
-<p>74. <strong>Đuro Strugar</strong> (1912-41), declared a national hero on May 9, 1945.</p>
-<p>75. <strong>Niko Strugar</strong> (1901-62), awarded the Order of National Hero on December 20, 1951.</p>
-<p>76. <strong>Miloš Suzić</strong> (1903-45), declared a national hero on December 20, 1951.</p>
-<p>77. <strong>Ivan Sulič</strong> (1923-44), declared a national hero on July 22, 1953.</p>
-<p>78. <strong>Branko Surla</strong> (1922-44), declared a national hero on July 24, 1953.</p>
-<p>79. <strong>Slobodan Surčević Boro</strong> (1919-44), declared a national hero on October 9, 1953.</p>
-
-
-
-
-
+              <p>
+                1. <strong>Ivan Sabljak</strong> (1919-44), declared a national
+                hero on July 24, 1953.
+              </p>
+              <p>
+                2. <strong>Lazar Savatić</strong> (1914-50), declared a national
+                hero on October 2, 1953.
+              </p>
+              <p>
+                3. <strong>Ante Savin</strong> (1916-42), declared a national
+                hero on July 24, 1953.
+              </p>
+              <p>
+                4. <strong>Ramiz Sadik</strong> (1915-43), declared a national
+                hero on March 6, 1945.
+              </p>
+              <p>
+                5. <strong>Himzo Salihagić</strong> (1917-43), declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                6. <strong>Mira Svetina</strong> (1915-2007), awarded the Order
+                of National Hero on November 27, 1953.
+              </p>
+              <p>
+                7. <strong>Nikola Severović</strong> (1919-43), declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                8. <strong>Janko Sekirnik Simon</strong> (1921-96), awarded the
+                Order of National Hero on December 20, 1951.
+              </p>
+              <p>
+                9. <strong>Bajo Sekulić</strong> (1913-42), declared a national
+                hero on July 11, 1945.
+              </p>
+              <p>
+                10. <strong>Nikola Sekulić</strong> (1911-2002), declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                11. <strong>Stjepan Sekulić</strong> (1922-44), declared a
+                national hero on July 26, 1945.
+              </p>
+              <p>
+                12. <strong>Stane Semič Daki</strong> (1915-85), awarded the
+                Order of National Hero on October 20, 1944.
+              </p>
+              <p>
+                13. <strong>Đermano Senjanović</strong> (1923-42), declared a
+                national hero on July 24, 1953.
+              </p>
+              <p>
+                14. <strong>Ivan Senjug Ujak</strong> (1920-44), declared a
+                national hero on June 19, 1945.
+              </p>
+              <p>
+                15. <strong>Mihalj Servo</strong> (1900-41), declared a national
+                hero on July 5, 1951.
+              </p>
+              <p>
+                16. <strong>Đorđe Simeonović</strong> (1915-41), declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                17. <strong>Sima Simić</strong> (1920-43), declared a national
+                hero on July 6, 1953.
+              </p>
+              <p>
+                18. <strong>Milan Simović</strong> (1909-42), declared a
+                national hero on September 6, 1942.
+              </p>
+              <p>
+                19. <strong>Vinko Simončič</strong> (1914-44), declared a
+                national hero on May 9, 1945.
+              </p>
+              <p>
+                20. <strong>Ivan Skvarča</strong> (1915-43), declared a national
+                hero on July 15, 1951.
+              </p>
+              <p>
+                21. <strong>Josip Skočilić</strong> (1915-2001), awarded the
+                Order of National Hero on November 27, 1953.
+              </p>
+              <p>
+                22. <strong>Ivo Slavec Jokl</strong> (1916-43), declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                23. <strong>Jože Slak Silvo</strong> (1902-43), declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                24. <strong>Vidoje Smilevski</strong> (1915-79), awarded the
+                Order of National Hero on July 6, 1953.
+              </p>
+              <p>
+                25. <strong>Nikola Sovilj Nina</strong> (1919-44), declared a
+                national hero on March 13, 1945.
+              </p>
+              <p>
+                26. <strong>Sava Sogić</strong> (1915-81), awarded the Order of
+                National Hero on October 2, 1953.
+              </p>
+              <p>
+                27. <strong>Danilo Soldatić</strong> (1911-42), declared a
+                national hero on August 7, 1942.
+              </p>
+              <p>
+                28. <strong>Mirko Sotirović Sotir</strong> (1916-43), declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                29. <strong>Ratko Sofijanić</strong> (1915-68), awarded the
+                Order of National Hero on December 20, 1951.
+              </p>
+              <p>
+                30. <strong>Milan Spasić</strong> (1909-41), declared a national
+                hero on September 10, 1973.
+              </p>
+              <p>
+                31. <strong>Luka Spasojević</strong> (1916-43), declared a
+                national hero on October 8, 1953.
+              </p>
+              <p>
+                32. <strong>Jože Srebrnič</strong> (1884-1944), declared a
+                national hero on September 4, 1953.
+              </p>
+              <p>
+                33. <strong>Stanislav Sremčević</strong> (1910-43), declared a
+                national hero on July 5, 1951.
+              </p>
+              <p>
+                34. <strong>Dragoslav Srnić</strong> (1914-41), declared a
+                national hero on July 7, 1953.
+              </p>
+              <p>
+                35. <strong>Franz Stadler Pepe</strong> (1915-2000), awarded the
+                Order of National Hero on July 15, 1952.
+              </p>
+              <p>
+                36. <strong>Petar Stambolić</strong> (1912-2007), awarded the
+                Order of National Hero on November 27, 1953.
+              </p>
+              <p>
+                37. <strong>Dragi Stamenković</strong> (1920-2004), awarded the
+                Order of National Hero on July 6, 1953.
+              </p>
+              <p>
+                38. <strong>Kosta Stamenković</strong> (1893-42), declared a
+                national hero on December 14, 1949.
+              </p>
+              <p>
+                39. <strong>Trajko Stamenković</strong> (1909-42), declared a
+                national hero on December 14, 1949.
+              </p>
+              <p>
+                40. <strong>Milan Stanivuković</strong> (1912-44), declared a
+                national hero on March 13, 1945.
+              </p>
+              <p>
+                41. <strong>Miodrag Stanimirović Mija</strong> (1919-43),
+                declared a national hero on July 5, 1951.
+              </p>
+              <p>
+                42. <strong>Dragutin Stanić</strong> (1913-96), awarded the
+                Order of National Hero on December 20, 1951.
+              </p>
+              <p>
+                43. <strong>Mate Staničić</strong> (1920-85), awarded the Order
+                of National Hero on July 24, 1953.
+              </p>
+              <p>
+                44. <strong>Marko Stanišić</strong> (1920-83), awarded the Order
+                of National Hero on July 10, 1953.
+              </p>
+              <p>
+                45. <strong>Aleksandar Stanković Lala</strong> (1906-41),
+                declared a national hero on November 27, 1953.
+              </p>
+              <p>
+                46. <strong>Velizar Stanković Veca</strong> (1922-42), declared
+                a national hero on November 27, 1953.
+              </p>
+              <p>
+                47. <strong>Petar Stanković Ljuba</strong> (1923-83), awarded
+                the Order of National Hero on October 9, 1953.
+              </p>
+              <p>
+                48. <strong>Savo Stanojević</strong>, decorated with the Order
+                of National Hero on December 6, 1944. The order was taken away
+                from him in 1952.
+              </p>
+              <p>
+                49. <strong>Milorad Mića Stanojlović</strong> (1919-42),
+                declared a national hero on July 7, 1953.
+              </p>
+              <p>
+                50. <strong>Momčilo Moma Stanojlović</strong> (1916-43),
+                declared a national hero on June 23, 1948.
+              </p>
+              <p>
+                51. <strong>Petar Stante Skala</strong> (1914-80), awarded the
+                Order of National Hero on July 15, 1952.
+              </p>
+              <p>
+                52. <strong>Slavko Stančir</strong> (1925-44), declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                53. <strong>Ivan Stariha Janko</strong> (1922-42), declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                54. <strong>Rodoljub Stevović</strong> (1917-43), declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                55. <strong>Ivan Stefanović of Srba</strong> (1912-48), declared
+                a national hero on October 8, 1953.
+              </p>
+              <p>
+                56. <strong>Svetislav Stefanović Ćeća</strong> (1910-80),
+                awarded the Order of National Hero on November 27, 1953.
+              </p>
+              <p>
+                57. <strong>Milosav Stiković</strong> (1914-43), declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                58. <strong>Božidar Stojanović</strong> (1914-44), declared a
+                national hero on October 8, 1953.
+              </p>
+              <p>
+                59. <strong>Branko Stojanović</strong> (1923-81), awarded the
+                Order of National Hero on July 24, 1953.
+              </p>
+              <p>
+                60. <strong>Jovan Stojanović</strong> (1923-43), declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                61. <strong>Lazar Stojanović</strong> (1904-42), declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                62. <strong>Mihailo Stojanović Puljo</strong> (1918-42),
+                declared a national hero on November 27, 1953.
+              </p>
+              <p>
+                63. <strong>Ph.D. Mladen Stojanović</strong> (1896-42), declared
+                a national hero on August 7, 1942.
+              </p>
+              <p>
+                64. <strong>Lazo Stojanović-Lazić</strong> (1912-42), declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                65. <strong>Nikodije Stojanović Tatko</strong> (1912-42),
+                declared a national hero on December 14, 1949.
+              </p>
+              <p>
+                66. <strong>Milivoje Stojković Mića</strong> (1919-43), declared
+                a national hero on October 8, 1953.
+              </p>
+              <p>
+                67. <strong>Trajko Stojkovski</strong> (1923-2005), awarded the
+                Order of National Hero on December 20, 1951.
+              </p>
+              <p>
+                68. <strong>Slavčo Stojmenski</strong> (1921-43), declared a
+                national hero on October 9, 1953.
+              </p>
+              <p>
+                69. <strong>Velimir Stojnić</strong> (1916-90), awarded the
+                Order of National Hero on July 24, 1953.
+              </p>
+              <p>
+                70. <strong>Goce Stojčevski</strong> (1919-44), declared a
+                national hero on October 9, 1953.
+              </p>
+              <p>
+                71. <strong>Blagoja Stračkovski</strong> (1922-42), declared a
+                national hero on October 9, 1953.
+              </p>
+              <p>
+                72. <strong>Tomo Strizić</strong> (1906-44), declared a national
+                hero on December 20, 1951.
+              </p>
+              <p>
+                73. <strong>Dušan Strugar</strong> (1922-43), declared a
+                national hero on July 10, 1952.
+              </p>
+              <p>
+                74. <strong>Đuro Strugar</strong> (1912-41), declared a national
+                hero on May 9, 1945.
+              </p>
+              <p>
+                75. <strong>Niko Strugar</strong> (1901-62), awarded the Order
+                of National Hero on December 20, 1951.
+              </p>
+              <p>
+                76. <strong>Miloš Suzić</strong> (1903-45), declared a national
+                hero on December 20, 1951.
+              </p>
+              <p>
+                77. <strong>Ivan Sulič</strong> (1923-44), declared a national
+                hero on July 22, 1953.
+              </p>
+              <p>
+                78. <strong>Branko Surla</strong> (1922-44), declared a national
+                hero on July 24, 1953.
+              </p>
+              <p>
+                79. <strong>Slobodan Surčević Boro</strong> (1919-44), declared
+                a national hero on October 9, 1953.
+              </p>
             </Accordion.Body>
           </Accordion.Item>
           <Accordion.Item eventKey="9">
@@ -5136,19 +5369,19 @@ export default function News() {
                 crossed the road from the Volga to the middle course of the
                 Danube . For its participation in the destruction of German
                 troops near Stalingrad , the division received the honorary name
-                &ldquo;Stalingradska&ldquo;. For the successful forcing of the Dnieper River
-                and securing the staging area for the advance of the Red Army,
-                by Decree of the Presidium of the Supreme Soviet of the Soviet
-                Union , Major General Semyon Kozak was declared a Hero of the
-                Soviet Union . October 1943 . he was contused, but continued to
-                fight. He was awarded for his war merits in 1943 . in 1944 ,
-                with the Order of Kutuzov and the Medal for the Defense of
-                Stalingrad . orders of Suvorov , Bogdan Khmeljnicki and the red
-                flag. In October 1944 . , the 73rd Stalingrad Guards Rifle
-                Division, part of the troops of the Third Ukrainian Front,
-                participated together with units of the People&apos;s Liberation Army
-                of Yugoslavia in the Belgrade operation and the liberation of
-                the capital of Yugoslavia . During the battle for Belgrade, a
+                &ldquo;Stalingradska&ldquo;. For the successful forcing of the
+                Dnieper River and securing the staging area for the advance of
+                the Red Army, by Decree of the Presidium of the Supreme Soviet
+                of the Soviet Union , Major General Semyon Kozak was declared a
+                Hero of the Soviet Union . October 1943 . he was contused, but
+                continued to fight. He was awarded for his war merits in 1943 .
+                in 1944 , with the Order of Kutuzov and the Medal for the
+                Defense of Stalingrad . orders of Suvorov , Bogdan Khmeljnicki
+                and the red flag. In October 1944 . , the 73rd Stalingrad Guards
+                Rifle Division, part of the troops of the Third Ukrainian Front,
+                participated together with units of the People&apos;s Liberation
+                Army of Yugoslavia in the Belgrade operation and the liberation
+                of the capital of Yugoslavia . During the battle for Belgrade, a
                 fierce battle was fought in the area of the Main Railway
                 Station, a group of Ministry buildings, in Nemanja Street , and
                 on Čukarica , where the fascists defended themselves
@@ -5206,12 +5439,62 @@ export default function News() {
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Ivan Konstantinov (bio will be added)
+              Ivan Konstantinov
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <p>
-                https://sr.wikipedia.org/wiki/%D0%98%D0%B2%D0%B0%D0%BD_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2
+              <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1691007065/No-Image_bjme29.jpg"
+                }
+                width={200}
+                height={200}
+                alt="Konstantinov"
+                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Ivan Nikiforovich Konstantinov</strong> ( Russian: Иван
+                Никифорович Константинов ; Siberia , 1920 ), pilot, guard
+                captain of the Red Army and national hero of Yugoslavia .
               </p>
+              <p className="text-2xl text-bold">Biography</p>
+              <p className="m-2">
+                He was born in 1920 . in Siberia . On the eve of the war, he
+                graduated from flight school and became a medium bomber pilot.
+                During 1941-1943. In 1998, he participated in the combat actions
+                of long-range bomber aviation - bombing enemy troops and
+                equipment in the enemy&apos;s rear, railway junctions in the
+                Soviet territory, which was temporarily occupied by the enemy,
+                and in the territory of Germany. Since the spring of 1944 .
+                Guard captain, deputy squadron commander Ivan Konstantinov
+                participated in the delivery of military equipment for the
+                People&apos;s Liberation Army of Yugoslavia . Together with his
+                wartime comrades - navigator Nikolaj Abramov and aviation
+                technician Arkady Cirkov, he made about fifty night combat
+                flights in Yugoslavia - in Serbia , Montenegro , Croatia and
+                Dalmatia . The crew performed all tasks excellently. After the
+                end of the war, Ivan Nikiforovich Konstantinov was transferred
+                to the reserve, and worked in civil aviation.
+              </p>
+
+              {/* <p className="text-2xl text-bold">Death</p>
+              <p className="m-2">
+               
+              </p> */}
+
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://sr.wikipedia.org/wiki/%D0%98%D0%B2%D0%B0%D0%BD_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%BE%D0%B2"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      wikipedia.org/wiki/Ivan_Konstantinov
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </Accordion.Body>
           </Accordion.Item>
 
