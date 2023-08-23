@@ -5507,10 +5507,83 @@ export default function News() {
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Vojo Kušić (bio will be added)
+              Vojo Kušić
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <p>https://en.wikipedia.org/wiki/Vojo_Kushi</p>
+              <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1692793497/Heroji%20-%20Strani/Vojo_Kushi_qhbtjl.jpg"
+                }
+                width={200}
+                height={200}
+                alt="Kushi"
+                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Vojo Kushi</strong> (Serbian Cyrillic: Bojo Кушић,
+                August 3, 1918 - October 10, 1942) was an Albanian and Yugoslav
+                communist guerilla fighter (partisan) and one of the founders of
+                the Communist group based in Shkodër, following the Italian
+                occupation of Albania in April 1939. He was proclaimed a
+                National Hero of Yugoslavia by the Yugoslav communist government
+                on February 12, 1945, and then a Hero of Albania by the Albanian
+                communist government in 1946.
+              </p>
+              <p className="text-2xl text-bold">Biography</p>
+              <p className="m-2">
+                Kushi was born in 1918, in Vrakë, near Shkodër. He belonged to
+                either the Serb-Montenegrin or the Aromanian minority of
+                Albania. His original surname may have been Kušić (Serbian
+                Cyrillic: Кушић); due to King Zog&apos;s state persecution of
+                Serbs following 1920, surnames with obvious Slavic suffixes such
+                as &apos;-ić&apos; and &apos;-vić&apos; were removed, as were
+                Slavic-speaking schools. Following the Italian occupation of
+                Albania in April 1939, the first communist revolutionary
+                organization was established in Shkodër (Shkodër group), which
+                included minority members brothers Vaso and Branko Kadija, Vojo
+                Kushi, Jordan Misja, Ivo Jovanov, Vojin Dragović, Petar
+                Bulatović and Vasil Shanto. The Shkodër group was led by Shanto
+                and Qemal Stafa. The other organization, established in Korçë
+                (Korçë group), was united into one on November 8, 1941, in
+                Tirana, at the house of Bojko Lazarov, hence forming the
+                Communist Party of Albania. In 1942, he was chosen as a member
+                of the regional committee for Tirana and appointed commander of
+                guerilla units. Enver Hoxha was appointed the Party leader in
+                order to include the majority Muslim population. Kushi was sent
+                by the Albanian government for education at the Military Academy
+                in Belgrade, in the Kingdom of Yugoslavia. Before his return to
+                Albania, he joined the Yugoslav Partisans and became a member of
+                the Communist Party of Yugoslavia. One of the discussions of
+                Partisans in Prokletije, including Kushi, was included in Đurica
+                Labović&apos;s Lučonoša sa Prokletija (1985).
+              </p>
+
+              <p className="text-2xl text-bold">Death</p>
+              <p className="m-2">
+                The Albanian fascist regime sentenced communist fighters to
+                death for treachery and unrest. In Tirana, Qemal Stafa, and
+                later Kushi, Sadik Stavileci and Xoxi Martini were surrounded
+                and killed by carabinieri on 10 October 1942. Their house on the
+                Kodra Kuqe quarter was surrounded and a fight ensued for 6
+                hours, with tanks forcing them out; Kushi stormed out and killed
+                several carabinieri, then ran out of bullets and jumped onto the
+                tank and was killed
+              </p>
+
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://en.wikipedia.org/wiki/Vojo_Kushi"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      en.wikipedia.org/wiki/Vojo_Kushi
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </Accordion.Body>
           </Accordion.Item>
         </Accordion>
@@ -5529,10 +5602,125 @@ export default function News() {
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Luigi Longo (bio will be added)
+              Luigi Longo
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <p>https://en.wikipedia.org/wiki/Luigi_Longo</p>
+              <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1692795355/Heroji%20-%20Strani/Luigi_Longo_oudqey.jpg"
+                }
+                width={200}
+                height={200}
+                alt="luigi longo"
+                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Luigi Longo</strong> (15 March 1900 - 16 October 1980),
+                also known as Gallo, was an Italian communist politician and
+                general secretary of the Italian Communist Party from 1964 to
+                1972. He was also the first foreigner to be awarded an Order of
+                Lenin.
+              </p>
+              <p className="text-2xl text-bold">Early life</p>
+              <p className="m-2">
+                Longo was born in Fubine, in the province of Alessandria,
+                Piedmont. As a student at the Politecnico di Torino, he became
+                active in the youth wing of the Italian Socialist Party (PSI),
+                and engaged in political propaganda from a Marxist perspective.
+                He was a regular visitor to the offices of L&apos;Ordine Nuovo,
+                the newspaper founded by Antonio Gramsci, and became acquainted
+                with Gramsci and Palmiro Togliatti. In 1921, at the Livorno
+                Congress of the PSI, he was one of the instigators of the split
+                in the party, when supporters of Vladimir Lenin&apos;s Bolshevik
+                line left to form the Italian Communist Party (PCI). He became a
+                leading figure in the new PCI along with Togliatti, Gramsci and
+                others. Longo was a fervent anti-fascist, and, when Benito
+                Mussolini established his Fascist regime in Italy in 1922, he
+                emigrated to France where he became one of the principal leaders
+                of the PCI. In the same year he was a member of a delegation to
+                the Comintern Congress in Moscow, where he met Lenin. He would
+                return to Moscow several times in the years to come, with a
+                specific expertise in political ideology, and was to meet Joseph
+                Stalin and other members of the Soviet Union leadership. In 1933
+                he became a member of the Comintern&apos;s political commission.
+                In 1934 he signed a joint action agreement between the PCI and
+                the PSI.
+              </p>
+              <p className="text-2xl text-bold">
+                Spanish Civil War and Resistance
+              </p>
+              <p className="m-2">
+                Longo took part in the Spanish Civil War as an inspector of the
+                Republican troops in the International Brigades under the
+                leadership of Randolfo Pacciardi, and took the nom de guerre
+                Gallo. After the defeat of the Second Spanish Republic by
+                General Franco, he returned to France. Following the 1940
+                invasion of France, the Vichy-based collaborationist government
+                was established under Philippe Pétain. Longo was arrested and
+                detained in an internment camp at Vernet from 1939 to 1941.
+                There he made the acquaintance of Leo Valiani, among other
+                left-wing radicals. In 1941 he was handed over to the Italian
+                fascist authorities and interned at Ventotene. When Mussolini
+                fell from power on 25 July 1943, Longo was released. After
+                Mussolini regained control of Northern Italy (which he led as
+                the Italian Social Republic), Longo took command of the
+                Garibaldi Brigades, the communist forces in the Italian partisan
+                resistance. Longo became deputy commander of the Gruppo
+                volontari per la liberta (&apos;Group of Volunteers for
+                Freedom&apos;), and a close collaborator of Ferruccio Parri; in
+                April 1945 Longo was one of the leading figures of the uprising
+                in northern Italy. It was at Dongo on Lake Como on 28 April 1945
+                and whilst being escorted by the Garibaldi Brigade partisans
+                that Mussolini and his mistress Claretta Petacci were executed;
+                the extent to which Longo took part in the killings has been the
+                subject of dispute by historians.
+              </p>
+
+              <p className="text-2xl text-bold">Post-war</p>
+              <p className="m-2">
+                After the war he was a member of the National Congress and in
+                1946 was elected to the Constituent Assembly. Also in 1946,
+                Teresa Mattei chose the mimosa as the symbol of International
+                Women&apos;s Day at the request of Longo. He was subsequently
+                elected, and repeatedly re-elected, to the Italian Chamber of
+                Deputies on the PCI list and was a member of the party
+                leadership. In 1964, after the death of Palmiro Togliatti, he
+                became secretary of the PCI, declaring that he was &ldquo;a secretary,
+                not a boss&ldquo;. In this role, he continued Togliatti&apos;s line, known
+                as the &ldquo;Italian road to Socialism&ldquo;, playing down the alliance
+                between the Italian Communist Party and the Soviet Union. He
+                reacted without hostility to the new left movements that sprang
+                up in 1968 and, among the leaders of the PCI, was one of those
+                most disposed to engage with the new activists, although he did
+                not condone their excesses.
+              </p>
+              <p className="text-2xl text-bold">Death</p>
+              <p className="m-2">
+                In late 1968 Longo suffered a stroke; although he partially
+                recovered in the subsequent months, from February 1969 he was
+                assisted in most decisions by Enrico Berlinguer acting as
+                vice-secretary. In 1972 Longo resigned the position of party
+                secretary, supporting the choice of Berlinguer as his successor.
+                From that year until his death, eight years later in Rome, he
+                was honorary president of the PCI. In that capacity, he
+                expressed his opposition to the &ldquo;national solidarity&ldquo; line the
+                PCI was later to espouse.
+              </p>
+
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://en.wikipedia.org/wiki/Luigi_Longo"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      en.wikipedia.org/wiki/Luigi_Longo
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </Accordion.Body>
           </Accordion.Item>
 
