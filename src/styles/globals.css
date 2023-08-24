@@ -122,3 +122,8 @@ span,.navbar {
 h1,h2,p,button, div{
   font-family:"Roboto",sans-serif ;
 }
+
+a.social-icon{
+  width:30px !important;
+height: 30px !important;
+}

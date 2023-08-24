@@ -38,12 +38,20 @@ export default function Home() {
             to come.
           </p>
           <div className="text-center m-1 sm:px-10 text-md sm:text-2xl">
-            This website was made by a student of IT bootcamp
-            <SocialIcon
+            This website was made by a student of{" "}
+            <a
+              href="https://www.spiced-academy.com/en/program/full-stack-web-development"
+              className="underline hover:[text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+              target="_blank"
+            >
+              {" "}
+              IT bootcamp
+            </a>{" "}
+            {/* <SocialIcon
               url="https://www.spiced-academy.com/en/program/full-stack-web-development"
               target="_blank"
               className="mx-1"
-            />
+            /> */}
             in Berlin and is part of the final project. Powered by React,
             Next.js, JavaScript, and Tailwind CSS, this website stands as a
             testament to the student&rsquo;s skills in the world of modern web
@@ -64,36 +72,45 @@ export default function Home() {
             </a>
             .
           </p>
-          <div className="text-center  text-md sm:text-3xl">
+          <div className="text-center text-md sm:text-3xl">
             His work is also visible on Social networks
             <SocialIcon
               url="https://www.instagram.com/spomenikdatabase/"
               target="_blank"
-              className="mx-1 "
+              className="mx-0.5 "
             />
             <SocialIcon
               url="https://twitter.com/SpomenikDatabse"
               target="_blank"
-              className="mx-1 "
+              className="mx-0.5 "
             />
             <SocialIcon
               url="https://www.facebook.com/SpomenikDatabase"
               target="_blank"
-              className="mx-1 "
+              className="mx-0.5 "
             />
             <SocialIcon
               url="https://www.flickr.com/photos/149875687@N06/"
               target="_blank"
-              className="mx-1 "
-            />
+              className="mx-0.5 "
+            />.
           </div>
-          <div className="text-center m-4 text-xl sm:text-2xl">
-            And, you can buy his book on Amazon
-            <SocialIcon
+          <div className="text-center mx-4 my-1 text-md sm:text-3xl">
+            And, you can buy his book &ldquo;Spomenik Monument Database&ldquo;
+            on{" "}
+            <a
+              href="https://www.amazon.com/Spomenik-Monument-Database-Donald-Niebyl/dp/0995745536/"
+              className="underline hover:[text-shadow:_0_1px_0_rgb(0_0_0_/_40%)]"
+              target="_blank"
+            >
+              Amazon
+            </a>
+            .
+            {/* <SocialIcon
               url="https://www.amazon.com/Spomenik-Monument-Database-Donald-Niebyl/dp/0995745536/"
               target="_blank"
               className="ml-1"
-            />
+            /> */}
           </div>
         </div>
       </div>
