@@ -5769,6 +5769,20 @@ On 20 October, the Southwestern Front was renamed 3rd Ukrainian Front. From Dece
               <p className="m-2">
               Malinovsky died on 31 March 1967 after an illness. Official medical report mentions metastatic pancreatic cancer. He was honoured with a state funeral and cremated. His urn was placed in the Kremlin Wall Necropolis. The government gave his name to the leading Soviet Military Academy of Tank Troops in Moscow and to the 10th Guards Uralsko-Lvovskaya Tank Division. Malinovsky continued to be regarded as one of the most important military leaders in the history of Russia even after the dissolution of the Soviet Union.
               </p>
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://en.wikipedia.org/wiki/Rodion_Malinovsky"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      en.wikipedia.org/wiki/Rodion_Malinovsky
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </Accordion.Body>
           </Accordion.Item>
 
@@ -5781,12 +5795,54 @@ On 20 October, the Southwestern Front was renamed 3rd Ukrainian Front. From Dece
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Aleksandar Managadze (bio will be added)
+              Aleksandar Managadze 
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <p>
-                https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D0%B0%D0%BD%D0%B0%D0%B3%D0%B0%D0%B4%D0%B7%D0%B5
+               <Accordion.Body className="visible">
+            <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1693429456/Heroji%20-%20Strani/Aleksandar_Managadze_lxsofi.jpg"
+                }
+                width={200}
+                height={200}
+                alt="Malinovsky"
+                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Aleksandar Teopanovič Managadze </strong> ( Russian: Alksendar Teopanovíč Managdze ; Georgia , October 23, 1919 ) major of the Soviet Red Army and national hero of Yugoslavia .
               </p>
+              <p className="text-2xl text-bold">Biography</p>
+              <p className="m-2">
+              He was born in 1919 . in Georgia . Just before the war, Aleksandar graduated from the school of war aviators and became a medium bomber pilot.
+
+Aleksandar Managadze, with his crewmates - navigator Ivan Bulkin and gunner radio-telegrapher Peter Boltarchuk , flew, due to the bombing of enemy troops and equipment, into the deep enemy rear and into the Soviet territory, which was occupied by the Germans , and into Germany itself .
+
+Since 1944 _ In 2008, the Guards Aviation Regiment, in which the Guards Senior Lieutenant Aleksandar Managadze served as the company commander, began to carry out the tasks of the Soviet government and the Red Army command - to deliver arms and ammunition, medicines and medical supplies, food and clothing to the People&apos;s Liberation Army of Yugoslavia .
+
+Aleksandar Teopanovic and his crew flew in the direction of thirty points in different areas of Yugoslavia , delivering military equipment to the Yugoslav partisans, and they completed all tasks successfully.
+
+After the end of the war, Alexander was demobilized, in the rank of major , and worked for a long time in civil aviation. </p>
+              <p className="text-2xl text-bold">Decorations</p>
+              <p className="m-2">
+              For his combat activity during the Great Patriotic War , Aleksandar Managadze was awarded three Orders of the Red Banner , the Order of the Patriotic War of the second class, two Orders of the Red Star and many medals.
+
+On June 21, 1945 , the Presidency of the Anti-Fascist Council for the People&apos;s Liberation of Yugoslavia honored him . year, with the Order of the National Hero of Yugoslavia .</p>
+             
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D0%B0%D0%BD%D0%B0%D0%B3%D0%B0%D0%B4%D0%B7%D0%B5"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      en.wikipedia.org/wiki/Alexander_Managadze
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </Accordion.Body>
             </Accordion.Body>
           </Accordion.Item>
 
