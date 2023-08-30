@@ -5733,10 +5733,42 @@ export default function News() {
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Rodion Malinovsky (bio will be added)
+              Rodion Malinovsky
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <p>https://en.wikipedia.org/wiki/Rodion_Malinovsky</p>
+            <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1693425820/Heroji%20-%20Strani/Rodion_Malinovsky_rhzmcw.jpg"
+                }
+                width={200}
+                height={200}
+                alt="Malinovsky"
+                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Rodion Yakovlevich Malinovsky </strong> (Russian: Родио́н Я́ковлевич Малино́вский, Ukrainian: Родіо́н Я́кович Малино́вський ; 23 November [O.S. 11 November] 1898 - 31 March 1967) was a Soviet military commander and Marshal of the Soviet Union. During World War II, he took part in several of the Red Army&apos;s key victories over Nazi Germany, including the Battle of Stalingrad and the Siege of Budapest. As Minister of Defence of the Soviet Union from 1957 to 1967, Malinovsky oversaw the strengthening of the Soviet Army and helped build up the image of the Soviet Union as a military superpower.
+              </p>
+              <p className="text-2xl text-bold">Early life</p>
+              <p className="m-2">
+              A Ukrainian, Malinovsky was born in Odesa to a single mother (a version has Malinovsky being born after the death of his father, others simply have the father as unknown). Malinovsky&apos;s mother soon left the city for the rural areas of Southern Russia, and married. Her husband, a poverty-stricken peasant, refused to adopt her son and expelled him when Malinovsky was only 13 years old. The homeless boy survived by working as a farmhand, and eventually received shelter from his aunt&apos;s family in Odesa, where he worked as an errand boy in a general store. After the start of World War I in July 1914, Malinovsky, who was only 15 years old at the time (too young for military service), hid on the military train heading for the German front, but was discovered. He nevertheless convinced the commanding officers to enlist him as a volunteer, and served in a machine-gun detachment in the frontline trenches. In October 1915, as a reward for repelling a German attack, he received his first military award, the Cross of St. George of the 4th class, and was promoted to the rank of corporal. Soon afterwards, he was badly wounded and spent several months in the hospital.
+              After his recovery, he was sent to France in 1916 as a member of the Western Front Russian Expeditionary Corps. Malinovsky fought in a hotly contested sector of the front near Fort Brion and was promoted to sergeant. He suffered a serious wound in his left arm, and received a decoration from the French government. After the Bolshevik Revolution in Russia, the French government disbanded some Russian units, but others were transferred to a newly created unit called the Russian Legion, which was attached to the Moroccan Division. Malinovsky fought against the Germans until the end of the war. During this time, he was awarded the French Croix de guerre and promoted to senior NCO.
+              </p>
+              <p className="text-2xl text-bold">World War II</p>
+              <p className="m-2">
+              The Red Army was hard-pressed by Germans in the Battle of Stalingrad, and Stalin entrusted Malinovsky with the command of the hastily formed 66th Army to hold positions north-east of Stalingrad. At the same time Stalin ordered Nikita Khrushchev, who served as his top political officer in Stalingrad, to &ldquo;keep an eye&ldquo; on Malinovsky.[citation needed]
+
+The 66th Army had no combat experience, but this was the first time in the war Malinovsky had commanded a unit that was near full strength in both troops and equipment. In September and October 1942, he went on the offensive. His territorial gains were marginal, but he denied the Germans an opportunity to encircle Stalingrad from the north, and, slowed down, they decided to push into the city. Later that month, Stavka dispatched Malinovsky to the Voronezh Front as its deputy commander; in December 1942, he was sent back to Stalingrad. There the Red Army achieved its greatest success to that point in the war: on 22 November the Red Army fronts encircled the German Sixth Army. The German Army Group Don, commanded by Field Marshal Erich von Manstein, gathered its Panzer troops in the town of Kotelnikovo 150 kilometres (93 mi) west of Stalingrad and launched a desperate counterattack to save the Sixth Army.
+
+Malinovsky led the powerful Soviet Second Guards Army against Hoth. In vicious fighting he forced the Germans to retreat, breached deeply echeloned and well-prepared German defenses, and destroyed the Kotelnikovo army grouping. It was the first World War II large-scale clash of armor to be lost by Germany. Malinovskywith `&apos;s victory sealed the fate of 250,000 German and other Axis Powers soldiers trapped in the Stalingrad pocket. Stalin promoted Malinovsky to colonel general, and awarded him with the highest Soviet decoration for outstanding generalship — the Order of Suvorov of the 1st degree.
+
+In February 1943, Malinovsky resumed his command of Southern Front, and in less than two weeks he expelled Manstein from Rostov-on-Don, opening the road to Ukraine to the Red Army. In March 1943, Stalin elevated him to rank of Army General and gave him command of Southwestern Front, tasked to drive German troops away from the industrially rich Donbas. Through a sudden attack in mid-October, Malinovsky managed to surprise a large German force in the regionwith `&apos;s key city of Zaporizhia and captured it. The campaign split German forces in the South and isolated German forces in Crimea from the rest of the German Eastern Front.
+
+On 20 October, the Southwestern Front was renamed 3rd Ukrainian Front. From December 1943 to April 1944, Malinovsky smashed the German Army Group South, and liberated much of the southern Ukraine, including Kherson, Mykolaiv and his home city of Odessa. By that time, according to Khrushchevwith `&apos;s opinion, Stalin grew much more confident of Malinovskywith `&apos;s loyalty.
+              </p>
+              <p className="text-2xl text-bold">Death</p>
+              <p className="m-2">
+              Malinovsky died on 31 March 1967 after an illness. Official medical report mentions metastatic pancreatic cancer. He was honoured with a state funeral and cremated. His urn was placed in the Kremlin Wall Necropolis. The government gave his name to the leading Soviet Military Academy of Tank Troops in Moscow and to the 10th Guards Uralsko-Lvovskaya Tank Division. Malinovsky continued to be regarded as one of the most important military leaders in the history of Russia even after the dissolution of the Soviet Union.
+              </p>
             </Accordion.Body>
           </Accordion.Item>
 
