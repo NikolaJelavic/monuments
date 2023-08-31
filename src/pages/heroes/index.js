@@ -2962,12 +2962,449 @@ export default function News() {
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Heroes with starting letter P (110 Heroes will be added)
+              Heroes with starting letter P
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <a href="https://www.wikiwand.com/bs/Spisak_narodnih_heroja_Jugoslavije:_P">
-                https://www.wikiwand.com/bs/Spisak_narodnih_heroja_Jugoslavije:_P
-              </a>
+              <p>
+                1. <strong>Đoko Pavićević</strong> (1872-70), awarded the Order
+                of National Hero on November 27, 1953.
+              </p>
+              <p>
+                2. <strong>Stjepan Pavlić</strong> (1916-42), declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                3. <strong>Miladin Pavličić</strong> (1920-43), declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                4. <strong>Dragan Pavlović Šilja</strong> (1908-42), declared a
+                national hero on December 21, 1951.
+              </p>
+              <p>
+                5. <strong>Drinka Pavlović</strong> (1919-43), declared a
+                national hero on July 6, 1953.
+              </p>
+              <p>
+                6. <strong>Milica Pavlović Dara</strong> (1915-44), declared a
+                national hero on December 14, 1949.
+              </p>
+              <p>
+                7. <strong>Miloje Pavlović</strong> (1887-1941), declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                8. <strong>Ratko Pavlović Ćićko</strong> (1913-43), declared a
+                national hero on October 9, 1945.
+              </p>
+              <p>
+                9. <strong>Vinko Paderšič</strong> (1916-42), declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                10. <strong>Anka Pađen</strong> (1924-45), declared a national
+                hero on December 20, 1951.
+              </p>
+              <p>
+                11. <strong>Vinko Pajić</strong> (1912-41), declared a national
+                hero on July 24, 1953.
+              </p>
+              <p>
+                12. <strong>David Pajić</strong> (1911-41), declared a national
+                hero on November 27, 1953.
+              </p>
+              <p>
+                13. <strong>Dušan Pajić-Dašić</strong> (1912-43), declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                14. <strong>Đorđije Đoko Pajković</strong> (1917-80), awarded
+                the Order of National Hero on July 10, 1953.
+              </p>
+              <p>
+                15. <strong>Ibe Palikuća</strong> (1927-44), declared a national
+                hero on October 8, 1953.
+              </p>
+              <p>
+                16. <strong>Boško Palkovljević Pinki</strong> (1920-42),
+                declared a national hero on October 25, 1943.
+              </p>
+              <p>
+                17. <strong>Todor Panić</strong> (1911-42), declared a national
+                hero on July 24, 1953.
+              </p>
+              <p>
+                18. <strong>Pavle Pap Šilja</strong> (1914-41), declared a
+                national hero on July 5, 1951.
+              </p>
+              <p>
+                19. <strong>Žarko Papić</strong> (1920-44), declared a national
+                hero on November 27, 1953.
+              </p>
+              <p>
+                20. <strong>Branislav Parać Relja</strong> (1922-43), declared a
+                national hero on October 9, 1953.
+              </p>
+              <p>
+                21. <strong>Ph.D. Nenad Parenta</strong> (1913-41), declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                22. <strong>Stanko Parmać</strong> (1913-82), awarded the Order
+                of National Hero on November 27, 1953.
+              </p>
+              <p>
+                23. <strong>Franz Pasterk Lenart</strong> (1912-43), declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                24. <strong>Katarina Patrnogić</strong> (1921-71), awarded the
+                Order of National Hero on November 27, 1953.
+              </p>
+              <p>
+                25. <strong>Stanko Paunović Veljko</strong> (1907-42), declared
+                a national hero on October 25, 1943.
+              </p>
+              <p>
+                26. <strong>Slavko Pejak</strong> (1919-92), awarded the Order
+                of National Hero on November 27, 1953.
+              </p>
+              <p>
+                27. <strong>Kata Pejnović</strong> (1899-1966), declared a
+                national hero on June 3, 1968.
+              </p>
+              <p>
+                28. <strong>Andrija Pejović</strong> (1911-97), declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                29. <strong>Vasilije Pejović</strong> (1911-44), declared a
+                national hero on July 13, 1953.
+              </p>
+              <p>
+                30. <strong>Dušan Pekić</strong> (1921-2007), awarded the Order
+                of National Hero on December 6, 1944.
+              </p>
+              <p>
+                31. <strong>Vuksan Pekiša</strong> (1905-41), declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                32. <strong>Bogdan Peko</strong> (1915-), awarded the Order of
+                National Hero on November 27, 1953.
+              </p>
+              <p>
+                33. <strong>Slobodan Penezić Krcun</strong> (1918-64), declared
+                a national hero on July 5, 1952.
+              </p>
+              <p>
+                34. <strong>Vladimir Peran Živko</strong> (1922-42), declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                35. <strong>Ibrahim Perviz</strong> (1902-41), declared a
+                national hero on July 24, 1953.
+              </p>
+              <p>
+                36. <strong>Branko Perić</strong> (1913-42), declared a national
+                hero on November 27, 1953.
+              </p>
+              <p>
+                37. <strong>Vladimir Perić Valter</strong> (1919-45), declared a
+                national hero on July 24, 1953.
+              </p>
+              <p>
+                38. <strong>Ratko Perić</strong> (1914-85), awarded the Order of
+                National Hero on July 24, 1953.
+              </p>
+              <p>
+                39. <strong>Marko Peričin Kamenjar</strong> (1912-82), awarded
+                the Order of National Hero on December 20, 1951.
+              </p>
+              <p>
+                40. <strong>Branko Perišić Badža</strong> (1923-43), declared a
+                national hero on July 5, 1951.
+              </p>
+              <p>
+                41. <strong>Puniša Perović</strong> (1911-85), awarded the Order
+                of National Hero on November 27, 1953.
+              </p>
+              <p>
+                42. <strong>Mirko Perc Max</strong> (1912-45), declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                43. <strong>Zdenko Petranović Jastreb</strong> (1919-42),
+                declared a national hero on December 20, 1951.
+              </p>
+              <p>
+                44. <strong>Olga Petrov</strong> (1921-42), declared a national
+                hero on November 27, 1953.
+              </p>
+              <p>
+                45. <strong>Adam Petrović</strong> (1913-84), awarded the Order
+                of National Hero on July 24, 1953.
+              </p>
+              <p>
+                46. <strong>Dragoljub Petrović Rade</strong> (1919-94), awarded
+                the Order of National Hero on December 20, 1951.
+              </p>
+              <p>
+                47. <strong>Dragoslav Petrović Gorski</strong> (1919-96),
+                awarded the Order of National Hero on November 27, 1953.
+              </p>
+              <p>
+                48. <strong>Dušan Petrović Šane</strong> (1914-77), declared a
+                national hero on July 5, 1952.
+              </p>
+              <p>
+                49. <strong>Đuro Petrović</strong> (1914-42), declared a
+                national hero on August 7, 1942.
+              </p>
+              <p>
+                50. <strong>Milorad Petrović</strong> (1903-42), declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                51. <strong>Radovan Petrović</strong> (1916-42), declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                52. <strong>Stevan Petrović Brile</strong> (1921-43), declared a
+                national hero on December 22, 1951.
+              </p>
+              <p>
+                53. <strong>Boro Petruševski</strong> (1920-43), declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                54. <strong>Đuro Pećanac Đurekan</strong> (1916-42), declared a
+                national hero on July 24, 1953.
+              </p>
+              <p>
+                55. <strong>Rado Pehaček</strong> (1913-83), awarded the Order
+                of National Hero on November 27, 1953.
+              </p>
+              <p>
+                56. <strong>Bogdan Pecotić</strong> (1912-98), awarded the Order
+                of National Hero on November 27, 1953.
+              </p>
+              <p>
+                57. <strong>Max Pečar</strong> (1907-41), declared a national
+                hero on July 22, 1953.
+              </p>
+              <p>
+                58. <strong>Novak Pivašević</strong> (1904-42), declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                59. <strong>Moša Pijade</strong> (1890-1957), awarded the Order
+                of National Hero on November 27, 1953.
+              </p>
+              <p>
+                60. <strong>Milan Pilipović</strong> (1919-41), declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                61. <strong>Miha Pintar Toledo</strong> (1913-42), declared a
+                national hero on July 21, 1953.
+              </p>
+              <p>
+                62. <strong>Ahmed Pintul</strong> (1923-43), declared a national
+                hero on December 20, 1951.
+              </p>
+              <p>
+                63. <strong>Strahil Pindžur</strong> (1915-43), declared a
+                national hero on July 29, 1945.
+              </p>
+              <p>
+                64. <strong>Dimitrije Pisković Trnavac</strong> (1914-87),
+                awarded the Order of National Hero on July 6, 1953.
+              </p>
+              <p>
+                65. <strong>Sima Pogačarević</strong> (1908-41), declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                66. <strong>Franc Poglajen Kranjc</strong> (1916-99), awarded
+                the Order of National Hero on November 27, 1953.
+              </p>
+              <p>
+                67. <strong>Franz Pokovec</strong> (1921-91), awarded the Order
+                of National Hero on November 27, 1953.
+              </p>
+              <p>
+                68. <strong>Smilja Pokrajac</strong> (1920-43), declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                69. <strong>Bojan Polak Stjenka</strong> (1919-2004), awarded
+                the Order of National Hero on September 13, 1952.
+              </p>
+              <p>
+                70. <strong>Vojin Poleksić</strong> (1923-43), declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                71. <strong>Miro Popara</strong> (1916-42), declared a national
+                hero on December 20, 1951.
+              </p>
+              <p>
+                72. <strong>Alojz Popek Vandek</strong> (1920-43), declared a
+                national hero on September 13, 1952.
+              </p>
+              <p>
+                73. <strong>Blažo Popivoda</strong> (1911-44), declared a
+                national hero on July 10, 1953.
+              </p>
+              <p>
+                74. <strong>Krsto Popivoda</strong> (1910-88), awarded the Order
+                of National Hero on July 10, 1952.
+              </p>
+              <p>
+                75. <strong>Branko Popović</strong> (1917-44), declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                76. <strong>Vlado Popović</strong> (1914-72), awarded the Order
+                of National Hero on July 10, 1952.
+              </p>
+              <p>
+                77. <strong>Ilija Popović</strong> (1917-43), declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                78. <strong>Jevrem Popović</strong> (1914-97), awarded the Order
+                of National Hero on July 6, 1953.
+              </p>
+              <p>
+                79. <strong>Koča Popović</strong> (1908-92), awarded the Order
+                of National Hero on November 27, 1953.
+              </p>
+              <p>
+                80. <strong>Ljubica Popović</strong> (1921-42), declared a
+                national hero on July 12, 1949.
+              </p>
+              <p>
+                81. <strong>Miladin Popović</strong> (1910-45), declared a
+                national hero on March 12, 1946.
+              </p>
+              <p>
+                82. <strong>Momčilo Popović</strong> (1919-62), declared a
+                national hero on December 15, 1962.
+              </p>
+              <p>
+                83. <strong>Momčilo Popović Ozren</strong> (1909-43), declared a
+                national hero on October 9, 1953.
+              </p>
+              <p>
+                84. <strong>Nikola Popović</strong> (1916-2005), awarded the
+                Order of National Hero on November 27, 1953.
+              </p>
+              <p>
+                85. <strong>Radoslav Popović</strong> (1909-42), declared a
+                national hero on July 10, 1953.
+              </p>
+              <p>
+                86. <strong>Svetozar Popović Milić</strong> (1901-44), declared
+                a national hero on October 9, 1953.
+              </p>
+              <p>
+                87. <strong>Sekule Popović</strong> (1911-42), declared a
+                national hero on July 13, 1953.
+              </p>
+              <p>
+                88. <strong>Tomica Popović</strong> (1915-72), awarded the Order
+                of National Hero on November 27, 1953.
+              </p>
+              <p>
+                89. <strong>Panče Popovski</strong> (1924-44), declared a
+                national hero on October 9, 1953.
+              </p>
+              <p>
+                90. <strong>Stane Potočar</strong> (1919-97), awarded the Order
+                of National Hero on September 4, 1953.
+              </p>
+              <p>
+                91. <strong>Mile Počuča</strong> (1899-1980), awarded the Order
+                of National Hero on November 27, 1953.
+              </p>
+              <p>
+                92. <strong>Mirko Poštić</strong> (1913-42), declared a national
+                hero on December 6, 1944.
+              </p>
+              <p>
+                93. <strong>Dragica Pravica</strong> (1919-42), declared a
+                national hero on June 8, 1945.
+              </p>
+              <p>
+                94. <strong>Đurađ Predojević Đurin</strong> (1915-2000), awarded
+                the Order of National Hero on December 20, 1951.
+              </p>
+              <p>
+                95. <strong>Božina Prelevic Bojo</strong> (1919-43), declared a
+                national hero on July 10, 1953.
+              </p>
+              <p>
+                96. <strong>Đoko Prelevic</strong> (1916-43), declared a
+                national hero on July 5, 1951.
+              </p>
+              <p>
+                97. <strong>Đorđe Premović</strong> (1910-43), declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                98. <strong>Janko Premrl Vojko</strong> (1920-43), declared a
+                national hero on April 18, 1944.
+              </p>
+              <p>
+                99. <strong>Josip Preskar</strong> (1920-43), declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                100. <strong>Marijan Primorac</strong> (1921-46), declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                101. <strong>Rudolf Primorac</strong> (1904-79), awarded the
+                Order of National Hero on November 27, 1953.
+              </p>
+              <p>
+                102. <strong>Slobodan Princip Seljo</strong> (1914-42), declared
+                a national hero on September 6, 1942.
+              </p>
+              <p>
+                103. <strong>Ognjen Prica</strong> (1899-1941), declared a
+                national hero on July 26, 1945.
+              </p>
+              <p>
+                104. <strong>Vančo Prkev</strong> (1921-43), declared a national
+                hero on August 1, 1949.
+              </p>
+              <p>
+                105. <strong>Petar Prlja</strong> (1911-43), declared a national
+                hero on November 27, 1953.
+              </p>
+              <p>
+                106. <strong>Josip Prša</strong> (1922-43), declared a national
+                hero on July 27, 1953.
+              </p>
+              <p>
+                107. <strong>Dako Puač</strong> (1919-94), awarded the Order of
+                National Hero on December 20, 1951.
+              </p>
+              <p>
+                108. <strong>Nada Purić</strong> (1903-41), declared a national
+                hero on July 6, 1953.
+              </p>
+              <p>
+                109. <strong>Đuro Pucar Stari</strong> (1899-1979), awarded the
+                Order of National Hero on March 11, 1951.
+              </p>
+              <p>
+                110. <strong>Momir Pucarević</strong> (1918-42), declared a
+                national hero on December 20, 1951.
+              </p>
             </Accordion.Body>
           </Accordion.Item>
           <Accordion.Item eventKey="7">
@@ -5475,12 +5912,6 @@ export default function News() {
                 end of the war, Ivan Nikiforovich Konstantinov was transferred
                 to the reserve, and worked in civil aviation.
               </p>
-
-              {/* <p className="text-2xl text-bold">Death</p>
-              <p className="m-2">
-               
-              </p> */}
-
               <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
                 <ul>
                   Source:{" "}
@@ -5685,14 +6116,15 @@ export default function News() {
                 elected, and repeatedly re-elected, to the Italian Chamber of
                 Deputies on the PCI list and was a member of the party
                 leadership. In 1964, after the death of Palmiro Togliatti, he
-                became secretary of the PCI, declaring that he was &ldquo;a secretary,
-                not a boss&ldquo;. In this role, he continued Togliatti&apos;s line, known
-                as the &ldquo;Italian road to Socialism&ldquo;, playing down the alliance
-                between the Italian Communist Party and the Soviet Union. He
-                reacted without hostility to the new left movements that sprang
-                up in 1968 and, among the leaders of the PCI, was one of those
-                most disposed to engage with the new activists, although he did
-                not condone their excesses.
+                became secretary of the PCI, declaring that he was &ldquo;a
+                secretary, not a boss&ldquo;. In this role, he continued
+                Togliatti&apos;s line, known as the &ldquo;Italian road to
+                Socialism&ldquo;, playing down the alliance between the Italian
+                Communist Party and the Soviet Union. He reacted without
+                hostility to the new left movements that sprang up in 1968 and,
+                among the leaders of the PCI, was one of those most disposed to
+                engage with the new activists, although he did not condone their
+                excesses.
               </p>
               <p className="text-2xl text-bold">Death</p>
               <p className="m-2">
@@ -5703,8 +6135,8 @@ export default function News() {
                 secretary, supporting the choice of Berlinguer as his successor.
                 From that year until his death, eight years later in Rome, he
                 was honorary president of the PCI. In that capacity, he
-                expressed his opposition to the &ldquo;national solidarity&ldquo; line the
-                PCI was later to espouse.
+                expressed his opposition to the &ldquo;national
+                solidarity&ldquo; line the PCI was later to espouse.
               </p>
 
               <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
@@ -5736,7 +6168,7 @@ export default function News() {
               Rodion Malinovsky
             </Accordion.Header>
             <Accordion.Body className="visible">
-            <Image
+              <Image
                 src={
                   "https://res.cloudinary.com/dvwnqprsp/image/upload/v1693425820/Heroji%20-%20Strani/Rodion_Malinovsky_rhzmcw.jpg"
                 }
@@ -5746,28 +6178,111 @@ export default function News() {
                 className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
               ></Image>
               <p className="m-2">
-                <strong>Rodion Yakovlevich Malinovsky </strong> (Russian: Родио́н Я́ковлевич Малино́вский, Ukrainian: Родіо́н Я́кович Малино́вський ; 23 November [O.S. 11 November] 1898 - 31 March 1967) was a Soviet military commander and Marshal of the Soviet Union. During World War II, he took part in several of the Red Army&apos;s key victories over Nazi Germany, including the Battle of Stalingrad and the Siege of Budapest. As Minister of Defence of the Soviet Union from 1957 to 1967, Malinovsky oversaw the strengthening of the Soviet Army and helped build up the image of the Soviet Union as a military superpower.
+                <strong>Rodion Yakovlevich Malinovsky </strong> (Russian: Родио́н
+                Я́ковлевич Малино́вский, Ukrainian: Родіо́н Я́кович Малино́вський ;
+                23 November [O.S. 11 November] 1898 - 31 March 1967) was a
+                Soviet military commander and Marshal of the Soviet Union.
+                During World War II, he took part in several of the Red
+                Army&apos;s key victories over Nazi Germany, including the
+                Battle of Stalingrad and the Siege of Budapest. As Minister of
+                Defence of the Soviet Union from 1957 to 1967, Malinovsky
+                oversaw the strengthening of the Soviet Army and helped build up
+                the image of the Soviet Union as a military superpower.
               </p>
               <p className="text-2xl text-bold">Early life</p>
               <p className="m-2">
-              A Ukrainian, Malinovsky was born in Odesa to a single mother (a version has Malinovsky being born after the death of his father, others simply have the father as unknown). Malinovsky&apos;s mother soon left the city for the rural areas of Southern Russia, and married. Her husband, a poverty-stricken peasant, refused to adopt her son and expelled him when Malinovsky was only 13 years old. The homeless boy survived by working as a farmhand, and eventually received shelter from his aunt&apos;s family in Odesa, where he worked as an errand boy in a general store. After the start of World War I in July 1914, Malinovsky, who was only 15 years old at the time (too young for military service), hid on the military train heading for the German front, but was discovered. He nevertheless convinced the commanding officers to enlist him as a volunteer, and served in a machine-gun detachment in the frontline trenches. In October 1915, as a reward for repelling a German attack, he received his first military award, the Cross of St. George of the 4th class, and was promoted to the rank of corporal. Soon afterwards, he was badly wounded and spent several months in the hospital.
-              After his recovery, he was sent to France in 1916 as a member of the Western Front Russian Expeditionary Corps. Malinovsky fought in a hotly contested sector of the front near Fort Brion and was promoted to sergeant. He suffered a serious wound in his left arm, and received a decoration from the French government. After the Bolshevik Revolution in Russia, the French government disbanded some Russian units, but others were transferred to a newly created unit called the Russian Legion, which was attached to the Moroccan Division. Malinovsky fought against the Germans until the end of the war. During this time, he was awarded the French Croix de guerre and promoted to senior NCO.
+                A Ukrainian, Malinovsky was born in Odesa to a single mother (a
+                version has Malinovsky being born after the death of his father,
+                others simply have the father as unknown). Malinovsky&apos;s
+                mother soon left the city for the rural areas of Southern
+                Russia, and married. Her husband, a poverty-stricken peasant,
+                refused to adopt her son and expelled him when Malinovsky was
+                only 13 years old. The homeless boy survived by working as a
+                farmhand, and eventually received shelter from his aunt&apos;s
+                family in Odesa, where he worked as an errand boy in a general
+                store. After the start of World War I in July 1914, Malinovsky,
+                who was only 15 years old at the time (too young for military
+                service), hid on the military train heading for the German
+                front, but was discovered. He nevertheless convinced the
+                commanding officers to enlist him as a volunteer, and served in
+                a machine-gun detachment in the frontline trenches. In October
+                1915, as a reward for repelling a German attack, he received his
+                first military award, the Cross of St. George of the 4th class,
+                and was promoted to the rank of corporal. Soon afterwards, he
+                was badly wounded and spent several months in the hospital.
+                After his recovery, he was sent to France in 1916 as a member of
+                the Western Front Russian Expeditionary Corps. Malinovsky fought
+                in a hotly contested sector of the front near Fort Brion and was
+                promoted to sergeant. He suffered a serious wound in his left
+                arm, and received a decoration from the French government. After
+                the Bolshevik Revolution in Russia, the French government
+                disbanded some Russian units, but others were transferred to a
+                newly created unit called the Russian Legion, which was attached
+                to the Moroccan Division. Malinovsky fought against the Germans
+                until the end of the war. During this time, he was awarded the
+                French Croix de guerre and promoted to senior NCO.
               </p>
               <p className="text-2xl text-bold">World War II</p>
               <p className="m-2">
-              The Red Army was hard-pressed by Germans in the Battle of Stalingrad, and Stalin entrusted Malinovsky with the command of the hastily formed 66th Army to hold positions north-east of Stalingrad. At the same time Stalin ordered Nikita Khrushchev, who served as his top political officer in Stalingrad, to &ldquo;keep an eye&ldquo; on Malinovsky.[citation needed]
-
-The 66th Army had no combat experience, but this was the first time in the war Malinovsky had commanded a unit that was near full strength in both troops and equipment. In September and October 1942, he went on the offensive. His territorial gains were marginal, but he denied the Germans an opportunity to encircle Stalingrad from the north, and, slowed down, they decided to push into the city. Later that month, Stavka dispatched Malinovsky to the Voronezh Front as its deputy commander; in December 1942, he was sent back to Stalingrad. There the Red Army achieved its greatest success to that point in the war: on 22 November the Red Army fronts encircled the German Sixth Army. The German Army Group Don, commanded by Field Marshal Erich von Manstein, gathered its Panzer troops in the town of Kotelnikovo 150 kilometres (93 mi) west of Stalingrad and launched a desperate counterattack to save the Sixth Army.
-
-Malinovsky led the powerful Soviet Second Guards Army against Hoth. In vicious fighting he forced the Germans to retreat, breached deeply echeloned and well-prepared German defenses, and destroyed the Kotelnikovo army grouping. It was the first World War II large-scale clash of armor to be lost by Germany. Malinovskywith `&apos;s victory sealed the fate of 250,000 German and other Axis Powers soldiers trapped in the Stalingrad pocket. Stalin promoted Malinovsky to colonel general, and awarded him with the highest Soviet decoration for outstanding generalship — the Order of Suvorov of the 1st degree.
-
-In February 1943, Malinovsky resumed his command of Southern Front, and in less than two weeks he expelled Manstein from Rostov-on-Don, opening the road to Ukraine to the Red Army. In March 1943, Stalin elevated him to rank of Army General and gave him command of Southwestern Front, tasked to drive German troops away from the industrially rich Donbas. Through a sudden attack in mid-October, Malinovsky managed to surprise a large German force in the regionwith `&apos;s key city of Zaporizhia and captured it. The campaign split German forces in the South and isolated German forces in Crimea from the rest of the German Eastern Front.
-
-On 20 October, the Southwestern Front was renamed 3rd Ukrainian Front. From December 1943 to April 1944, Malinovsky smashed the German Army Group South, and liberated much of the southern Ukraine, including Kherson, Mykolaiv and his home city of Odessa. By that time, according to Khrushchevwith `&apos;s opinion, Stalin grew much more confident of Malinovskywith `&apos;s loyalty.
+                The Red Army was hard-pressed by Germans in the Battle of
+                Stalingrad, and Stalin entrusted Malinovsky with the command of
+                the hastily formed 66th Army to hold positions north-east of
+                Stalingrad. At the same time Stalin ordered Nikita Khrushchev,
+                who served as his top political officer in Stalingrad, to
+                &ldquo;keep an eye&ldquo; on Malinovsky.[citation needed] The
+                66th Army had no combat experience, but this was the first time
+                in the war Malinovsky had commanded a unit that was near full
+                strength in both troops and equipment. In September and October
+                1942, he went on the offensive. His territorial gains were
+                marginal, but he denied the Germans an opportunity to encircle
+                Stalingrad from the north, and, slowed down, they decided to
+                push into the city. Later that month, Stavka dispatched
+                Malinovsky to the Voronezh Front as its deputy commander; in
+                December 1942, he was sent back to Stalingrad. There the Red
+                Army achieved its greatest success to that point in the war: on
+                22 November the Red Army fronts encircled the German Sixth Army.
+                The German Army Group Don, commanded by Field Marshal Erich von
+                Manstein, gathered its Panzer troops in the town of Kotelnikovo
+                150 kilometres (93 mi) west of Stalingrad and launched a
+                desperate counterattack to save the Sixth Army. Malinovsky led
+                the powerful Soviet Second Guards Army against Hoth. In vicious
+                fighting he forced the Germans to retreat, breached deeply
+                echeloned and well-prepared German defenses, and destroyed the
+                Kotelnikovo army grouping. It was the first World War II
+                large-scale clash of armor to be lost by Germany. Malinovskywith
+                `&apos;s victory sealed the fate of 250,000 German and other
+                Axis Powers soldiers trapped in the Stalingrad pocket. Stalin
+                promoted Malinovsky to colonel general, and awarded him with the
+                highest Soviet decoration for outstanding generalship — the
+                Order of Suvorov of the 1st degree. In February 1943, Malinovsky
+                resumed his command of Southern Front, and in less than two
+                weeks he expelled Manstein from Rostov-on-Don, opening the road
+                to Ukraine to the Red Army. In March 1943, Stalin elevated him
+                to rank of Army General and gave him command of Southwestern
+                Front, tasked to drive German troops away from the industrially
+                rich Donbas. Through a sudden attack in mid-October, Malinovsky
+                managed to surprise a large German force in the regionwith
+                `&apos;s key city of Zaporizhia and captured it. The campaign
+                split German forces in the South and isolated German forces in
+                Crimea from the rest of the German Eastern Front. On 20 October,
+                the Southwestern Front was renamed 3rd Ukrainian Front. From
+                December 1943 to April 1944, Malinovsky smashed the German Army
+                Group South, and liberated much of the southern Ukraine,
+                including Kherson, Mykolaiv and his home city of Odessa. By that
+                time, according to Khrushchevwith `&apos;s opinion, Stalin grew
+                much more confident of Malinovskywith `&apos;s loyalty.
               </p>
               <p className="text-2xl text-bold">Death</p>
               <p className="m-2">
-              Malinovsky died on 31 March 1967 after an illness. Official medical report mentions metastatic pancreatic cancer. He was honoured with a state funeral and cremated. His urn was placed in the Kremlin Wall Necropolis. The government gave his name to the leading Soviet Military Academy of Tank Troops in Moscow and to the 10th Guards Uralsko-Lvovskaya Tank Division. Malinovsky continued to be regarded as one of the most important military leaders in the history of Russia even after the dissolution of the Soviet Union.
+                Malinovsky died on 31 March 1967 after an illness. Official
+                medical report mentions metastatic pancreatic cancer. He was
+                honoured with a state funeral and cremated. His urn was placed
+                in the Kremlin Wall Necropolis. The government gave his name to
+                the leading Soviet Military Academy of Tank Troops in Moscow and
+                to the 10th Guards Uralsko-Lvovskaya Tank Division. Malinovsky
+                continued to be regarded as one of the most important military
+                leaders in the history of Russia even after the dissolution of
+                the Soviet Union.
               </p>
               <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
                 <ul>
@@ -5795,54 +6310,72 @@ On 20 October, the Southwestern Front was renamed 3rd Ukrainian Front. From Dece
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Aleksandar Managadze 
+              Aleksandar Managadze
             </Accordion.Header>
             <Accordion.Body className="visible">
-               <Accordion.Body className="visible">
-            <Image
-                src={
-                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1693429456/Heroji%20-%20Strani/Aleksandar_Managadze_lxsofi.jpg"
-                }
-                width={200}
-                height={200}
-                alt="Malinovsky"
-                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
-              ></Image>
-              <p className="m-2">
-                <strong>Aleksandar Teopanovič Managadze </strong> ( Russian: Alksendar Teopanovíč Managdze ; Georgia , October 23, 1919 ) major of the Soviet Red Army and national hero of Yugoslavia .
-              </p>
-              <p className="text-2xl text-bold">Biography</p>
-              <p className="m-2">
-              He was born in 1919 . in Georgia . Just before the war, Aleksandar graduated from the school of war aviators and became a medium bomber pilot.
+              <Accordion.Body className="visible">
+                <Image
+                  src={
+                    "https://res.cloudinary.com/dvwnqprsp/image/upload/v1693429456/Heroji%20-%20Strani/Aleksandar_Managadze_lxsofi.jpg"
+                  }
+                  width={200}
+                  height={200}
+                  alt="Malinovsky"
+                  className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+                ></Image>
+                <p className="m-2">
+                  <strong>Aleksandar Teopanovič Managadze </strong> ( Russian:
+                  Alksendar Teopanovíč Managdze ; Georgia , October 23, 1919 )
+                  major of the Soviet Red Army and national hero of Yugoslavia .
+                </p>
+                <p className="text-2xl text-bold">Biography</p>
+                <p className="m-2">
+                  He was born in 1919 . in Georgia . Just before the war,
+                  Aleksandar graduated from the school of war aviators and
+                  became a medium bomber pilot. Aleksandar Managadze, with his
+                  crewmates - navigator Ivan Bulkin and gunner radio-telegrapher
+                  Peter Boltarchuk , flew, due to the bombing of enemy troops
+                  and equipment, into the deep enemy rear and into the Soviet
+                  territory, which was occupied by the Germans , and into
+                  Germany itself . Since 1944 _ In 2008, the Guards Aviation
+                  Regiment, in which the Guards Senior Lieutenant Aleksandar
+                  Managadze served as the company commander, began to carry out
+                  the tasks of the Soviet government and the Red Army command -
+                  to deliver arms and ammunition, medicines and medical
+                  supplies, food and clothing to the People&apos;s Liberation
+                  Army of Yugoslavia . Aleksandar Teopanovic and his crew flew
+                  in the direction of thirty points in different areas of
+                  Yugoslavia , delivering military equipment to the Yugoslav
+                  partisans, and they completed all tasks successfully. After
+                  the end of the war, Alexander was demobilized, in the rank of
+                  major , and worked for a long time in civil aviation.{" "}
+                </p>
+                <p className="text-2xl text-bold">Decorations</p>
+                <p className="m-2">
+                  For his combat activity during the Great Patriotic War ,
+                  Aleksandar Managadze was awarded three Orders of the Red
+                  Banner , the Order of the Patriotic War of the second class,
+                  two Orders of the Red Star and many medals. On June 21, 1945 ,
+                  the Presidency of the Anti-Fascist Council for the
+                  People&apos;s Liberation of Yugoslavia honored him . year,
+                  with the Order of the National Hero of Yugoslavia .
+                </p>
 
-Aleksandar Managadze, with his crewmates - navigator Ivan Bulkin and gunner radio-telegrapher Peter Boltarchuk , flew, due to the bombing of enemy troops and equipment, into the deep enemy rear and into the Soviet territory, which was occupied by the Germans , and into Germany itself .
-
-Since 1944 _ In 2008, the Guards Aviation Regiment, in which the Guards Senior Lieutenant Aleksandar Managadze served as the company commander, began to carry out the tasks of the Soviet government and the Red Army command - to deliver arms and ammunition, medicines and medical supplies, food and clothing to the People&apos;s Liberation Army of Yugoslavia .
-
-Aleksandar Teopanovic and his crew flew in the direction of thirty points in different areas of Yugoslavia , delivering military equipment to the Yugoslav partisans, and they completed all tasks successfully.
-
-After the end of the war, Alexander was demobilized, in the rank of major , and worked for a long time in civil aviation. </p>
-              <p className="text-2xl text-bold">Decorations</p>
-              <p className="m-2">
-              For his combat activity during the Great Patriotic War , Aleksandar Managadze was awarded three Orders of the Red Banner , the Order of the Patriotic War of the second class, two Orders of the Red Star and many medals.
-
-On June 21, 1945 , the Presidency of the Anti-Fascist Council for the People&apos;s Liberation of Yugoslavia honored him . year, with the Order of the National Hero of Yugoslavia .</p>
-             
-              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
-                <ul>
-                  Source:{" "}
-                  <li>
-                    <a
-                      href="https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D0%B0%D0%BD%D0%B0%D0%B3%D0%B0%D0%B4%D0%B7%D0%B5"
-                      className="text-black text-bold"
-                      target="_blank"
-                    >
-                      en.wikipedia.org/wiki/Alexander_Managadze
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </Accordion.Body>
+                <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                  <ul>
+                    Source:{" "}
+                    <li>
+                      <a
+                        href="https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%9C%D0%B0%D0%BD%D0%B0%D0%B3%D0%B0%D0%B4%D0%B7%D0%B5"
+                        className="text-black text-bold"
+                        target="_blank"
+                      >
+                        en.wikipedia.org/wiki/Alexander_Managadze
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </Accordion.Body>
             </Accordion.Body>
           </Accordion.Item>
 
@@ -5855,12 +6388,75 @@ On June 21, 1945 , the Presidency of the Anti-Fascist Council for the People&apo
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Grigori Ohrimenko (bio will be added)
+              Grigori Ohrimenko
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <p>
-                https://sr.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D1%98_%D0%9E%D1%85%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%BA%D0%BE
+              <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1693520198/Heroji%20-%20Strani/Grigorij_Nikolajevic_Ohrimenko_crbwfp.jpg"
+                }
+                width={200}
+                height={200}
+                alt="Jakimov"
+                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Grigoriy Nikolayevich Ohrimenko</strong> ( Russian:
+                Grigoriy Nikolaevich Ohrimenko ; Gaivoron , near Chernigov ,
+                Russian Empire , April 15, 1915 — Feodosia , Ukraine , March 31,
+                1996 ), participant of the Great Patriotic War , rear admiral of
+                the Soviet Navy and national hero of Yugoslavia .
               </p>
+              <p className="text-2xl text-bold">Biography</p>
+              <p className="m-2">
+                He was born in 1915 in Ukraine . He finished primary school in
+                his native village. He graduated from the Navy School and became
+                a miner. Since then, he has continuously served in the Navy of
+                the Soviet Union . Since the beginning of the Great Patriotic
+                War , Ohrimenko was in the active fleet. They are fascists ,
+                1941 . year, made great efforts to conquer Sevastopol , which
+                successfully resisted the attacks. To hinder the work of the
+                Soviet fleet, they laid thousands of mines in the coastal
+                waters, using a technical novelty, magnetic mines. Ohrimenko
+                discovered the secret of these mines. He dismantled one such
+                mine and studied its mechanism. In cooperation with scientists
+                from the Academy of Sciences of the USSR, an effective means of
+                defense against magnetic mines was found. Second class captain
+                Grigory Nikolayevich Ohrimenko was in charge in 1943 . In 2008,
+                the minesweeper brigade, which was part of the Danube War Fleet
+                and cooperated with the units of the Third Ukrainian Front , and
+                despite fierce clashes, the fleet managed to cross more than two
+                thousand kilometers along the Danube , upstream. The large
+                amount of mines placed in the Danube was one of the main
+                obstacles. The minesweeper brigade had the extremely dangerous
+                duty of clearing the Danube of mines. This task, under the
+                command of Grigory Nikolayevich Ohrimenko, was successfully
+                completed. By decree of the Presidency of the Anti-Fascist
+                Council of People&apos;s Liberation of Yugoslavia on April 30,
+                1945, he was awarded the Order of National Hero. Emphasizing his
+                merits, during the presentation of the Order on June 21, 1945 ,
+                the president of the AVNOJ Presidency, Dr. Ivan Ribar , said:
+                For Yugoslavia, the Danube represents life. By clearing it of
+                mines, you gave us life back . After the end of the war,
+                Ohrimenko continued to serve in the navy. He was demobilized in
+                1970 . in the rank of rear admiral. He lived in Feodosia , in
+                Crimea . He died on March 31, 1996
+              </p>
+
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://sr.wikipedia.org/wiki/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D1%98_%D0%9E%D1%85%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D0%BA%D0%BE"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      wikipedia.org/wiki/Grigoriy_Nikolayevich_Ohrimenko
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </Accordion.Body>
           </Accordion.Item>
 
