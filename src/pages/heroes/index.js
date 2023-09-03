@@ -6388,7 +6388,7 @@ export default function News() {
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Grigori Ohrimenko
+              Grigoriy Ohrimenko
             </Accordion.Header>
             <Accordion.Body className="visible">
               <Image
@@ -6569,12 +6569,123 @@ export default function News() {
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Aleksandar Shornikov (bio will be added)
+              Aleksander Shornikov
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <p>
-                https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%A8%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2
+              <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1693750969/Heroji%20-%20Strani/Sornikov_Aleksandar_lqq5ou.jpg"
+                }
+                width={200}
+                height={200}
+                alt="Malinovsky"
+                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Alexander Sergeevich Shornikov </strong> ( Russian:
+                Aleksandr Sergeevich Shornikov ; Vyazhnik , Vladimir province ,
+                October 31, 1912 — Moscow , November 18, 1983 ), pilot,
+                lieutenant colonel of the Red Army , Hero of the Soviet Union
+                and national hero of Yugoslavia .
               </p>
+              <p className="text-2xl text-bold">Biography</p>
+              <p className="m-2">
+                He was born on October 31, 1912 . in the working-class
+                settlement of Jarčevo, near Vjaznik in the Vladimir region . He
+                comes from a working family. Since 1928 _ until 1930 . In 1998,
+                he attended the school of apprentices in the economy, and got a
+                job as a journeyman in a textile factory. In 1931 _ as a member
+                of the Komsomol, he was sent to the aviator school of the civil
+                aviation , which he graduated in 1933 , earning the title of
+                pilot. Until the beginning of the Second World War, he flew on
+                civil aviation lines in Transcaucasia , and later in Georgia.
+                There, in the capacity of pilot-captain and then commander of
+                the training squad, he gained extensive flying experience in
+                hilly areas. Since the beginning of the Great Patriotic War , in
+                June 1941 . Alexander Shornikov was in the Air Transport
+                Division of the Air Force of the Red Army and successfully
+                performed all the complex tasks in command. In 1943 _ a combat
+                crew of a military transport plane was formed, consisting of:
+                Aleksandar Shornikov - pilot-captain; Boris Kalinkin - second
+                pilot; Pavel Yakimov - navigator; Ivan Galaktionov - engineer;
+                Nikolay Verderevsky - radio-telegrapher. January 1944 . year,
+                this crew was given the task of transferring to Yugoslavia , by
+                air,The Soviet military mission in NOVJ , headed by Lieutenant
+                General Nikolay Korneev . Then the flight from Moscow to Tehran
+                had to be made , and then, over the mountain ranges of Asia ,
+                the deserts of North Africa and the Mediterranean Sea to Bari (
+                Italy ), from where the members of the mission were transferred
+                by gliders to Medeno polje , near Bosanski Petrovac . In March
+                1944, a plane piloted by Guards Major Aleksandar Shornikov
+                landed for the first time during the National Liberation War on
+                a snow-covered meadow, high in the hills, in the area of Honey
+                Field. During 1944, Aleksandar and his crew made a total of more
+                than forty night flights to Yugoslavia. He delivered Soviet
+                weapons, ammunition, food to the fighters of the People`&apos;s
+                Liberation Army and partisan units of Yugoslavia and transported
+                the wounded from the area of war operations to Italy. After the
+                landing on Drvar , on May 25, 1944, the Soviet Command entrusted
+                Alexander Shornikov with the task of transferring the leadership
+                of the People`&apos;s Liberation Movement of Yugoslavia , headed
+                by Marshal Josip Broz Tito , to Bara. On the night of June 4,
+                1944, after a storm, Aleksandar and the crew of his plane,
+                evading the German coastal anti-aircraft defense, landed at the
+                improvised airport in Kupreško Polje , boarded a group of
+                members of the Central Committee of the KPJ , the Supreme
+                Headquarters of the NOV and POJ , the National Committee for the
+                Liberation of Yugoslavia , AVNOJ presiden, leadershipSoviet and
+                Anglo-American missions , and transferred them to Bari. On the
+                same night, on the orders of the head of the Soviet military
+                mission, Shornikov landed on Kupreško polje for the second time,
+                and transferred twenty more people. By decree of the Presidium
+                of the Supreme Soviet of the Soviet Union , dated June 20, 1944,
+                for exemplary performance of a special task of the Soviet
+                command, Guards Major Alexander Shornikov and members of the
+                crew of his plane, Guards Captains Boris Kalinkin and Pavel
+                Yakimov, were declared Heroes of the Soviet Union . Guards
+                Engineering Captain Ivan Galaktionov and Guards Ober-Lieutenant
+                Nikolai Verderevsky were awarded the Order of Lenin . At one of
+                its regular sessions on the island of Vis , on September 25,
+                1944, the Presidium of the Anti-Fascist Council of the
+                People`&apos;s Liberation of Yugoslavia issued a Decree awarding
+                Alexander Shornikov, Boris Kalinkin and Pavel Yakimov with the
+                Order of National Hero . By the same decree, Ivan Galaktionov
+                and Nikolay Verderevsky were awarded the Order of the Partisan
+                Star of the second class . The orders were presented to them in
+                liberated Belgrade in October 1944. From the liberation of
+                Belgrade in October 1944 until the definitive victory over
+                fascism in May 1945 . year, Alexander Shornikov`&apos;s plane
+                was availableTo the Supreme Headquarters of NOV and POJ and to
+                the leadership of the National Liberation Movement .
+              </p>
+              <p className="text-2xl text-bold">Death</p>
+              <p className="m-2">
+                After the end of the war, Alexander Shornikov remained in the
+                Air Force of the Soviet Union. In 1953. completed the Senior
+                Officer Aviation-Tactical Course, and in 1958 was promoted to
+                the rank of lieutenant colonel. In 1959, he was demobilized and
+                joined the civil aviation. After that, he worked in the Ministry
+                of Civil Aviation. He died in Moscow on November 18, 1983 .
+                years. He was buried at the Novodevichy Cemetery in Moscow , in
+                Heroes Alley. In addition to the title of Hero of the Soviet
+                Union and National Hero of Yugoslavia, Aleksandar Shornikov was
+                awarded the Order of Lenin, three Orders of the Red Banner and
+                the Order of the Red Star.
+              </p>
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80_%D0%A8%D0%BE%D1%80%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      en.wikipedia.org/wiki/Alexander_Shornikov
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </Accordion.Body>
           </Accordion.Item>
         </Accordion>
