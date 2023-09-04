@@ -6517,12 +6517,69 @@ export default function News() {
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Васиљ Улиско (bio will be added)
+              Васиљ Улиско
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <p>
-                https://sr.wikipedia.org/wiki/%D0%92%D0%B0%D1%81%D0%B8%D1%99_%D0%A3%D0%BB%D0%B8%D1%81%D0%BA%D0%BE
+              <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1693850930/Heroji%20-%20Strani/Resid_Cholaku_zcr0pv.jpg"
+                }
+                width={200}
+                height={200}
+                alt="Cholaku"
+                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Vasyl Andriyovych Ulisko</strong> (Ukrainian: Василь
+                Андрієвич Улиско; Василий Андрейевич Улиско, Russian: Василий
+                Андреевич Улиско; Ukraine, January 18, 1915 - Ukrainian SSR,
+                April 26, 1956) was a guard major of the Red Army and a national
+                hero of Yugoslavia.
               </p>
+              <p className="text-2xl text-bold">Biography</p>
+              <p className="m-2">
+                He was born in 1915 in Ukraine. Before the war, he graduated
+                from aviation school, and then he was assigned to bomber
+                aviation. From the beginning of the Great Patriotic War, in June
+                1941, he was a navigator in bomber aviation. He flew in the
+                enemy&apos;s rear, bringing the plane to the target - to
+                concentrations of enemy troops and equipment, railway junctions,
+                warehouses of weapons and ammunition, airfields of enemy
+                aviation and other military facilities. In 1944, as a deputy
+                navigator of the Guards Aviation Regiment, Guards Major Vasilj
+                Ulisko participated in air operations to assist the People&apos;s
+                Liberation Army of Yugoslavia. As one of the most experienced
+                navigators, Vasilj Ulisko traced the routes of up to 30 fields
+                for dropping loads in different areas of Yugoslavia. Given that
+                the planes were flying at night, over unknown territory and
+                without radio-navigation devices, a special guided flight system
+                was developed to find the target. First, as the leader, the
+                plane took off, with one of the most experienced crews finding
+                the target and ejecting and circling over it, simultaneously
+                giving the contracted signals. The other planes followed these
+                signals, like radio beacons, and hit the target accurately. One
+                of such leaders in the aviator group was the plane in which
+                Vasilj Andreyevich Ulisko flew as a navigator. After the end of
+                the war, Ulisko continued to serve in the air force of the armed
+                forces of the Soviet Union. He died in April 1956. On June 21,
+                1945, the Presidency of the Anti-Fascist Council of the People&apos;s
+                Liberation of Yugoslavia awarded him the Order of the National
+                Hero of Yugoslavia.
+              </p>
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://sr.wikipedia.org/wiki/%D0%92%D0%B0%D1%81%D0%B8%D1%99_%D0%A3%D0%BB%D0%B8%D1%81%D0%BA%D0%BE"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      en.wikipedia.org/wiki/Vasyl_Ulisko
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </Accordion.Body>
           </Accordion.Item>
 
@@ -6551,12 +6608,67 @@ export default function News() {
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Reshid Cholaku (bio will be added)
+              Reshid Cholaku
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <p>
-                https://sr.wikipedia.org/wiki/%D0%A0%D0%B5%D1%88%D0%B8%D0%B4_%D0%A7%D0%BE%D0%BB%D0%B0%D0%BA%D1%83
+              <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1693850930/Heroji%20-%20Strani/Resid_Cholaku_zcr0pv.jpg"
+                }
+                width={200}
+                height={200}
+                alt="Cholaku"
+                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Reshit Çollaku</strong> ( Alb. Reshit Çollaku ; Pogradec
+                , 1914 — 1943 ), participant of the National Liberation Struggle
+                of Albania , national hero of Albania and national hero of
+                Yugoslavia .
               </p>
+              <p className="text-2xl text-bold">Biography</p>
+              <p className="m-2">
+                He was born in 1914 . in Pogradec , in the southeastern part of
+                Albania , next to Lake Ohrid . He finished primary and secondary
+                school in his hometown, and then studied in Tirana . In 1939 ,
+                after the occupation of the Kingdom of Albania by the fascist
+                Kingdom of Italy , he left his studies and returned to his
+                hometown. There he connected with other patriotic people and
+                worked to spread patriotic awareness and resistance to the
+                occupation. Later, he formed the first partisan group and was
+                its commander. In the summer of 1943, he was at the head of the
+                Pogradec partisan battalion. He was killed in the battle with
+                the Italians near Pogradec on July 16, 1943. Ten other partisans
+                died together with him, and a monumental monument was erected at
+                the place of their death. By decree of the Presidium of the
+                National Assembly of the People&lsquo;s Republic of Albania , he
+                was awarded the Order of the National Hero of Albania , among
+                the first members of the National Liberation Army of Albania .
+                By decree of the Presidency of the Anti-Fascist Council of
+                People&lsquo;s Liberation of Yugoslavia (AVNOJ), on the proposal
+                of Marshal Josip Broz Tito , on February 12, 1945 . together
+                with Voj Kušić , he was declared a national hero of Yugoslavia .
+                In addition to those two, he was also awarded the Order of the
+                National Hero of Yugoslavia in 1946 . Enver Hoxha , Albanian
+                president. In 1948 _ due to the cooling of relations between
+                Yugoslavia and Albania , after the adoption of the Resolution of
+                the Informburo , the decisions on the adoption of these
+                decorations were abolished.
+              </p>
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://sr.wikipedia.org/wiki/%D0%A0%D0%B5%D1%88%D0%B8%D0%B4_%D0%A7%D0%BE%D0%BB%D0%B0%D0%BA%D1%83"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      en.wikipedia.org/wiki/Reshit_Çollaku
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </Accordion.Body>
           </Accordion.Item>
 
