@@ -6485,10 +6485,85 @@ export default function News() {
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Vladimir Sudets (bio will be added)
+              Vladimir Sudets
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <p>https://en.wikipedia.org/wiki/Vladimir_Sudets</p>
+              <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1693948382/Heroji%20-%20Strani/Vladimir_Sudets_xycbbk.jpg"
+                }
+                width={200}
+                height={200}
+                alt="Sudets"
+                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Vladimir Alexandrovich Sudets</strong> (Russian:
+                Владимир Александрович Судец; 23 October 1904 - 6 May 1981) was
+                a Soviet air commander during World War II, commanding the 17th
+                Air Army, and later became Marshal of the aviation after the
+                war.
+              </p>
+              <p className="text-2xl text-bold">Biography</p>
+              <p className="m-2">
+                Vladimir was born into a working-class family in the village of
+                Nizhnedneprovsk, formerly part of Ekaterinoslav Governorate, but
+                is now part of the city Dnipro in Ukraine. In 1924, he joined
+                the Communist Party of the Soviet Union, and the following
+                year in September joined the Red Army. In 1927 he graduated
+                from an air force technical school, and from a pilot school in
+                1929. He served in Kiev Military District afterwards. From
+                1933 to 1937, he served in Mongolia and took part in the
+                Soviet-Japanese border conflicts. He participated in the
+                Winter War from February to March 1940 as the deputy commander
+                of the 27th Heavy Bomber Air Brigade. In November he took
+                command of the 4th Long Range Air Corps, and was commanding it
+                when Germany invaded the Soviet Union in June 1941. In
+                October 1941, he became the commander of the Volga Military
+                District&apos;s Air Force, which he commanded till June 1942. From
+                September 1942 to March 1943, he commanded the 1st Bomber Air
+                Corps. In March 1943, he took command of the 17th Air Army,
+                which he commanded till the end of World War II. The 17th Air
+                Army took part in the Battle of Kursk, the Dnieper-Carpathian,
+                Jassy-Kishinev, and Prague Offensives. On 28 April 1945, he
+                was awarded Hero of the Soviet Union, the Order of Lenin and the
+                Gold Star. From 1946 to 1949, he served as both the Chief of
+                Staff and Deputy Commander-in-Chief of the Soviet Air Force.
+                On 11 March 1955, he became Marshal of Aviation. From 1955 to
+                1962 he was Commanding General of Long-Range Aviation, and from
+                1962 to 1966, he was Commander-in-Chief of the Air Defense of
+                the Country and a Deputy Minister of Defense.
+              </p>
+              <p className="text-2xl text-bold">Awards</p>
+              <p className="m-2">
+              Throughout his military career, he was awarded four Orders of
+                Lenin, an Order of October Revolution, five Orders of the Red
+                Banner, an Order of Suvorov First Class, an Order of Suvorov
+                Second Class, an Order of Kutuzov First Class, an Order of
+                Kutuzov Second Class, and an Order of the Red Star. His
+                foreign awards included: People&apos;s Hero of Yugoslavia (October
+                1964), Hero of the Mongolian People&apos;s Republic (7 May 1971), the
+                Order of the British Empire Knight Commander, the Partisan Star
+                First Class, and the Order of Sukhbaatar.
+              </p>
+              <p className="text-2xl text-bold">Death</p>
+              <p className="m-2">
+              He died in Moscow on 6 May 1981 and was buried at the Novodevichy Cemetery.
+              </p>
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://en.wikipedia.org/wiki/Vladimir_Sudets"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      en.wikipedia.org/wiki/Vladimir_Sudets
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </Accordion.Body>
           </Accordion.Item>
 
@@ -6547,24 +6622,24 @@ export default function News() {
                 warehouses of weapons and ammunition, airfields of enemy
                 aviation and other military facilities. In 1944, as a deputy
                 navigator of the Guards Aviation Regiment, Guards Major Vasilj
-                Ulisko participated in air operations to assist the People&apos;s
-                Liberation Army of Yugoslavia. As one of the most experienced
-                navigators, Vasilj Ulisko traced the routes of up to 30 fields
-                for dropping loads in different areas of Yugoslavia. Given that
-                the planes were flying at night, over unknown territory and
-                without radio-navigation devices, a special guided flight system
-                was developed to find the target. First, as the leader, the
-                plane took off, with one of the most experienced crews finding
-                the target and ejecting and circling over it, simultaneously
-                giving the contracted signals. The other planes followed these
-                signals, like radio beacons, and hit the target accurately. One
-                of such leaders in the aviator group was the plane in which
-                Vasilj Andreyevich Ulisko flew as a navigator. After the end of
-                the war, Ulisko continued to serve in the air force of the armed
-                forces of the Soviet Union. He died in April 1956. On June 21,
-                1945, the Presidency of the Anti-Fascist Council of the People&apos;s
-                Liberation of Yugoslavia awarded him the Order of the National
-                Hero of Yugoslavia.
+                Ulisko participated in air operations to assist the
+                People&apos;s Liberation Army of Yugoslavia. As one of the most
+                experienced navigators, Vasilj Ulisko traced the routes of up to
+                30 fields for dropping loads in different areas of Yugoslavia.
+                Given that the planes were flying at night, over unknown
+                territory and without radio-navigation devices, a special guided
+                flight system was developed to find the target. First, as the
+                leader, the plane took off, with one of the most experienced
+                crews finding the target and ejecting and circling over it,
+                simultaneously giving the contracted signals. The other planes
+                followed these signals, like radio beacons, and hit the target
+                accurately. One of such leaders in the aviator group was the
+                plane in which Vasilj Andreyevich Ulisko flew as a navigator.
+                After the end of the war, Ulisko continued to serve in the air
+                force of the armed forces of the Soviet Union. He died in April
+                1956. On June 21, 1945, the Presidency of the Anti-Fascist
+                Council of the People&apos;s Liberation of Yugoslavia awarded
+                him the Order of the National Hero of Yugoslavia.
               </p>
               <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
                 <ul>
