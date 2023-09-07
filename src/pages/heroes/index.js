@@ -6509,46 +6509,47 @@ export default function News() {
                 Vladimir was born into a working-class family in the village of
                 Nizhnedneprovsk, formerly part of Ekaterinoslav Governorate, but
                 is now part of the city Dnipro in Ukraine. In 1924, he joined
-                the Communist Party of the Soviet Union, and the following
-                year in September joined the Red Army. In 1927 he graduated
-                from an air force technical school, and from a pilot school in
-                1929. He served in Kiev Military District afterwards. From
-                1933 to 1937, he served in Mongolia and took part in the
-                Soviet-Japanese border conflicts. He participated in the
-                Winter War from February to March 1940 as the deputy commander
-                of the 27th Heavy Bomber Air Brigade. In November he took
-                command of the 4th Long Range Air Corps, and was commanding it
-                when Germany invaded the Soviet Union in June 1941. In
-                October 1941, he became the commander of the Volga Military
-                District&apos;s Air Force, which he commanded till June 1942. From
-                September 1942 to March 1943, he commanded the 1st Bomber Air
-                Corps. In March 1943, he took command of the 17th Air Army,
-                which he commanded till the end of World War II. The 17th Air
-                Army took part in the Battle of Kursk, the Dnieper-Carpathian,
-                Jassy-Kishinev, and Prague Offensives. On 28 April 1945, he
-                was awarded Hero of the Soviet Union, the Order of Lenin and the
-                Gold Star. From 1946 to 1949, he served as both the Chief of
-                Staff and Deputy Commander-in-Chief of the Soviet Air Force.
-                On 11 March 1955, he became Marshal of Aviation. From 1955 to
-                1962 he was Commanding General of Long-Range Aviation, and from
-                1962 to 1966, he was Commander-in-Chief of the Air Defense of
-                the Country and a Deputy Minister of Defense.
+                the Communist Party of the Soviet Union, and the following year
+                in September joined the Red Army. In 1927 he graduated from an
+                air force technical school, and from a pilot school in 1929. He
+                served in Kiev Military District afterwards. From 1933 to 1937,
+                he served in Mongolia and took part in the Soviet-Japanese
+                border conflicts. He participated in the Winter War from
+                February to March 1940 as the deputy commander of the 27th Heavy
+                Bomber Air Brigade. In November he took command of the 4th Long
+                Range Air Corps, and was commanding it when Germany invaded the
+                Soviet Union in June 1941. In October 1941, he became the
+                commander of the Volga Military District&apos;s Air Force, which
+                he commanded till June 1942. From September 1942 to March 1943,
+                he commanded the 1st Bomber Air Corps. In March 1943, he took
+                command of the 17th Air Army, which he commanded till the end of
+                World War II. The 17th Air Army took part in the Battle of
+                Kursk, the Dnieper-Carpathian, Jassy-Kishinev, and Prague
+                Offensives. On 28 April 1945, he was awarded Hero of the Soviet
+                Union, the Order of Lenin and the Gold Star. From 1946 to 1949,
+                he served as both the Chief of Staff and Deputy
+                Commander-in-Chief of the Soviet Air Force. On 11 March 1955, he
+                became Marshal of Aviation. From 1955 to 1962 he was Commanding
+                General of Long-Range Aviation, and from 1962 to 1966, he was
+                Commander-in-Chief of the Air Defense of the Country and a
+                Deputy Minister of Defense.
               </p>
               <p className="text-2xl text-bold">Awards</p>
               <p className="m-2">
-              Throughout his military career, he was awarded four Orders of
+                Throughout his military career, he was awarded four Orders of
                 Lenin, an Order of October Revolution, five Orders of the Red
                 Banner, an Order of Suvorov First Class, an Order of Suvorov
                 Second Class, an Order of Kutuzov First Class, an Order of
-                Kutuzov Second Class, and an Order of the Red Star. His
-                foreign awards included: People&apos;s Hero of Yugoslavia (October
-                1964), Hero of the Mongolian People&apos;s Republic (7 May 1971), the
-                Order of the British Empire Knight Commander, the Partisan Star
-                First Class, and the Order of Sukhbaatar.
+                Kutuzov Second Class, and an Order of the Red Star. His foreign
+                awards included: People&apos;s Hero of Yugoslavia (October
+                1964), Hero of the Mongolian People&apos;s Republic (7 May
+                1971), the Order of the British Empire Knight Commander, the
+                Partisan Star First Class, and the Order of Sukhbaatar.
               </p>
               <p className="text-2xl text-bold">Death</p>
               <p className="m-2">
-              He died in Moscow on 6 May 1981 and was buried at the Novodevichy Cemetery.
+                He died in Moscow on 6 May 1981 and was buried at the
+                Novodevichy Cemetery.
               </p>
               <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
                 <ul>
@@ -6576,10 +6577,150 @@ export default function News() {
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Fyodor Tolbukhin (bio will be added)
+              Fyodor Tolbukhin
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <p>https://en.wikipedia.org/wiki/Fyodor_Tolbukhin</p>
+              <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1694119035/Heroji%20-%20Strani/Fyodor_Tolbukhin_odfq1t.jpg"
+                }
+                width={200}
+                height={200}
+                alt="Tolbukhin"
+                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Fyodor Ivanovich Tolbukhin</strong> (Russian: Фёдор
+                Ива́нович Толбу́хин; 16 June 1894 - 17 October 1949) was a Soviet
+                military commander and Marshal of the Soviet Union. He is
+                regarded as one of the finest Soviet generals of World War II.
+                Born into a peasant family in Yaroslavl, Tolbukhin volunteered
+                for the Imperial Russian Army during the First World War and
+                served with distinction. He joined the Red Army in 1918 and
+                fought in the Russian Civil War. After graduating from the
+                Frunze Military Academy, he held a succession of commands,
+                rising to the post of chief of staff of the Transcaucasian
+                Military District by 1938. Tolbukhin rose further through the
+                ranks following the German invasion of the Soviet Union, and was
+                involved in the Battle of Stalingrad. As commander of the 4th
+                Ukrainian Front, he assisted Rodion Malinovsky in the Lower
+                Dnieper and Dnieper-Carpathian offensives. He then contributed
+                to the Soviet drive into the Balkans and forced Romania&apos;s
+                defection to the Allies, for which he was named a Marshal of the
+                Soviet Union. Afterwards, Tolbukhin took part in the occupation
+                of Bulgaria and liberated much of Yugoslavia after the Belgrade
+                offensive. He commanded the Vienna offensive in May 1945 and
+                helped set up the new Austrian government under Karl Renner.
+              </p>
+              <p className="text-2xl text-bold">World War II</p>
+              <p className="m-2">
+                Tolbukhin remained in this position through the opening phases
+                of Operation Barbarossa until August 1941, when he was made the
+                chief of staff of the Crimean Front, which he held until March
+                1942. From May to July 1942, he was the assistant commander of
+                the Stalingrad Military District. After that, he was the
+                commander of the 57th Army until March 1943. The 57th was
+                involved in the Battle of Stalingrad, where Tolbukhin&apos;s
+                superior, Colonel-General Andrei Yeremenko, praised his command
+                organization and military prowess. After his command of the
+                57th, Tolbukhin was placed in command of the Southern Front. In
+                October 1943 the Southern Front was renamed 4th Ukrainian Front.
+                Tolbukhin assisted Rodion Malinovsky&apos;s 3rd Ukrainian Front
+                in the Lower Dnieper Offensive and Dnieper-Carpathian Offensive.
+                In May 1944, Tolbukhin was transferred to control of 3rd
+                Ukrainian Front. During the Summer Campaign, from June to
+                October 1944, Tolbukhin and Malinovsky launched their invasion
+                of the Balkans and were able to conquer most of Romania. On
+                September 12, 1944, two days after Malinovsky was promoted to
+                Marshal of the Soviet Union, Tolbukhin was promoted to the same
+                rank. While Malinovsky moved northwest, towards Hungary and
+                Yugoslavia, Tolbukhin occupied Bulgaria. Starting in the Winter
+                Campaign, Tolbukhin shifted his army to the northwest axis,
+                thereby liberating much of Yugoslavia and invading southern
+                Hungary. In late April 1945, at the end of the Battle of Vienna,
+                Tolbukhin acted on Stalin&apos;s order to entrust Karl Renner
+                with foundation of a new provisional Austrian government in
+                order to prepare democratic elections. On 27 April, Renner was
+                appointed provisional government leader, at Tolbukhin&apos;s
+                authority, which renders the latter an important role in the
+                foundation of a new Austrian republic that had been integrated
+                into the Third Reich (1938-1945). Tolbukhin gave the go-ahead at
+                the location, for this important step towards an independent
+                Austria in the formation of the Second Republic (1945-present).
+                After the war, Tolbukhin was commander-in-chief of the Southern
+                Group of Forces, which comprised the Balkan region. In January
+                1947, Tolbukhin was made the commander of the Transcaucasus
+                Military District, a post he held until his death on October 17,
+                1949, due to complication from diabetes. Tolbukhin is generally
+                regarded as one of the finest Soviet generals of World War II.
+                Meticulous, careful, and not overly ambitious like some Soviet
+                commanders, Tolbukhin was well respected by fellow commanders
+                and also his men, especially since he had a dedication to
+                keeping casualty rates low. Tolbukhin was the recipient of
+                numerous awards and medals including the highest Soviet medal
+                and rank, the Order of Victory and Hero of the Soviet Union,
+                respectively. Tolbukhin was also People&apos;s Hero of
+                Yugoslavia, whose capital Belgrade he liberated. The urn
+                containing his ashes is buried in the Kremlin Wall Necropolis,
+                and there is a monument to him in his native Yaroslavl. The city
+                of Dobrich in Bulgaria was renamed to Tolbukhin in his honor in
+                1949.
+              </p>
+              <p className="text-2xl text-bold">Memorials</p>
+              <p className="m-2">
+                The Bulgarian city of Dobrich was renamed Tolbukhin, a name it
+                held until the fall of communism in 1989. In Ukraine a Prospect
+                (street) in Odesa holds his name. In December 2022 the Fyodor
+                Tolbukhin street in Kyiv was renamed to Vasyl Danylevych street
+                and the Fyodor Tolbukhin lane was renamed to Mykhailo Yalovy
+                lane. One of the main streets in Belgrade, the capital of
+                Serbia, was named Marshal Tolbukhin Street (in Serbian: Улица
+                маршала Толбухина / Ulica maršala Tolbuhina). The street was
+                originally named Макензијева / Makenzijeva, after Scottish
+                missionary Francis Mackenzie who purchased and developed this
+                part of the city in the late 19th century. After the fall of
+                Communism in Serbia and democratic changes in 2000, the name of
+                the street was reverted to its original name. Instead, Goce
+                Delčeva Street, in the new section of the city (New Belgrade)
+                was renamed Boulevard of Marshal Tolbukhin (Булевар маршала
+                Толбухина / Bulevar maršala Tolbuhina) in 2016. Budapest, the
+                capital of Hungary also had one of its streets named after
+                Tolbukhin, as he was one of the major Soviet commanders in the
+                Hungarian war theatre. The previous Mészáros utca
+                (Butchers&apos; Street) was renamed Vámház körút (Custom House
+                Boulevard) during the (re)construction of the area in 1875. The
+                road was renamed after the Tsar of Bulgaria, Ferdinand in 1915,
+                when Bulgaria joined the Central Powers in the First World War.
+                In 1919 the road got back its old name, Vámház körút, which it
+                bore until 1942, when it was once more renamed, this time after
+                son of Regent of Hungary, Admiral Miklós Horthy, István Horthy.
+                In 1945, the road was named after Marshal Tolbukhin (Tolbuhin
+                Boulevard), and it held this name until 1990 with the fall of
+                communism. A Monument to Fyodor Tolbukhin was installed in 1960
+                in Moscow in the square on Samotychnaya Street. The authors of
+                the monument are the sculptor L. E. Kerbel and the architect G.
+                A. Zakharov.
+              </p>
+              <p className="text-2xl text-bold">Death</p>
+              <p className="m-2">
+                After the war, Tolbukhin received command of the Southern Group
+                of Forces in the Balkans before returning to the Transcaucasus.
+                He held the post until his death in October 1949 from diabetes.
+              </p>
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://en.wikipedia.org/wiki/Fyodor_Tolbukhin"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      en.wikipedia.org/wiki/Fyodor_Tolbukhin
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </Accordion.Body>
           </Accordion.Item>
 
