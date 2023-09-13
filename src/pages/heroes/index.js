@@ -6808,10 +6808,257 @@ export default function News() {
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Enver Hoxha (bio will be added)
+              Enver Hoxha
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <p>https://en.wikipedia.org/wiki/Enver_Hoxha</p>
+              <Image
+                src={
+                  "https://res.cloudinary.com/dvwnqprsp/image/upload/v1694120130/Heroji%20-%20Strani/Enver_Hoxha_mgvpce.jpg"
+                }
+                width={200}
+                height={200}
+                alt="Hoxha"
+                className="rounded-xl float-right w-24 md:w-48 m-2  border-red-600 border-2"
+              ></Image>
+              <p className="m-2">
+                <strong>Enver Halil Hoxha</strong> (/&apos;hɒdʒə/ HOJ-ə,
+                Albanian: [ɛn&apos;vɛɾ &apos;hɔdʒa] i; 16 October 1908 - 11
+                April 1985) was an Albanian politician who was the leader of
+                Albania from 1944 until his death in 1985. He was First
+                Secretary of the Party of Labour of Albania from 1941 until his
+                death in 1985, a member of its Politburo, chairman of the
+                Democratic Front of Albania, and commander-in-chief of the
+                Albanian People&apos;s Army. He was the 22nd prime minister of
+                Albania from 1944 to 1954 and at various times was both foreign
+                minister and defence minister of the country.
+              </p>
+              <p className="text-2xl text-bold">Biography</p>
+              <p className="m-2">
+                Hoxha was born in Gjirokastër in 1908 and became a grammar
+                school teacher in 1936. Following the Italian invasion of
+                Albania, he joined the Party of Labour of Albania at its
+                creation in 1941 in the Soviet Union. He was elected First
+                Secretary in March 1943 at the age of 34. Less than two years
+                after the liberation of the country, the monarchy of King Zog
+                was formally abolished, and Hoxha became the country&apos;s de
+                facto head of state. Under Hoxha&apos;s 41-year rule, Albania
+                became a one-party communist state. His government rebuilt the
+                country, which was left in ruins after World War II, building
+                Albania&apos;s first railway line, raising the adult literacy
+                rate from 5-15% to more than 90%, wiping out epidemics,
+                electrifying the country and leading Albania towards
+                agricultural independence. To implement his radical program
+                Hoxha used brutal tactics. His government outlawed travelling
+                abroad and private proprietorship. He implemented state atheism
+                and closed or converted to secular uses all of Albania&apos;s
+                religious facilities. His government imprisoned, executed, or
+                exiled thousands of landowners, rural clan leaders, Muslim and
+                Christian clerics, peasants who resisted collectivization, and
+                disloyal party officials. Hoxha&apos;s government was
+                characterised by his proclaimed firm adherence to
+                anti-revisionist Marxism-Leninism, i.e. Stalinism, from the
+                mid/late-1960s onwards. After his break with Maoism in the
+                1976-1978 period, numerous Maoist parties around the world
+                declared themselves Hoxhaist. The International Conference of
+                Marxist-Leninist Parties and Organisations (Unity & Struggle) is
+                the best-known association of these parties. Hoxha was succeeded
+                by Ramiz Alia, who oversaw the fall of communism in Albania.
+              </p>
+              <p className="text-2xl text-bold">Partisan life</p>
+              <p className="m-2">
+                On 8 November 1941, the Communist Party of Albania (later
+                renamed the Party of Labour of Albania in 1948) was founded.
+                Hoxha was chosen from the &ldquo;Korça group&ldquo; as a Muslim
+                representative by the two Yugoslav envoys as one of the seven
+                members of the provisional Central Committee. The First
+                Consultative Meeting of Activists of the Communist Party of
+                Albania was held in Tirana from 8 to 11 April 1942, with Hoxha
+                himself delivering the main report on 8 April 1942. In July
+                1942, Hoxha wrote &ldquo;Call to the Albanian Peasantry&ldquo;,
+                issued in the name of the Communist Party of Albania. The call
+                sought to enlist support in Albania for the war against the
+                fascists. The peasants were encouraged to hoard their grain and
+                refuse to pay taxes or livestock levies brought by the
+                government. After the September 1942 Conference at Pezë, the
+                National Liberation Movement was founded with the purpose of
+                uniting the anti-fascist Albanians, regardless of ideology or
+                class. By March 1943, the first National Conference of the
+                Communist Party elected Hoxha formally as First Secretary.
+                During WWII, the Soviet Union&apos;s role in Albania was
+                negligible. On 10 July 1943, the Albanian partisans were
+                organised in regular units of companies, battalions and brigades
+                and named the Albanian National Liberation Army. The
+                organization received military support from the British
+                intelligence service, SOE. The General Headquarters was created,
+                with Spiro Moisiu as the commander and Hoxha as political
+                commissar. The Yugoslav Partisans had a much more practical
+                role, helping to plan attacks and exchanging supplies, but
+                communication between them and the Albanians was limited and
+                letters often arrived late, sometimes well after a plan had been
+                agreed upon by the National Liberation Army without consultation
+                from the Yugoslav partisans. Within Albania, repeated attempts
+                were made during the war to remedy the communications
+                difficulties which faced partisan groups. In August 1943, a
+                secret meeting, the Mukje Conference, was held between the
+                anti-communist Balli Kombëtar (National Front) and the Communist
+                Party of Albania. To encourage the Balli Kombëtar to sign, the
+                Greater Albania sections that included Kosovo (part of
+                Yugoslavia) and Chamëria were made part of the Agreement.
+              </p>
+              <p className="text-2xl text-bold">
+                Disagreement with the Yugoslav communists
+              </p>
+              <p className="m-2">
+                A problem developed when the Yugoslav Communists disagreed with
+                the goal of establishing a Greater Albania and asked the
+                Communists in Albania to withdraw their agreement. According to
+                Hoxha, Josip Broz Tito did not believe that &ldquo;Kosovo was
+                Albanian&ldquo; and Serbian opposition to the transfer made it
+                an unwise option. After the Albanian Communists repudiated the
+                Greater Albania agreement, the Balli Kombëtar condemned the
+                Communists, who in turn accused the Balli Kombëtar of siding
+                with the Italians. The Balli Kombëtar, however, lacked support
+                from the people. After judging the Communists as an immediate
+                threat, the Balli Kombëtar sided with Nazi Germany, fatally
+                damaging its image among those fighting the Fascists. The
+                Communists quickly added to their ranks many of those
+                disillusioned with the Balli Kombëtar and took centre stage in
+                the fight for liberation. The Permet National Congress held
+                during that time called for a &ldquo;new democratic Albania for
+                the people&ldquo;. Although the monarchy was not formally
+                abolished, King Zog I of the Albanians was barred from returning
+                to the country, which further increased the Communists&apos;
+                control. The Anti-Fascist Committee for National Liberation was
+                founded, chaired by Hoxha. On 22 October 1944, the Committee
+                became the Democratic Government of Albania after a meeting in
+                Berat and Hoxha was chosen as interim Prime Minister. Tribunals
+                were set up to try alleged war criminals who were designated
+                &ldquo;enemies of the people&ldquo; and were presided over by
+                Koçi Xoxe. From the beginning, the Democratic Government was an
+                undisguised Communist regime. In the rest of what became the
+                Soviet bloc, the Communist parties were at least nominally part
+                of coalitions before dropping all pretense of pluralism and
+                settling up one-party states. After liberation on 29 November
+                1944, several Albanian partisan divisions crossed the border
+                into German-occupied Yugoslavia, where they fought alongside
+                Tito&apos;s partisans and the Soviet Red Army in a joint
+                campaign which succeeded in driving out the last pockets of
+                German resistance. Marshal Tito, during a Yugoslavian conference
+                in later years, thanked Hoxha for the assistance that the
+                Albanian partisans had given during the War for National
+                Liberation (Lufta Nacionalçlirimtare). The Democratic Front,
+                dominated by the Albanian Communist Party, succeeded the
+                National Liberation Front in August 1945, and the first post-war
+                election was held on 2 December that year. The Front was the
+                only legal political organisation allowed to stand in the
+                elections, and the government reported that 93% of Albanians
+                voted for it. On 11 January 1946, Zog was officially deposed and
+                Albania was proclaimed the People&apos;s Republic of Albania
+                (renamed the People&apos;s Socialist Republic of Albania in
+                1976), though the country had already been a Communist state
+                since liberation. As First Secretary of the party, Hoxha was de
+                facto head of state and the most powerful man in the country.
+                Albanians celebrate their independence day on 28 November (which
+                is the date on which they declared their independence from the
+                Ottoman Empire in 1912), while in the former People&apos;s
+                Socialist Republic of Albania the national day was 29 November,
+                the day the country was liberated from the Italians. Both days
+                are currently national holidays.
+              </p>
+              <p className="text-2xl text-bold">Relations with Yugoslavia</p>
+              <p className="m-2">
+                At this point, relations with Yugoslavia had begun to change.
+                The roots of the change began on 20 October 1944 at the Second
+                Plenary Session of the Communist Party of Albania. The Session
+                considered the problems that the post-independence Albanian
+                government would face. However, the Yugoslav delegation which
+                was led by Velimir Stoinić accused the party of
+                &ldquo;sectarianism and opportunism&ldquo; and blamed Hoxha for
+                these errors. He also stressed the view that the Yugoslav
+                Communist partisans spearheaded the Albanian partisan movement.
+                Anti-Yugoslav members of the Albanian Communist Party had begun
+                to think that this was a plot by Tito who intended to
+                destabilize the Party. Koçi Xoxe, Sejfulla Malëshova and others
+                who supported Yugoslavia were looked upon with deep suspicion.
+                Tito&apos;s position on Albania was that it was too weak to
+                stand on its own and that it would do better as a part of
+                Yugoslavia. Hoxha alleged that Tito had made it his goal to get
+                Albania into Yugoslavia, firstly by creating the Treaty of
+                Friendship, Co-operation and Mutual Aid in 1946. In time,
+                Albania began to feel that the treaty was heavily slanted
+                towards Yugoslav interests, much like the Italian agreements
+                with Albania under Zog that made the nation dependent upon
+                Italy. The first issue was that the Albanian lek became revalued
+                in terms of the Yugoslav dinar as a customs union was formed and
+                Albania&apos;s economic plan was decided more by Yugoslavia.
+                Albanian economists H. Banja and V. Toçi stated that the
+                relationship between Albania and Yugoslavia during this period
+                was exploitative and that it constituted attempts by Yugoslavia
+                to make the Albanian economy an &ldquo;appendage&ldquo; to the
+                Yugoslav economy. Hoxha then began to accuse Yugoslavia of
+                misconduct: We [Albania] were expected to produce for the
+                Yugoslavs all the raw materials which they needed. These raw
+                materials were to be exported to the metropolitan Yugoslavia to
+                be processed there in Yugoslav factories. The same applied to
+                the production of cotton and other industrial crops, as well as
+                oil, bitumen, asphalt, chrome, etc. Yugoslavia would supply its
+                &ldquo;colony&ldquo;, Albania, with exorbitantly priced consumer
+                goods, including even items such as needles and thread, and
+                would provide us with petrol and oil, as well as glass for the
+                lamps in which we burn the fuel extracted from our subsoil,
+                processed in Yugoslavia and sold to us at high prices ... The
+                aim of the Yugoslavs was, therefore, to prevent our country from
+                developing either its industry or its working class, and to make
+                it forever dependent on Yugoslavia. Stalin advised Hoxha that
+                Yugoslavia was attempting to annex Albania: &ldquo;We did not
+                know that the Yugoslavs, under the pretext of
+                &apos;defending&apos; your country against an attack from the
+                Greek fascists, wanted to bring units of their army into the PRA
+                [People&apos;s Republic of Albania]. They tried to do this in a
+                very secretive manner. In reality, their aim in this direction
+                was utterly hostile, for they intended to overturn the situation
+                in Albania.&ldquo; By June 1947, the Central Committee of
+                Yugoslavia began publicly condemning Hoxha, accusing him of
+                taking an individualistic and anti-Marxist line. When Albania
+                responded by making agreements with the Soviet Union to purchase
+                a supply of agricultural machinery, Yugoslavia said that Albania
+                could not enter into any agreements with other countries without
+                Yugoslav approval. Koçi Xoxe tried to stop Hoxha from improving
+                relations with Bulgaria, reasoning that Albania would be more
+                stable with one trading partner rather than with many. Nako
+                Spiru, an anti-Yugoslav member of the Party, condemned Xoxe and
+                vice versa. With no one coming to Spiru&apos;s defense, he
+                viewed the situation as hopeless and feared that Yugoslav
+                domination of his nation was imminent, which caused him to
+                commit suicide in November. At the Eighth Plenum of the Central
+                Committee of the Party which lasted from 26 February to 8 March
+                1948, Xoxe was implicated in a plot to isolate Hoxha and
+                consolidate his own power. He accused Hoxha of being responsible
+                for the decline in relations with Yugoslavia and stated that a
+                Soviet military mission should be expelled in favor of a
+                Yugoslav counterpart. Hoxha managed to remain firm and his
+                support had not declined. When Yugoslavia publicly broke with
+                the Soviet Union, Hoxha&apos;s support base grew stronger. Then,
+                on 1 July 1948, Tirana called on all Yugoslav technical advisors
+                to leave the country and unilaterally declared all treaties and
+                agreements between the two countries null and void. Xoxe was
+                expelled from the party and on 13 June 1949, he was executed by
+                hanging.
+              </p>
+              <div className="shadow-xl shadow-slate-500 bg-gray-300 p-2 rounded-lg  mx-auto mt-2">
+                <ul>
+                  Source:{" "}
+                  <li>
+                    <a
+                      href="https://en.wikipedia.org/wiki/Enver_Hoxha"
+                      className="text-black text-bold"
+                      target="_blank"
+                    >
+                      en.wikipedia.org/wiki/Enver_Hoxha
+                    </a>
+                  </li>
+                </ul>
+              </div>
             </Accordion.Body>
           </Accordion.Item>
 
