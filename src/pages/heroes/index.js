@@ -2703,12 +2703,761 @@ export default function News() {
                 height="25"
                 className="-ml-2 mr-2 -mb-2 -mt-2"
               />
-              Heroes with starting letter M (170 Heroes will be added)
+              Heroes with starting letter M 
             </Accordion.Header>
             <Accordion.Body className="visible">
-              <a href="https://www.wikiwand.com/bs/Spisak_narodnih_heroja_Jugoslavije:_M">
-                https://www.wikiwand.com/bs/Spisak_narodnih_heroja_Jugoslavije:_M
-              </a>
+              <p>
+                1. <strong>Slobodan Macura Bondo</strong> (1918-43) was declared
+                a national hero on July 5, 1951.
+              </p>
+              <p>
+                2. <strong>Ivan Maček Matija</strong> (1908-93) received the
+                Order of National Hero on July 15, 1952.
+              </p>
+              <p>
+                3. <strong>Vahida Maglajlić</strong> (1907-43) was declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                4. <strong>Šefket Maglajlić</strong> (1912-83) was awarded the
+                Order of National Hero on November 27, 1953.
+              </p>
+              <p>
+                5. <strong>Milan Majcen</strong> (1914-41) was declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                6. <strong>Dane Majstorović</strong> (1922-44) was declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                7. <strong>Aleksa Maksimović</strong> (1919-43) was declared a
+                national hero on July 13, 1953.
+              </p>
+              <p>
+                8. <strong>Albina Mali-Hočevar</strong> (1925-2001) received the
+                Order of National Hero on September 13, 1952.
+              </p>
+              <p>
+                9. <strong>Zaga Malivuk</strong> (1919-42) was declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                10. <strong>Miloš Mališić</strong> (1910-41) was declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                11. <strong>Miloš Mamić</strong> (1918-42) was declared a
+                national hero on June 5, 1951.
+              </p>
+              <p>
+                12. <strong>Bogdan Mamula</strong> (1918-2002) received the
+                Order of National Hero on December 22, 1951.
+              </p>
+              <p>
+                13. <strong>Gligorije Mandić Gligo</strong> (1912-94) received
+                the Order of National Hero on July 10, 1952.
+              </p>
+              <p>
+                14. <strong>Radenko Mandić</strong> (1917-88) received the Order
+                of National Hero on December 20, 1951.
+              </p>
+              <p>
+                15. <strong>Milivoje Manić - Mile Albanta</strong> (1901-42) was
+                declared a national hero on November 27, 1953.
+              </p>
+              <p>
+                16. <strong>Vojislav Manojlović</strong> (1925-44) was declared
+                a national hero on January 12, 1945.
+              </p>
+              <p>
+                17. <strong>Srećko Manola</strong> (1914-79) received the Order
+                of National Hero on July 24, 1953.
+              </p>
+              <p>
+                18. <strong>Pašaga Mandžić Murat</strong> (1907-75) received the
+                Order of National Hero on July 24, 1953.
+              </p>
+              <p>
+                19. <strong>Nikola Maraković Nina</strong> (1912-43) was
+                declared a national hero on July 6, 1943.
+              </p>
+              <p>
+                20. <strong>Stanko Marević Prpić</strong> (1922-44) was declared
+                a national hero on December 20, 1951.
+              </p>
+              <p>
+                21. <strong>Rade Marijanac</strong> (1916-43) was declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                {" "}
+                22. <strong>Lazar Marin</strong> (1921-44) was declared a
+                national hero on July 23, 1952.
+              </p>
+              <p>
+                23. <strong>Miha Marinko</strong> (1900-83) was awarded the
+                Order of National Hero on November 27, 1953.
+              </p>
+              <p>
+                {" "}
+                24. <strong>Ivan Marinković Slavko</strong> (1905-43) was
+                declared a national hero on July 26, 1945.
+              </p>
+              <p>
+                25. <strong>Jovan Marinković Ivo</strong> (1913-44) was declared
+                a national hero on December 14, 1949.
+              </p>
+              <p>
+                26. <strong>Sonja Marinković</strong> (1916-41) was declared a
+                national hero on October 25, 1943.
+              </p>
+              <p>
+                27. <strong>Anton Marincelj</strong> (1917-43) was declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                28. <strong>Živan Maričić</strong> (1911-43) was declared a
+                national hero on July 22, 1945.
+              </p>
+              <p>
+                29. <strong>Josip Marjanović Joso</strong> (1905-41) was
+                declared a national hero on December 20, 1951.
+              </p>
+              <p>
+                30. <strong>Mikan Marjanović</strong> (1920-89) was awarded the
+                Order of National Hero on September 6, 1942.
+              </p>
+              <p>
+                31. <strong>Aleksa Markišić</strong> (1908-42) was declared a
+                national hero on July 6, 1953.
+              </p>
+              <p>
+                32. <strong>Bora Marković</strong> (1907-41) was declared a
+                national hero on July 6, 1945.
+              </p>
+              <p>
+                33. <strong>Brana Marković</strong> (1913-44) was declared a
+                national hero on July 24, 1953.
+              </p>
+              <p>
+                34. <strong>Drago Marković</strong> (1901-43) was declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                35. <strong>Živan Marković Zića</strong> (1919-42) was declared
+                a national hero on November 27, 1953.
+              </p>
+              <p>
+                36. <strong>Ivan Marković Irac</strong> (1909-42) was
+                declared a national hero on March 13, 1945.
+              </p>
+              <p>
+                37. <strong>Lazar Marković Čađa</strong> (1925-2004) was awarded
+                the Order of National Hero on October 2, 1953.
+              </p>
+              <p>
+                38. <strong>Milan Marković Lika</strong> (1906-42) was declared
+                a national hero on July 24, 1953.
+              </p>
+              <p>
+                39. <strong>Moma Marković</strong> (1912-92) was awarded the
+                Order of National Hero on July 6, 1953.
+              </p>
+              <p>
+                40. <strong>Pejo Marković</strong> (1911-41) was declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                41. <strong>Toza Marković</strong> (1913-43) was declared a
+                national hero on December 5, 1944.
+              </p>
+              <p>
+                42. <strong>Aleksandar Marović</strong> (1918-43) was declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                43. <strong>Blažo Martinović</strong> (1920-43) was declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                44. <strong>Marko Martinović</strong> (1910-43) was declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                45. <strong>Nikola Martinović</strong> (1915-43) was declared a
+                national hero on July 10, 1952.
+              </p>
+              <p>
+                46. <strong>Stanko Martinović</strong> (1916-43) was declared a
+                national hero on July 11, 1945.
+              </p>
+              <p>
+                47. <strong>Ivica Marušić Ratko</strong> (1912-42) was declared
+                a national hero on December 20, 1951.
+              </p>
+              <p>
+                48. <strong>Darko Marušič</strong> (1919-43) was declared a
+                national hero on December 14, 1949.
+              </p>
+              <p>
+                49. <strong>Božidar Maslarić</strong> (1895-63) was awarded the
+                Order of National Hero on November 27, 1953.
+              </p>
+              <p>
+                50. <strong>Veselin Masleša</strong> (1906-43) was declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                51. <strong>Omer Maslić</strong> (1913-42) was declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                52. <strong>Karlo Maslo</strong> (1912-88) was awarded the Order
+                of National Hero on November 27, 1953.
+              </p>
+              <p>
+                53. <strong>Vojmir Maslovarić Vojo</strong> (1914-42) was
+                declared a national hero on July 12, 1949.
+              </p>
+              <p>
+                54. <strong>Manču Matak</strong> (1920-44) was declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                55. <strong>Evgen Matejka</strong> (1909-45) was declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                56. <strong>Danica Materić</strong> (1921-43) was declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                57. <strong>Ilija Materić</strong> (1911-2003) was awarded the
+                Order of National Hero on November 27, 1953.
+              </p>
+              <p>
+                58. <strong>Miloš Matijević Mrša</strong> (1902-41) was declared
+                a national hero on July 16, 1951.
+              </p>
+              <p>
+                59. <strong>Tihomir Matijević</strong> (1921-43) was declared a
+                national hero on March 13, 1945.
+              </p>
+              <p>
+                60. <strong>Anka Matić Grozda</strong> (1918-44) was declared a
+                national hero on October 2, 1953.
+              </p>
+              <p>
+                61. <strong>Nada Matić</strong> (1924-44) was declared a
+                national hero on July 6, 1953.
+              </p>
+              <p>
+                62. <strong>Petar Matić Dule</strong> (1920-) was awarded the
+                Order of National Hero on December 20, 1951.
+              </p>
+              <p>
+                63. <strong>Stojan Matić</strong> (1915-42) was declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                64. <strong>Mirko Matković</strong> (1915-2012) was awarded the
+                Order of National Hero on November 27, 1953.
+              </p>
+              <p>
+                65. <strong>Milosav Matković Mićo</strong> (1918-42) was
+                declared a national hero on December 20, 1951.
+              </p>
+              <p>
+                66. <strong>Rudolf Mahnič Brkinc</strong> (1917-43) was declared
+                a national hero on December 20, 1951.
+              </p>
+              <p>
+                67. <strong>Sergej Mashera</strong> (1912-41) was declared a
+                national hero on September 10, 1973.
+              </p>
+              <p>
+                68. <strong>Jelica Mašković Jeja</strong> (1924-42) was declared
+                a national hero on December 20, 1951.
+              </p>
+              <p>
+                69. <strong>Savo Mašković</strong> (1914-44) was declared a
+                national hero on March 3, 1945.
+              </p>
+              <p>
+                70. <strong>Lado Mavsar</strong> (1923-44) was declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                71. <strong>Cvijo Mazalica</strong> (1917-86) was awarded the
+                Order of National Hero on July 24, 1953.
+              </p>
+              <p>
+                72. <strong>Drago Mažar</strong> (1918-91) was awarded the Order
+                of National Hero on November 27, 1953.
+              </p>
+              <p>
+                73. <strong>Ivica Mažar</strong> (1915-41) was declared a
+                national hero on July 24, 1953.
+              </p>
+              <p>
+                74. <strong>Josip Mažar Šoša</strong> (1912-44) was declared a
+                national hero on July 26, 1949.
+              </p>
+              <p>
+                75. <strong>Ivan Mečar</strong> (1909-43) was declared a
+                national hero on July 24, 1953.
+              </p>
+              <p>
+                76. <strong>Mile Mećava</strong> (1915-42) was declared a
+                national hero on July 24, 1953.
+              </p>
+              <p>
+                77. <strong>Petar Mećava</strong> (1913-44) was declared a
+                national hero on July 27, 1945.
+              </p>
+              <p>
+                78. <strong>Pavla Mede Katarina</strong> (1919-43) was declared
+                a national hero on December 20, 1951.
+              </p>
+              <p>
+                79. <strong>Vinko Megla</strong> (1922-42) was declared a
+                national hero on July 24, 1953.
+              </p>
+              <p>
+                80. <strong>Jože Menih</strong> (1922-43) was declared a
+                national hero on November 27, 1953.
+              </p>
+              <p>
+                81. <strong>Boro Menkov</strong> (1919-41) was declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                82. <strong>Stanko Menjić</strong> (1910-44) was declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                83. <strong>Huso Merdžić</strong> (1906-44) was declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                84. <strong>Dušan Metlić</strong> (1912-42) was declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                85. <strong>Milan Mijalković</strong> (1897-41) was declared a
+                national hero on July 5, 1951.
+              </p>
+              <p>
+                86. <strong>Cvijetin Mijatović</strong> (1913-93) was awarded
+                the Order of National Hero on November 27, 1953.
+              </p>
+              <p>
+                87. <strong>Bora Mikin</strong> (1909-42) was declared a
+                national hero on July 6, 1953.
+              </p>
+              <p>
+                88. <strong>Vlado Miklavc Henrik</strong> (1918-44) was declared
+                a national hero on July 20, 1951.
+              </p>
+              <p>
+                89. <strong>Marko Milanović</strong> (1918-44) was declared a
+                national hero on July 6, 1953.
+              </p>
+              <p>
+                90. <strong>Vicko Milat</strong> (1914-2003) was awarded the
+                Order of National Hero on September 8, 1952.
+              </p>
+              <p>
+                91. <strong>Veljko Milatović</strong> (1921-2004) was awarded
+                the Order of National Hero on November 27, 1953.
+              </p>
+              <p>
+                92. <strong>Stjepan Milašinović</strong> (1910-41) was declared
+                a national hero on July 5, 1951.
+              </p>
+              <p>
+                93. <strong>Mirko Milevski</strong> (1923-43) was declared a
+                national hero on October 9, 1953.
+              </p>
+              <p>
+                94. <strong>Sinadin Milenović</strong> (1896-43) was declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                95. <strong>Rade Milićević</strong> (1910-43) was declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                96. <strong>Vojko Milovanović</strong> (1918-43) was declared a
+                national hero on December 20, 1951.
+              </p>
+              <p>
+                97. <strong>Živan Milovanović Ćata</strong> (1919-69) was
+                awarded the Order of National Hero on October 2, 1953.
+              </p>
+              <p>
+                98. <strong>Miodrag Milovanović Lune</strong> (1921-44) was
+                declared a national hero on May 20, 1944.
+              </p>
+              <p>
+                99. <strong>Miloje Milojević</strong> (1912-84) was declared a
+                national hero on September 6, 1942.
+              </p>
+              <p>
+                100. <strong>Rade Milojević</strong> (1918-44) was declared a
+                national hero on July 24, 1953.
+              </p>
+
+              <p>
+                101. <strong>Danica Milosavljević</strong> (1925-) was awarded
+                the Order of National Hero on July 6, 1953.
+              </p>
+
+              <p>
+                102. <strong>Jovan Milosavljević</strong> (1919-41) was declared
+                a national hero on July 6, 1953.
+              </p>
+
+              <p>
+                103. <strong>Milosav Milosavljević</strong> (1911-86) was
+                awarded the Order of National Hero on November 27, 1953.
+              </p>
+
+              <p>
+                104. <strong>Branko Milošević Metalac</strong> (1923-44) was
+                declared a national hero on November 27, 1953.
+              </p>
+
+              <p>
+                105. <strong>Tihomir Miloševski</strong> (1915-84) was awarded
+                the Order of National Hero on November 27, 1953.
+              </p>
+
+              <p>
+                106. <strong>Branko Milutinović Obren</strong> (1918-42) was
+                declared a national hero on July 5, 1951.
+              </p>
+
+              <p>
+                107. <strong>Dušan Milutinović</strong> (1912-44) was declared a
+                national hero on November 27, 1953.
+              </p>
+
+              <p>
+                108. <strong>Ivan Milutinović</strong> (1901-44) was declared a
+                national hero on July 6, 1945.
+              </p>
+
+              <p>
+                109. <strong>Ljubo Miljanović</strong> (1915-45) was declared a
+                national hero on November 27, 1953.
+              </p>
+
+              <p>
+                110. <strong>Nikola Miljanović Karaula</strong> (1914-44) was
+                declared a national hero on June 19, 1945.
+              </p>
+
+              <p>
+                111. <strong>Petar Miljanović</strong> (1916-42) was declared a
+                national hero on November 27, 1953.
+              </p>
+
+              <p>
+                112. <strong>Dragoje Miljatović Švarc</strong> (1908-41) was
+                declared a national hero on July 5, 1951.
+              </p>
+
+              <p>
+                113. <strong>Veljko Miljević</strong> (1916-42) was declared a
+                national hero on July 5, 1951.
+              </p>
+
+              <p>
+                114. <strong>Milančić Miljević</strong> (1909-83) was awarded
+                the Order of National Hero on December 20, 1951.
+              </p>
+
+              <p>
+                115. <strong>Joco Miljković</strong> (1920-84) was awarded the
+                Order of National Hero on November 27, 1953.
+              </p>
+
+              <p>
+                116. <strong>Rada Miljković</strong> (1917-42) was declared a
+                national hero on July 6, 1953.
+              </p>
+
+              <p>
+                117. <strong>Miloš Minić</strong> (1914-2003) was awarded the
+                Order of National Hero on October 9, 1953.
+              </p>
+
+              <p>
+                118. <strong>Milun Minić Šumadinac</strong> (1910-42) was
+                declared a national hero on July 6, 1953.
+              </p>
+
+              <p>
+                119. <strong>Mitar Minić</strong> (1918-89) was awarded the
+                Order of National Hero on July 24, 1953.
+              </p>
+
+              <p>
+                120. <strong>Slobodan Minic</strong> (1920-44) was declared a
+                national hero on October 9, 1953.
+              </p>
+
+              <p>
+                121. <strong>Ljubiša Miodragović</strong> (1913-41) was declared
+                a national hero on December 20, 1951.
+              </p>
+
+              <p>
+                122. <strong>Dimče Mirčev</strong> (1914-44) was declared a
+                national hero on August 2, 1949.
+              </p>
+
+              <p>
+                123. <strong>Vaso Miskin Crni</strong> (1918-45) was declared a
+                national hero on July 26, 1945.
+              </p>
+
+              <p>
+                124. <strong>Jovan Mitić</strong> (1920-78) was awarded the
+                Order of National Hero on July 6, 1953.
+              </p>
+
+              <p>
+                125. <strong>Jože Mitrič</strong> (1912-44) was declared a
+                national hero on November 27, 1953.
+              </p>
+
+              <p>
+                126. <strong>Danko Mitrov</strong> (1919-42) was declared a
+                national hero on July 26, 1945.
+              </p>
+
+              <p>
+                127. <strong>Vukica Mitrović</strong> (1912-41) was declared a
+                national hero on May 9, 1945.
+              </p>
+
+              <p>
+                128. <strong>Mika Mitrović Jarac</strong> (1912-41) was declared
+                a national hero on July 6, 1945.
+              </p>
+
+              <p>
+                129. <strong>Radomir Mitrović</strong> (1912-42) was declared a
+                national hero on July 10, 1952.
+              </p>
+
+              <p>
+                130. <strong>Ratko Mitrović</strong> (1913-41) was declared a
+                national hero on September 25, 1944.
+              </p>
+
+              <p>
+                131. <strong>Strahinja Mitrović</strong> (1922-42) was declared
+                a national hero on December 20, 1951.
+              </p>
+
+              <p>
+                132. <strong>Blagota Mićunović</strong> (1910-42) was declared a
+                national hero on July 5, 1951.
+              </p>
+
+              <p>
+                133. <strong>Veljko Mićunović</strong> (1916-82) was awarded the
+                Order of National Hero on November 27, 1953.
+              </p>
+
+              <p>
+                134. <strong>Vukosava Mićunović</strong> (1921-) was awarded the
+                Order of National Hero on July 10, 1952.
+              </p>
+
+              <p>
+                135. <strong>Rajko Mihajlović</strong> (1909-42) was declared a
+                national hero on November 27, 1953.
+              </p>
+
+              <p>
+                136. <strong>Zlate Mihajlovski</strong> (1926-44) was declared a
+                national hero on October 9, 1953.
+              </p>
+
+              <p>
+                137. <strong>Kiril Mihajlovski</strong> (1916-91) was awarded
+                the Order of National Hero on November 27, 1953.
+              </p>
+
+              <p>
+                138. <strong>Miho Mihajlovski</strong> (1915-2003) was awarded
+                the Order of National Hero on July 30, 1952.
+              </p>
+
+              <p>
+                139. <strong>Jože Mihevc</strong> (1922-44) was declared a
+                national hero on July 21, 1953.
+              </p>
+
+              <p>
+                140. <strong>Jože Mihelčič</strong> (1914-41) was declared a
+                national hero on July 20, 1951.
+              </p>
+
+              <p>
+                141. <strong>Slavko Mičić</strong> (1911-42) was declared a
+                national hero on July 23, 1952.
+              </p>
+
+              <p>
+                142. <strong>Spasoje Mičić</strong> (1921-85) was awarded the
+                Order of National Hero on November 27, 1953.
+              </p>
+
+              <p>
+                143. <strong>Esad Midžić</strong> (1917-42) was declared a
+                national hero on July 5, 1951.
+              </p>
+
+              <p>
+                144. <strong>Vera Miščević</strong> (1925-44) was declared a
+                national hero on November 27, 1953.
+              </p>
+
+              <p>
+                145. <strong>Svetomir Mladenović</strong> (1915-42) was declared
+                a national hero on October 9, 1953.
+              </p>
+
+              <p>
+                146. <strong>Sreten Mladenović Mika</strong> (1916-42) was
+                declared a national hero on October 9, 1953.
+              </p>
+
+              <p>
+                147. <strong>Angel Mojsovski</strong> (1923-2001) was awarded
+                the Order of National Hero on October 9, 1953.
+              </p>
+
+              <p>
+                148. <strong>Jakob Molek Mohor</strong> (1914-44) was declared a
+                national hero on November 27, 1953.
+              </p>
+
+              <p>
+                149. <strong>Milutin Morača</strong> (1914-2003) was awarded the
+                Order of National Hero on December 20, 1951.
+              </p>
+
+              <p>
+                150. <strong>Ivan Morđin Crni</strong> (1911-44) was declared a
+                national hero on December 14, 1949.
+              </p>
+
+              <p>
+                151. <strong>Cveto Močnik</strong> (1914-43) was declared a
+                national hero on November 27, 1953.
+              </p>
+
+              <p>
+                152. <strong>Jože Moškrič Ciril</strong> (1902-43) was declared
+                a national hero on December 20, 1951.
+              </p>
+
+              <p>
+                153. <strong>Dr. Dušan Mravljak</strong> (1914-43) was declared
+                a national hero on July 22, 1953.
+              </p>
+
+              <p>
+                154. <strong>Karlo Mrazović</strong> (1902-87) was awarded the
+                Order of National Hero on December 20, 1951.
+              </p>
+
+              <p>
+                155. <strong>Blažo Mraković</strong> (1911-51) was declared a
+                national hero on November 27, 1953.
+              </p>
+
+              <p>
+                156. <strong>Milan Mraović</strong> (1919-43) was declared a
+                national hero on December 14, 1949.
+              </p>
+
+              <p>
+                157. <strong>Ibrahim Mržljak Mali</strong> (1924-44) was
+                declared a national hero on July 24, 1953.
+              </p>
+
+              <p>
+                158. <strong>Marko Mrkoci</strong> (1918-97) was awarded the
+                Order of National Hero on May 9, 1952.
+              </p>
+
+              <p>
+                159. <strong>Slavko Mrkoci</strong> (1922-43) was declared a
+                national hero on May 9, 1952.
+              </p>
+
+              <p>
+                160. <strong>Andrija Mugoš</strong> (1910-2006) was awarded the
+                Order of National Hero on November 27, 1953.
+              </p>
+
+              <p>
+                161. <strong>Dušan Mugoša</strong> (1914-73) was awarded the
+                Order of National Hero on July 6, 1953.
+              </p>
+
+              <p>
+                162. <strong>Rako Mugoša</strong> (1920-47) was declared a
+                national hero on April 15, 1947.
+              </p>
+
+              <p>
+                163. <strong>Spiro Mugoš</strong> (1904-42) was declared a
+                national hero on August 7, 1942.
+              </p>
+
+              <p>
+                164. <strong>Dr. Safet Mujić</strong> (1908-42) was declared a
+                national hero on July 24, 1953.
+              </p>
+
+              <p>
+                165. <strong>Ivan Muker</strong> (1914-42) was declared a
+                national hero on October 8, 1953.
+              </p>
+
+              <p>
+                166. <strong>Dušan Munih Darko</strong> (1924-45) was declared a
+                national hero on December 20, 1951.
+              </p>
+
+              <p>
+                167. <strong>Slavko Munćan</strong> (1910-41) was declared a
+                national hero on July 6, 1953.
+              </p>
+
+              <p>
+                168. <strong>Milan Munjas</strong> (1923-43) was declared a
+                national hero on December 20, 1951.
+              </p>
+
+              <p>
+                169. <strong>Zećir Musić</strong> (1919-87) was awarded the
+                Order of National Hero on November 27, 1953.
+              </p>
+
+              <p>
+                170. <strong>Dragoslav Mutapović</strong> (1912-90) was awarded
+                the Order of National Hero on November 27, 1953.
+              </p>
             </Accordion.Body>
           </Accordion.Item>
           <Accordion.Item eventKey="3">
